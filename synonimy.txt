@@ -1,0 +1,18 @@
+Synonimy
+UBRANIA
+	garderoba
+	konfekcja
+	tekstylia
+	ubiór
+	strój
+	kreacja
+	ciuchy
+	odzienie
+BIELIZNA
+	odzież spodnia
+	konfekcja
+RAJSTOPY
+	rajtuzy
+	pończochy
+	nylony
+	rajtki
