@@ -1,0 +1,58 @@
+A2
+	Wiskitki	Morgi
+	Grodzisk Mazowiecki	Natolin, Tłuste
+	Pruszków
+	Konotopa
+	Mińsk Mazowiecki	Arynów
+	Janów	Jakubów
+	Kałuszyn	Ryczołek
+	Siedlce Wschód	Siedlce
+	Siedlce Południe	Siedlce
+	Siedlce Zachód	Siedlce	
+S2
+	Konotopa
+	Warszawa Zachód	Mory
+	Aleje Jerozolimskie	Michałowice
+	Włochy	Warszawa
+	Opacz	Opacz
+	Aleja Krakowska	Załuski
+	Warszawa Południe	Warszawa
+	Ursynów	Warszawa
+	Imielin	Warszawa
+	Natolin	Warszawa
+	Wilanów	Warszawa
+	Zawady	Warszawa
+	Wawer	Warszawa
+	Falenica	Warszawa
+	Warszawa Wschód	Warszawa
+	Lubelska Majdan
+S7
+	Konotopa
+	Włochy	Warszawa
+	Opacz Opacz-Mała
+	Warszawa Lotnisko	Warszawa
+S8
+	Konotopa
+	Warszawa Zachód	Warszawa
+	Warszawa Poznań	Warszawa
+	Bemowo	Stare Babice
+	Bemowo	Warszawa
+	Włochy	Warszawa
+	Powązkowska	Warszawa
+	Modlińska	Warszawa 
+	Radzymin Północ	Cegielnia
+	Mostówka
+	Wyszków Północ	Wyszków
+S17
+	Garwolin
+	Lubelska Majdan
+S79
+	Puławska	Warszawa
+	MPL Okęcie	Warszawa
+	Marynarska	Warszawa
+	Warszawa Lotnisko	Warszawa
+	
+	
+	
+	
+	
