@@ -1,1062 +1,0 @@
-Powiat białobrzeski
-Białobrzegi
-	S	Brzeska Wola	S	Brzeźce	S	Budy Brankowskie	S	Jasionna	S	Kamień	S	Mikówka	S	Okrąglik	S	Stawiszyn	S	Sucha	S	Szczyty
-	NS	Dąbrówka	NS	Kolonia Brzeźce	NS	Leopoldów	NS	Pohulanka	NS	Suski Młynek	NS	Wojciechówka
-	G	Turno
-Wyśmierzyce
-	S	Grzmiąca	S	Jabłonna	S	Kiedrzyn	S	Klamy	S	Korzeń	S	Kostrzyn	S	Kozłów	S	Kożuchów	S	Olszowa	S	Paprotno	S	Redlin	S	Romanów	S	Ulaski Grzmiąckie	S	Witaszyn	S	Wólka Kożuchowska
-	NS	Aleksandrów	NS	Brodek	NS	Górki	NS	Jakubówka	NS	Jeruzal	NS	Ulaski Stamirowskie
-	G 	Las Hulaski
-Promna
-	S	Biejków	S	Biejkowska Wola	S	Bronisławów	S	Broniszew	S	Daltrozów	S	Domaniewice	S	Falęcice	S	Falęcice-Parcela	S	Falęcice Wola	S	Góry	S	Jadwigów	S	Karolin	S	LisówLekarcice
-	S	Lekarcice Nowe
-	S	Lekarcice Stare
-	S	Mała Wieś
-	S	Olkowice
-	S	Olszamy
-	S	Osuchów
-	S	Pacew
-	S	Pelinów
-	S	Piekarty
-	S	Pnie
-	S	Promna
-	S	Promna-Kolonia
-	S	Przybyszew
-	S	Rykały	S	Sielce	S	Stanisławów
-	S	Wola Branecka
-	NS	Adamów	NS	Gajówka Jastrzębia 	NS	Helenów	NS	Mała Wysoka	NS	Piotrów	NS	Wojciechówka	NS	Zbrosza Mała
-Radzanów
-	S	Błeszno
-	S	Branica
-	S	Bukówno
-	S	Czarnocin
-	S	Grotki
-	S	Kadłubska Wola
-	S	Kozłów
-	S	Młodynie Dolne
-	S	Młodynie Górne
-	S	Ocieść
-	S	Podlesie
-	S	Radzanów
-	S	Ratoszyn
-	S	Rogolin
-	S	Smardzew
-	S	Śliwiny
-	S	Zacharzów
-	S	Żydy
-	NS	Gołosze	NS	Grabina	NS	Kępina 	NS	Ludwików	NS	Łukaszów	NS	Podgórze	NS	Wólka Kadłubska
-Stara Błotnica
-	S	Chruściechów	S	Czyżówka	S	Grodzisko	S	Jakubów	S	Kaszów	S	Łępin	S	Nowy Gózd	S	Nowy Kadłubek	S	Nowy Kiełbów	S	Pągowiec	S	Pierzchnia	S	Ryki	S	Siemiradz 	S	Stara Błotnica	S	Stare Siekluki	S	Stare Żdżary	S	Stary Gózd	S	Stary Kadłub	S	Stary Kadłubek	S	Stary Kiełbów	S	Stary Kobylnik	S	Stary Osów	S	Stary Sopot	S	Tursk	S	Żabia Wola
-	NS	Cupel
-	NS	Kadłubek-Podlas
-	NS	Krzywda
-	NS	Nowy Kobylnik
-	NS	Recica
-	NS	Trąbki
-	NS	Wólka Pierzchnieńska
-	NS	Zamłynie
-Stromiec
-	S	Biała Góra	S	Bobrek	S	Bobrek-Kolonia	S	Boska Wola	S	Boże	S	Dobieszyn	S	Ducka Wola	S	Kolonia Sielce	S	Krzemień	S	Ksawerów Nowy	S	Ksawerów Stary	S	Lipskie Budy	S	Małe Boże	S	Marianki	S	Niedabyl	S	Olszowa Dąbrowa	S	Piróg	S	Podlesie Duże	S	Pokrzywna	S	Sielce	S	Stromiec	S	Stromiecka Wola	S	Sułków
-	NS	Folwark
-	NS	Grabowy Las
-	NS	Kalinów
-	NS	Majdan
-	NS	Matyldzin
-	NS	Mokry Las
-	NS	Nadleśnictwo Dobieszyn
-	NS	Nętne
-	NS	Pietrusin
-	NS	Podgaje
-	NS	Podlesie Małe
-	NS	Radosz
-	NS	Stara Wieś
-	NS	Zabagnie
-	NS	Zachmiel
-Powiat ciechanowski
-Ciechanów
-	S	Baby	S	Baraki Chotumskie	S	Chotum	S	Chruszczewo	S	Gąski	S	Gorysze	S	Grędzice	S	Gumowo	S	Kanigówek	S	Kargoszyn	S	Kownaty Żędowe	S	Mieszki-Różki	S	Mieszki Wielkie	S	Modełka	S	Modła	S	Niechodzin	S	Niestum	S	Nowa Wieś	S	Nużewko	S	Nużewo	S	Pęchcin	S	Przążewo	S	Ropele	S	Rutki-Begny	S	Rutki-Borki	S	Rutki-Głowice	S	Rutki-Marszewice	S	Rydzewo	S	Rykaczewo	S	Rzeczki	S	Ujazdowo	S	Ujazdówek	S	Wola Pawłowska	S	Wólka Rydzewska
-	WN	Bardonki	WN	Gołoty	WN	Kownaty Wojnowe	WN	Krupy	WN	Mieszki-Atle	WN	Mieszki-Bardony	WN	Pieńki Niechodzkie	WN	Romanowo	WN	Rutki-Bronisze	WN	Sokołówek	WN	Szczepanki
-Glinojeck
-	W	Bielawy	W	Brody Młockie	W	Budy Rumockie	W	Dreglin	W	Dukt	W	Działy	W	Faustynowo	W	Gałczyn	W	Juliszewo	W	Kondrajec Pański	W	Kondrajec Szlachecki	W	Kowalewko	W	Krusz	W	Lipiny	W	Luszewo	W	Malużyn	W	Nowy Garwarz	W	Ogonowo	W	Ościsłowo	W	Płaciszewo	W	Rumoka	W	Sadek	W	Stare Szyjki	W	Stary Garwarz	W	Strzeszewo	W	Sulerzyż	W	Szyjki	W	Śródborze	W	Wkra	W	Wola Młocka	W	Wólka Garwarska	W	Zalesie	W	Zygmuntowo	W	Żeleźnia
-	O	Kamionka	OL	Kamionka	OL	Luszewo	OL	Kondrajec Pański
-Gołymin-Ośrodek
-	S	Garnowo Duże	S	Gogole Wielkie	S	Gołymin-Ośrodek	S	Gołymin-Południe	S	Gołymin-Północ	S	Konarzewo-Marcisze	S	Mierniki	S	Morawka	S	Nieradowo	S	Nowy Gołymin	S	Obiedzino Górne	S	Osiek-Aleksandrowo	S	Osiek Górny	S	Osiek-Wólka	S	Nasierowo-Dziurawieniec	S	Nasierowo Górne	S	Nowy Kałęczyn	S	Pajewo-Szwelice	S	Pajewo Wielkie	S	Ruszkowo	S	Smosarz-Dobki	S	Stare Garnowo	S	Watkowo	S	Wielgołęka	S	Wola Gołymińska	S	Wróblewko	S	Zawady Dworskie
-	P	Anielin	P	Gogole-Steczki	P	Konarzewo-Reczki	P	Konarzewo Wielkie	P	Konarzewo-Gołąbki	P	Konarzewo-Skuze	P	Nasierowo Dolne	P	Truszki	P	Osiek Dolny	P	Pajewo-Cyty	P	Pajewo-Rżyski	P	Rybakówka	P	Smosarz-Pianki	P	Stary Kałęczyn	P	Morawy-Kafasy	P	Morawy-Kopcie	P	Morawy-Laski	P	Morawy-Wicherki	P	Konarzewo-Sławki	P	Chruściele	P	Gostkowo	P	Wróblewo	P	Zawady Włościańskie
-Grudusk
-	S	Borzuchowo-Daćbogi	S	Grudusk	S	Humięcino	S	Humięcino-Andrychy	S	Humięcino-Koski	S	Kołaki Wielkie	S	Leśniewo Dolne	S	Leśniewo Górne	S	Łysakowo	S	Mierzanowo	S	Nieborzyn	S	Przywilcz	S	Pszczółki Górne	S	Purzyce-Rozwory	S	Purzyce-Trojany	S	Rąbież Gruduski	S	Sokołowo	S	Sokólnik	S	Strzelnia	S	Stryjewo Wielkie	S	Wiksin	S	Wiśniewo	S	Żarnowo	S	Zakrzewo Wielkie
-	P	Dębowo	P	Grudusk-Brzozowo	P	Grudusk-Olszak	P	Humięcino-Klary	P	Humięcino-Retki	P	Kołaki Małe	P	Mierzanowo-Kolonia	P	Polanka	P	Pszczółki-Czubaki	P	Pszczółki-Szerszenie	P	Stryjewo Małe	P	Zakrzewo Małe
-Ojrzeń
-	S	Baraniec	S	Brodzięcin	S	Bronisławie	S	Dąbrowa	S	Gostomin	S	Grabówiec	S	Halinin	S	Kałki	S	Kicin	S	Kownaty-Borowe	S	Kraszewo	S	Luberadz	S	Luberadzyk	S	Łebki Wielkie	S	Młock	S	Młock-Kopacze	S	Nowa Wieś	S	Obrąb	S	Ojrzeń	S	Przyrowa	S	Radziwie	S	Rzeszotko	S	Skarżynek	S	Wojtkowa Wieś	S	Wola Wodzyńska	S	Zielona	S	Żochy
-	NS	Lipówiec	NS	Osada-Wola	NS	Nowe Rzeszotko	NS	Trzpioły
-Opiniogóra Górna
-	W	Bacze	W	Bogucin	W	Chrzanowo	W	Chrzanówek	W	Czernice	W	Długołęka	W	Dzbonie	W	Elżbiecin	W	Goździe	W	Janowięta	W	Kąty	W	Klonowo	W	Kobylin	W	Kołaczków	W	Kołaki-Budzyno	W	Kołaki-Kwasy	W	Kotermań	W	Łaguny	W	Łęki	W	Opinogóra Dolna	W	Opinogóra Górna	W	Opinogóra-Kolonia	W	Pajewo-Króle	W	Pałuki	W	Patory	W	Pokojewo	W	Pomorze	W	Przedwojewo	W	Przytoka	W	Rąbież	W	Rembowo	W	Rembówko	W	Sosnowo	W	Wierzbowo	W	Wilkowo	W	Władysławowo	W	Wola Wierzbowska	W	Wólka Łanięcka	W	Załuże-Imbrzyki	W	Zygmuntowo
-	OL	Kołaczków	OL	Wierzbowo
-Regimin
-	W	Grzybowo	W	Jarluty Duże	W	Jarluty Małe	W	Kalisz	W	Karniewo	W	Kątki	W	Klice	W	Kliczki	W	Kozdroje	W	Koziczyn	W	Lekowo	W	Lekówiec	W	Lipa	W	Pawłowo	W	Pawłówko	W	Pniewo Wielkie	W	Pniewo-Czeruchy	W	Przybyszewo	W	Regimin	W	Szulmierz	W	Targonie	W	Trzcianka	W	Zeńbok
-Sońsk
-	S	Bądkowo	S	Bieńki-Karkuty	S	Bieńki-Śmietanki	S	Burkaty	S	Chrościce	S	Cichawy	S	Ciemniewko	S	Ciemniewo	S	Damięty-Narwoty	S	Drążewo	S	Gąsocin	S	Gołotczyzna	S	Gutków	S	Kałęczyn	S	Komory Błotne	S	Komory Dąbrowne	S	Kosmy-Pruszki	S	Koźniewo-Łysaki	S	Koźniewo Średnie	S	Koźniewo Wielkie	S	Łopacin	S	Marusy	S	Mężenino-Węgłowice	S	Niesłuchy	S	Olszewka	S	Ostaszewo	S	Pękawka	S	Sarnowa Góra	S	Skrobocin	S	Soboklęszcz	S	Sońsk	S	Spądoszyn	S	Strusin	S	Strusinek	S	Szwejki	S	Ślubowo	S	Wola Ostaszewska
-	P	Bieńki-Skrzekoty	P	Bratne	P	Chrościce-Łyczki	P	Dziarno	P	Janówek	P	Marianowo	P	Pogąsty
-Powiat garwoliński
-Garwolin
-	S	Budy Uśniackie	S	Czyszkówek	S	Ewelin	S	Górki	S	Izdebnik	S	Jagodne	S	Krystyna	S	Lucin-Natalia	S	Miętne	S	Niecieplin	S	Nowy Puznów	S	Parcele-Rębków	S	Rębków	S	Ruda Talubska	S	Sławiny	S	Stara Huta	S	Stary Puznów	S	Stoczek	S	Sulbiny	S	Taluba-Feliksin	S	Unin-Kolonia	S	Uśniaki	S	Wilkowyja	S	Wola Rębkowska	S	Wola Władysławowska	S	Władysławów	S	Zakącie
-	P	Henryczyn	P	Huta Garwolińska	P	Marianów	P	Siedem Mórg
-Łaskarzew
-	S	Aleksandrów	S	Budel	S	Budy Krępskie	S	Celinów	S	Dąbrowa	S	Dąbrowa-Kolonia	S	Grabina	S	Izdebno	S	Izdebno-Kolonia	S	Kacprówek	S	Krzywda	S	Ksawerynów	S	Leokadia	S	Lewików	S	Lipniki	S	Melanów	S	Nowy Pilczyn	S	Sośninka	S	Stary Helenów	S	Stary Pilczyn	S	Uścieniec	S	Wanaty	S	Wola Łaskarzewska	S	Wola Rowska	S	Zygmunty
-	P	Baranicha	P	Janków	P	Nowy Helenów	P	Polesie Rowskie	P	Rowy	P	Rywociny	P	Wiktorzyn	P	Włodków
-Pilawa
-	S	Gocław	S	Jaźwiny	S	Kalonka	S	Lipówki	S	Łucznica	S	Niesadna	S	Niesadna-Przecinka	S	Puznówka	S	Trąbki	S	Wygoda	S	Żelazna
-	K	Grzebowilk	K	Resztówka	K	Zawadka
-	O 	Rogalec
-Żelechów
-	S	Gąsiory	S	Gózdek 
-	CW	Krupa	S	Huta Żelechowska	S	Janówek 
-	CW	Michalin	S	Kalinów
-	CW	Goniwilk-Las	S	Kotłówka
-	CW	Budki	S	Łomnica
-	CW	Nad Rzeką	S	Nowy Goniwilk	S	Nowy Kębłów	S	Piastów
-	CW	Podlasie	S	Sokolniki	S	Stary Goniwilk	S	Stary Kębłów
-	CW	Jezioro	CW	Pod Lasem	S	Stefanów 
-	CW	Budki	CW	Kałuskie	CW	Kontrowers	CW	Podwierzbie	S	Władysławów	S	Wola Żelechowska	S	Zakrzówek
-	NS	Budki	NS	Ostrożeń Trzeci
-	CW	Józefów
-Borowie
-	S	Brzuskowola	S	Chromin	S	Dudka	S	Filipówka	S	Głosków	S	Gościewicz	S	Gózd	S	Iwowe	S	Jaźwiny	S	Kamionka	S	Laliny	S	Łętów	S	Łopacianka	S	Nowa Brzuza	S	Stara Brzuza	S	Słup Pierwszy	S	Słup Drugi	S	Wilchta
-	P	Borowie-Kolonia	P	Chrominek	P	Czarnów	P	Głosków-Kolonia	P	Gózd-Kolonia	P	Podlaliny
-Górzno
-	S	Chęciny	S	Gąsów	S	Goździk	S	Górzno-Kolonia	S	Józefów	S	Kobyla Wola	S	Łąki	S	Mierżączka	S	Piaski	S	Potaszniki	S	Reducin	S	Samorządki	S	Samorządki-Kolonia	S	Unin	S	Wólka Ostrożeńska
-	P	Antonin
-Maciejowice
-	S	Antoniówka Świerżowska	S	Antoniówka Wilczkowska	S	Bączki	S	Budy Podłęskie	S	Domaszew	S	Kawęczyn	S	Kępa Podwierzbiańska	S	Kobylnica	S	Kochów	S	Kochów Kępa	S	Kraski Dolne	S	Kraski Górne	S	Leonów	S	Maciejowice	S	Malamówka	S	Nowe Kraski	S	Oblin	S	Oblin-Grądki	S	Oblin Korczunek	S	Oronne	S	Ostrów	S	Pasternik	S	Podłęż	S	Podoblin	S	Podstolice	S	Podwierzbie	S	Podzamcze	S	Pogorzelec	S	Polik	S	Przewóz	S	Samogoszcz	S	Strych	S	Topolin	S	Tyrzyn	S	Uchacze	S	Wróble-Wargocin
-	OL	Bączki	NS	Domaszew-Młyn	NS	Gulki	NS	Kobylnica-Kolonia	NS	Konopatka	NS	Szkółki Krępskie	NS	Zakręty
-Miastków Kościelny
-	S	Brzegi	S	Glinki	S	Kruszówka	S	Kujawy	S	Miastków Kościelny	S	Oziemkówka	S	Przykory	S	Ryczyska	S	Stary Miastków	S	Wola Miastkowska	S	Zabruzdy	S	Zabruzdy-Kolonia	S	Zasiadały	S	Zgórze	S	Zwola	S	Zwola Poduchowna
-	P 	Miastków
-Parysów
-	S	Choiny	S	Kozłów	S	Łukówiec	S	Poschła	S	Słup	S	Starowola	S	Stodzew	S	Wola Starogrodzka	S	Żabieniec
-	NS	Józinek
-	NS	Pszonka
-Sobolew
-	S	Anielów	S	Chotynia	S	Godzisz	S	Gończyce	S	Grabniak	S	Kaleń Drugi	S	Kaleń Pierwszy	S	Kobusy	S	Kownacica	S	Nowa Krępa	S	Ostrożeń Drugi	S	Ostrożeń Pierwszy	S	Przyłęk	S	Sobolew (3 sołectwa)	S	Sokół	S	Trzcianka
-	NS	Chotynia-Kolonia	NS	Chrusty	NS	Drobina	NS	Emerytka	NS	Karolinów	NS	Leonorów	NS	Mazurki	NS	Michałki	NS	Nowe Kobusy	NS	Nowiny Sobolewskie	NS	Osowe	NS	Piaski	NS	Podługi	NS	Poręby	NS	Potok	NS	Pstrąg	NS	Stefanów	NS	Teofilów	NS	Ustronie	NS	Uśniak	NS	Walerków	NS	Wiktorzyn	NS	Zabaranie	NS	Zaprzytnica	NS	Zosinek
-Trojanów
-	S	Babice	S	Budziska	S	Damianów	S	Derlatka	S	Dębówka	S	Dudki	S	Elżbietów	S	Jabłonowiec	S	Komory	S	Korytnica	S	Kozice	S	Kruszyna	S	Majdan	S	Mroków	S	Nowiny Życkie	S	Ochodne	S	Piotrówek	S	Podebłocie	S	Prandocin	S	Ruda	S	Skruda	S	Trojanów	S	Więcków	S	Wola Korycka Dolna	S	Wola Korycka Górna	S	Wola Życka	S	Żabianka	S	Życzyn
-	NS	Babice-Kolonia	NS	Mika	NS	Mościska	NS	Stasin	NS	Życzyn(część wsi)
-Wilga
-	S	Celejów	S	Cyganówka	S	Goźlin Górny	S	Goźlin Mały	S	Holendry	S	Mariańskie Porzecze	S	Nieciecz	S	Nowe Podole	S	Nowy Żabieniec	S	Ostrybór	S	Ruda Tarnowska	S	Skurcza	S	Stare Podole	S	Stary Żabieniec	S	Tarnów	S	Trzcianka	S	Uścieniec-Kolonia	S	Wicie	S	Wilga	S	Wólka Gruszczyńska	S	Zakrzew
-	NS	Borowina	NS	Malinówka	NS	Olszynka	NS	Osiedle Wilga	NS	Podgórze	NS	Polewicz	NS	Zarzecze
-Powiat gostyniński
-Gostynin
-	S	Anielin	S	Baby Dolne-Rybne	S	Baby Górne-Zieleniec	S	Belno-Pomarzanki	S	Białe-Antoninów	S	Białotarsk	S	Bierzewice	S	Bielawy	S	Bolesławów	S	Budy Kozickie	S	Choinek	S	Dąbrówka	S	Emilianów	S	Feliksów	S	Gaśno (wieś w województwie mazowieckim)	S	Gorzewo-Marianów Lucieński	S	Górki Drugie	S	Gulewo	S	Halinów	S	Helenów	S	Huta Nowa-Zuzinów	S	Jastrzębia	S	Jaworek	S	Józefków	S	Kazimierzów	S	Kiełpieniec	S	Klusek	S	Kozice	S	Krzywie	S	Legarda	S	Leśniewice-Lisica	S	Lucień	S	Łokietnica	S	Marianka-Górki Pierwsze	S	Marianów Sierakowski	S	Miałkówek-Budy Lucieńskie	S	Mysłownia Nowa	S	Nagodów-Rumunki	S	Niecki	S	Nowa Wieś	S	Osiny	S	Podgórze	S	Rębów	S	Rogożewek	S	Sałki-Lipa-Ruszków	S	Sieraków	S	Sierakówek	S	Skrzany	S	Sokołów	S	Solec-Wrząca	S	Stanisławów Skrzański	S	Stefanów	S	Strzałki-Osada	S	Zaborów Nowy-Huta Zaborowska	S	Zaborów Stary-Stanisławów	S	Zwoleń
-	NS	Aleksandrynów	NS	Gajówka Sokołowska	NS	Gaśno (gajówka)	NS	Kleniew	NS	Mniszek	NS	Piotrów	NS	Polesie	NS	Skoki
-Pacyna
-	S	Anatolin	S	Janówek	S	Luszyn	S	Łuszczanówek	S	Pacyna	S	Podatkówek	S	Podczachy	S	Przylaski	S	Radycza	S	Rakowiec	S	Raków	S	Remki	S	Robertów	S	Rybie	S	Sejkowice	S	Skrzeszewy	S	Słomków	S	Wola Pacyńska
-	NS	Czarnów	NS	Czesławów	NS	Kamionka	NS	Kąty	NS	Łuszczanów Drugi	NS	Model	NS	Poddębina-Gajówka	NS	Rezlerka	NS	Romanów
-Sanniki
-	S	Aleksandrów	S	Brzezia	S	Brzeziny	S	Czyżew	S	Działy	S	Krubin	S	Lasek	S	Lubików	S	Lwówek	S	Mocarzewo	S	Nowy Barcik	S	Osmolin	S	Osmólsk Górny	S	Sielce	S	Staropol	S	Stary Barcik	S	Szkarada	S	Wólka Niska	S	Wólka Wysoka
-	OL	Mocarzewo 
-	OL	Wólka Wysoka
-Szczawin Kościelny
-	S	Adamów-Gołas-Chorążek	S	Annopol	S	Białka	S	Budy Kaleńskie-Kaleń	S	Dobrów	S	Helenów	S	Helenów II -Jesionka	S	Helenów Słupski	S	Helenów Trębski-Trębki	S	Holendry Dobrowskie-Teodorów	S	Józefków-Krzymów	S	Kamieniec	S	Kaźmierków-Mellerów	S	Kunki-Gorzewo-Kolonia	S	Łuszczanów Pierwszy	S	Misiadla-Mościska	S	Modrzew-Lubieniek	S	Osowia-Tuliska	S	Pieryszew	S	Reszki-Staw	S	Słup-Janki	S	Smolenta	S	Stefanów Suserski	S	Suserz-Budki Suserskie	S	Swoboda	S	Szczawinek-Sewerynów	S	Szczawin Borowy-Kolonia-Andrzejów	S	Szczawin Borowy-Wieś-Przychód	S	Szczawin Kościelny	S	Waliszew	S	Witoldów	S	Wola Trębska-Wola Trębska-Parcel
-	NS	Feliksów Dobrowski	NS	Helenów Drugi	NS	Leopoldów	NS	Moczydła	NS	Potrzasków	L	Trębki	NS	Trębki-Leśniczówka	NS	Wandzin
-Powiat grodziski
-Grodzisk Mazowiecki
-	S	Adamowizna	S	Chlebnia	S	Chrzanów Duży	S	Chrzanów Mały	S	Czarny Las	S	Izdebno Kościelne	S	Izdebno Nowe	S	Janinów	S	Kady	S	Kałęczyn	S	Kłudno Nowe	S	Kłudno Stare	S	Kłudzienko	S	Kozerki	S	Kozery Nowe	S	Kozery	S	Kraśnicza Wola	S	Książenice	S	Makówka	S	Marynin	S	Mościska	S	Natolin	S	Odrano-Wola	S	Opypy	S	Radonie	S	Szczęsne	S	Tłuste	S	Urszulin	S	Wężyk	S	Władków	S	Wólka Grodziska	S	Zabłotnia	S	Żuków
-	NS	Adamów
-	NS	Dąbrówka
-	NS	Zapole
-Baranów
-	S	Baranów	S	Basin	S	Boża Wola	S	Bronisławów	S	Buszyce	S	Cegłów	S	Drybus	S	Gole	S	Gongolina	S	Holendry Baranowskie	S	Karolina	S	Kaski	S	Kopiska	S	Murowaniec	S	Nowa Pułapina	S	Osiny	S	Regów	S	Stanisławów	S	Stara Pułapina	S	Strumiany	S	Wyczółki	S	Żaby
-Jaktorów
-	S	Bieganów	S	Budy-Grzybek	S	Budy Michałowskie	S	Budy Zosine	S	Grądy	S	Henryszew	S	Jaktorów A	S	Jaktorów B	S	Jaktorów-Kolonia	S	Międzyborów	S	Sade Budy	S	Stare Budy A	S	Stare Budy B
-	NS	Chylice	NS	Chylice-Kolonia	NS	Chyliczki	NS	Grabnik	NS	Jaktorów-Osada	NS	Kołaczek	NS	Mariampol	NS	Maruna
-Żabia Wola
-	S	Bartoszówka	S	Bieniewiec	S	Bolesławek	S	Bukówka	S	Ciepłe	S	Grzegorzewice	S	Grzymek	S	Huta Żabiowolska	S	Jastrzębnik	S	Kaleń	S	Kaleń-Towarzystwo	S	Lasek	S	Musuły	S	Oddział	S	Ojrzanów	S	Ojrzanów-Towarzystwo	S	Osowiec
-	S	Osowiec-Parcela	S	Petrykozy	S	Pieńki Słubickie	S	Pieńki Zarębskie	S	Piotrkowice	S	Siestrzeń	S	Skuły	S	Słubica A	S	Słubica B	S	Słubica-Wieś	S	Władysławów	S	Wycinki Osowskie	S	Zaręby	S	Żabia Wola	S	Żelechów
-	NS	Ciepłe A	NS	Grzmiąca	NS	Józefina	NS	Lisówek	NS	Ojcówek	NS	Przeszkoda	NS	Redlanka	NS	Rumianka	NS	Słubica Dobra	NS	Stara Bukówka	NS	Zalesie
-Powiat grójecki
-Grójec
-	W	Bikówek	W	Chudowola	W	Częstoniew	W	Częstoniew-Kolonia	W	Dębie	W	Duży Dół	W	Falęcin	W	Głuchów	W	Gościeńczyce	W	Grudzkowola	W	Janówek	W	Kępina	W	Kobylin	W	Kociszew	W	Kośmin	W	Krobów	W	Las Lesznowolski	W	Lesznowola	W	Lisówek	W	Maciejowice	W	Marianów	W	Mieczysławówka	W	Mięsy	W	Mirowice	W	Pabierowice	W	Piekiełko	W	Podole	W	Skurów	W	Słomczyn	W	Szczęsna	W	Uleniec	W	Wola Krobowska	W	Wola Worowska	W	Worów	W	Wólka Turowska	W	Wysoczyn	W	Zakrzewska Wola	W	Zalesie	W	Załącze	W	Żyrówek
-Mogielnica
-	S	Borowe	S	Brzostowiec	S	Cegielnia	S	Dalboszek	S	Dobiecin	S	Dylew	S	Dziarnów	S	Dziunin	S	Dąbrowa	S	Dębnowola	S	Gracjanów	S	Górki-Izabelin	S	Główczyn	S	Główczyn-Towarzystwo	S	Jastrzębia	S	Jastrzębia Stara	S	Kaplin	S	Kozietuły	S	Kozietuły Nowe	S	Marysin	S	Michałowice	S	Miechowice	S	Odcinki Dylewskie	S	Otaląż	S	Otalążka	S	Pawłowice	S	Popowice	S	Pączew	S	Stamirowice	S	Stryków	S	Tomczyce	S	Ulaski Gostomskie	S	Wodziczna	S	Wólka Gostomska	S	Wężowiec	S	Ługowice	S	Ślepowola	S	Świdno
-Nowe Miasto nad Pilicą
-	S	Bełek	S	Bieliny	S	Borowina	S	Dąbrowa-Józefów	S	Domaniewice	S	Godzimierz	S	Gostomia	S	Jankowice	S	Łęgonice	S	Nowe Bieliny	S	Nowe Łęgonice	S	Nowe Strzałki-Zalesie	S	Pobiedna	S	Promnik	S	Prosna-Gilówka	S	Rokitnica	S	Rosocha	S	Rudki	S	Sacin	S	Sańbórz	S	Strzałki	S	Świdrygały	S	Wał	S	Wierzchy	S	Wola Pobiedzińska	S	Wólka Ligęzowska-Wólka Magierowa	S	Żdżarki	S	Żdżary
-	NS	Czerwona Karczma	NS	Waliska
-Warka
-	W	Bończa	W	Borowe	W	Branków	W	Brzezinki	W	Budy Michałowskie	W	Budy Opożdżewskie	W	Dębnowola	W	Gąski	W	Gośniewice	W	Grażyna	W	Grzegorzewice		W	Gucin	W	Hornigi	W	Kalina	W	Kazimierków	W	Klonowa Wola	W	Konary	W	Krześniaków	W	Laski	W	Lechanice	W	Magierowa Wola	W	Michalczew	W	Michałów Dolny	W	Michałów Górny	W	Michałów-Parcele	W	Murowanka	W	Niwy Ostrołęckie	W	Nowa Ostrołęka	W	Nowa Wieś	W	Nowe Biskupice	W	Opożdżew	W	Ostrołęka	W	Ostrówek	W	Palczew	W	Palczew-Parcela	W	Piaseczno	W	Pilica	W	Podgórzyce	W	Prusy	W	Przylot	W	Stara Warka	W	Stare Biskupice	W	Wichradz	W	Wola Palczewska	W	Wrociszew	W	Zastruże
-Belsk Duży
-	S	Aleksandrówka	S	Anielin	S	Bartodzieje	S	Belsk Duży	S	Belsk Mały	S	Bodzew	S	Boruty	S	Daszewice-Rożce	S	Grotów	S	Jarochy	S	Julianów	S	Koziel	S	Kussy	S	Lewiczyn	S	Łęczeszyce	S	Maciejówka	S	Mała Wieś	S	Oczesały	S	Odrzywołek	S	Rębowola	S	Rosochów	S	Sadków Duchowny	S	Sadków-Kolonia	S	Skowronki	S	Stara Wieś	S	Tartaczek	S	Widów	S	Wilczogóra	S	Wilczy Targ	S	Wola Łęczeszycka	S	Wola Starowiejska	S	Wólka Łęczeszycka	S	Zaborów	S	Zaborówek
-	P	Gajówka Lewiczyn	P	Gajówka Łęczeszyce	P	Gajówka Modrzewina	P	Sadków Szlachecki	P	Złota Góra
-Błędów
-	W	Annopol	W	Bielany	W	Błędów	W	Błogosław	W	Bolesławiec Leśny	W	Borzęcin	W	Bronisławów	W	Cesinów-Las	W	Czesławin	W	Dańków	W	Dąbrówka Nowa	W	Dąbrówka Stara	W	Fabianów	W	Głudna	W	Golianki	W	Goliany	W	Gołosze	W	Huta Błędowska	W	Ignaców	W	Jadwigów	W	Jakubów	W	Janki	W	Julianów	W	Kacperówka	W	Katarzynów	W	Kazimierki	W	Lipie	W	Łaszczyn	W	Machnatka	W	Machnatka-Parcela	W	Nowy Błędów	W	Oleśnik	W	Pelinów	W	Potencjanów	W	Roztworów	W	Sadurki Sakówka	W	Śmiechówek	W	Tomczyce	W	Trzylatków Duży	W	Trzylatków-Parcela	W	Wilcze Średnie	W	Wilhelmów	W	Wilkonice	W	Wilków Drugi	W	Wilków Pierwszy	W	Wilków Trzeci	W	Wólka Dańkowska	W	Wólka Gołoska	W	Wólka Kurdybanowska	W	Zalesie	W	Załuski	W	Ziemięcin	W	Zofiówka
-Chynów
-	S	Adamów Rososki	S	Barcice Drwalewskie	S	Barcice Rososkie	S	Budy Sułkowskie	S	Budziszyn	S	Budziszynek	S	Chynów	S	Dąbrowa Duża	S	Dobiecin	S	Drwalew	S	Drwalewice	S	Edwardów	S	Franciszków	S	Gaj Żelechowski	S	Gliczyn	S	Grobice	S	Henryków	S	Jakubowizna	S	Janów	S	Jurandów	S	Krężel	S	Kukały	S	Lasopole	S	Ludwików	S	Machcin	S	Marianów	S	Martynów	S	Marynin	S	Mąkosin	S	Milanów	S	Nowe Grobice	S	Ostrowiec	S	Pawłówka	S	Pieczyska	S	Piekut	S	Przyłom	S	Rososz	S	Rososzka	S	Staniszewice	S	Sułkowice	S	Sułkowice Osiedle	S	Watraszew	S	Węszelówka	S	Widok	S	Wola Kukalska	S	Wola Pieczyska	S	Wola Żyrowska	S	Wygodne	S	Zalesie	S	Zawady	S	Żelazna	S	Żelechów	S	Żyrów
-	P	Adamów Drwalewski	P	Grabina	P	Hipolitów	P	Janina	P	Kozłów	P	Nowy Żelechów	P	Sikuty	P	Wola Chynowska	P	Zadębie	P	Zbyszków
-Goszczyn
-	W	Bądków	W	Długowola	W	Goszczyn	W	Jakubów	W	Józefów	W	Kolonia Bądków	W	Modrzewina	W	Nowa Długowola	W	Olszew	W	Romanów	W	Sielec
-Jasieniec
-	W	Alfonsowo	W	Boglewice	W	Bronisławów	W	Czachów	W	Dobra Wola	W	Franciszków	W	Gniejewice	W	Gołębiów	W	Gośniewice	W	Ignaców	W	Jasieniec	W	Justynówka	W	Koziegłowy	W	Kurczowa Wieś	W	Leżne	W	Łychowska Wola	W	Łychów	W	Marynin	W	Michałówka	W	Miedzechów	W	Nowy Miedzechów	W	Olszany	W	Orzechowo	W	Osiny	W	Przydróżek	W	Ryszki	W	Rytomoczydła	W	Stefanków	W	Szymanów	W	Trzcianka	W	Turowice	W	Tworki	W	Warpęsy	W	Wierzchowina	W	Wola Boglewska	W	Zbrosza Duża
-Pniewy
-	S	Aleksandrów	S	Budki Petrykowskie	S	Ciechlin	S	Cychry	S	Czekaj	S	Daszew	S	Dąbrówka	S	Gajówka Petrykozy	S	Ginetówka	S	Huta Jeżewska	S	Jeziora	S	Jeziora-Nowina	S	Jeziórka	S	Józefów	S	Jurki	S	Karolew	S	Kocerany	S	Kolonia Jurki	S	Konie	S	Kornelówka	S	Kruszew	S	Kruszewek	S	Michrów	S	Michrówek	S	Michrów-Stefów	S	Natalin	S	Nowina-Przęsławice	S	Osieczek	S	Pniewy	S	Przęsławice	S	Przykory	S	Rosołów	S	Teodorówka	S	Tomaszówka	S	Wiatrowiec	S	Wilczoruda	S	Wilczoruda-Parcela	S	Witalówka	S	Wola Grabska	S	Wola Pniewska	S	Wólka Załęska	S	Załęże Duże
-Powiat kozienicki
-Kozienice
-	S	Aleksandrówka	S	Brzeźnica	S	Chinów	S	Dąbrówki	S	Holendry Kozienickie	S	Holendry Kuźmińskie	S	Janików	S	Janików-Folwark	S	Janów	S	Kępa Bielańska	S	Kępa Wólczyńska	S	Kępeczki	S	Kociołki	S	Kuźmy	S	Łaszówka	S	Łuczynów	S	Majdany	S	Nowa Wieś	S	Nowiny	S	Opatkowice	S	Piotrkowice	S	Przewóz	S	Psary	S	Ruda	S	Ryczywół	S	Samwodzie	S	Stanisławice	S	Staszów	S	Śmietanki	S	Świerże Górne	S	Wilczkowice Górne	S	Wójtostwo	S	Wola Chodkowska	S	Wólka Tyrzyńska	S	Wólka Tyrzyńska B
-	NS	Budy	NS	Cudów	NS	Cztery Kopce	NS	Holendry Piotrkowskie	NS	Katarzynów	NS	Michałówka	NS	Selwanówka	NS	Wymysłów
-Garbatka-Letnisko
-	S	Anielin	S	Bąkowiec	S	Bobki	S	Bogucin	S	Brzustów	S	Garbatka Długa	S	Garbatka Nowa	S	Garbatka-Dziewiątka	S	Garbatka-Letnisko	S	Garbatka-Zbyczyn	S	Molendy	S	Ponikwa
-Głowaczów
-	S	Adamów	S	Bobrowniki	S	Brzóza	S	Cecylówka-Brzózka	S	Cecylówka Głowaczowska	S	Chodków	S	Dąbrówki	S	Emilów	S	Głowaczów	S	Grabnowola	S	Helenów	S	Henryków	S	Ignacówka Bobrowska	S	Ignacówka Grabnowolska	S	Jasieniec	S	Klementynów	S	Kosny	S	Leżenice	S	Lipa	S	Lipska Wola	S	Łukawa	S	Łukawska Wola	S	Maciejowice	S	Mariampol	S	Marianów	S	Michałów	S	Miejska Dąbrowa	S	Moniochy	S	Podmieście	S	Przejazd	S	Rogożek	S	Sewerynów	S	Stanisławów	S	Stawki	S	Studnie	S	Studzianki Pancerne	S	Ursynów	S	Wólka Brzózka	S	Zieleniec
-	NS	Działki Brzóskie	NS	Grabnowola-Kolonia	NS	Helenówek	NS	Józefów	NS	Mała Wieś	NS	Michałówek	NS	Zadąbrowie
-	L	Chodków
-	L	Nadleśnictwo Studzianki
-Gniewoszów
-	S	Boguszówka	S	Borek	S	Gniewoszów	S	Kociołek	S	Marianów	S	Markowola	S	Markowola-Kolonia	S	Mieścisko	S	Oleksów	S	Regów Stary	S	Sarnów	S	Sławczyn	S	Wólka Bachańska	S	Wysokie Koło	S	Zalesie	S	Zdunków	S	Zwola
-	NS	Podmieście
-	NS	Regów Nowy
-	NS	Stawki
-Grabów nad Pilicą
-	S	Augustów	S	Broncin	S	Brzozówka	S	Budy Augustowskie	S	Celinów	S	Cychrowska Wola	S	Czerwonka	S	Dąbrówki	S	Dziecinów	S	Edwardów	S	Grabina	S	Grabowska Wola	S	Grabów nad Pilicą	S	Grabów Nowy	S	Koziołek	S	Lipinki	S	Łękawica	S	Małęczyn	S	Nowa Wola	S	Paprotnia	S	Strzyżyna	S	Tomczyn	S	Utniki	S	Wyborów	S	Zakrzew	S	Zwierzyniec
-	WN	Grabów Zaleśny
-	WN	Kępa Niemojewska
-	O	Grabów
-	G	Gajówka Czerwonka
-	G	Gajówka Paprotnia
-	G	Kukawka
-	L	Kępa Niemojewska 
-	L	Strzyżyna 
-Magnuszew
-	S	Aleksandrów	S	Anielin	S	Basinów	S	Boguszków	S	Bożówka	S	Chmielew	S	Dębowola	S	Gruszczyn	S	Grzybów	S	Kępa Skórecka	S	Kłoda	S	Kolonia Rozniszew	S	Kurki	S	Latków	S	Magnuszew	S	Mniszew	S	Osiemborów	S	Ostrów	S	Przewóz Stary	S	Przewóz Tarnowski	S	Przydworzyce	S	Rękowice	S	Rozniszew	S	Trzebień	S	Tyborów	S	Urszulin	S	Wilczkowice Dolne	S	Wilczowola	S	Winduga	S	Wola Magnuszewska	S	Wólka Tarnowska	S	Zagroby	S	Żelazna Nowa	S	Żelazna Stara
-	L	Leśniczówka Bożówka
-	OL	Trzebień 
-Sieciechów
-	S	Głusiec	S	Kępice	S	Łoje	S	Mozolice Duże	S	Mozolice Małe	S	Nagórnik	S	Nowe Słowiki	S	Opactwo	S	Sieciechów	S	Słowiki-Folwark	S	Stare Słowiki	S	Wola Klasztorna	S	Wólka Wojcieszkowska	S	Występ	S	Zajezierze	S	Zbyczyn
-	NS	Kresy
-	NS	Leśna Rzeka
-	NS	Przewóz
-Powiat legionowski
-Serock
-	S	Bolesławowo	S	Borowa Góra	S	Cupel	S	Dębe	S	Dębinki	S	Dosin	S	Gąsiorowo	S	Guty	S	Izbica	S	Jachranka	S	Jadwisin	S	Kania Nowa	S	Kania Polska	S	Karolino	S	Ludwinowo Dębskie	S	Ludwinowo Zegrzyńskie	S	Łacha	S	Marynino	S	Nowa Wieś	S	Skubianka	S	Stanisławowo	S	Stasi Las	S	Szadki	S	Święcienica	S	Wola Kiełpińska	S	Wierzbica	S	Wola Smolana	S	Zabłocie	S	Zalesie Borowe
-	NS	Skubianka-Kolonia
-	NS	Wola Kiełpińska
-	NS	Zegrze
-	NS	Zegrzynek
-Jabłonna
-	S	Boża Wola	S	Chotomów	S	Dąbrowa Chotomowska	S	Jabłonna	S	Janówek Drugi	S	Rajszew	S	Skierdy	S	Suchocin	S	Trzciany	S	Wólka Górska
-	P	Bagno
-	P	Bukowiec
-	G	Rajszew
-	G	Skierdy
-Nieporęt
-	S	Aleksandrów	S	Beniaminów	S	Białobrzegi	S	Izabelin	S	Józefów	S	Kąty Węgierskie	S	Michałów-Grabina	S	Nieporęt	S	Rembelszczyzna	S	Rynia	S	Stanisławów Pierwszy	S	Stanisławów Drugi	S	Wola Aleksandra	S	Wólka Radzymińska	S	Zegrze Południowe
-	O	Białobrzegi
-	P	Biele
-	P	Czarna Struga
-	P	Dąbkowizna
-	O	Kąty Węgierskie
-	P	Kontrowers
-	P	Łysa Góra
-	OL	Wólka Radzymińska
-	P	Zegrze-Osada
-Wieliszew
-	S	Góra
-	S	Janówek Pierwszy
-	S	Kałuszyn
-	S	Komornica
-	S	Krubin
-	S	Łajski
-	S	Michałów-Reginów
-	S	Olszewnica Nowa
-	S	Olszewnica Stara
-	S	Poddębie
-	S	Sikory
-	S	Skrzeszew
-	S	Topolina
-	S	Wieliszew
-	OL	Poniatów
-Powiat lipski
-Lipsko
-	W	Babilon	W	Borowo	W	Boży Dar	W	Daniszów	W	Dąbrówka	W	Dąbrówka Daniszewska	W	Długowola Druga	W	Długowola Pierwsza	W	Gołębiów	W	Gruszczyn	W	Helenów	W	Huta	W	Jakubówka	W	Jelonek	W	Józefów	W	Katarzynów	W	Krępa Górna	W	Krępa Kościelna	W	Leopoldów	W	Leszczyny	W	Lipa-Krępa	W	Lipa-Miklas	W	Lucjanów	W	Małgorzacin	W	Maruszów	W	Maziarze	W	Nowa Wieś	W	Poręba	W	Rafałów	W	Ratyniec	W	Rokitów	W	Szymanów	W	Śląsko	W	Tomaszówka	W	Walentynów	W	Wiśniówek	W	Władysławów	W	Wola Solecka Druga	W	Wola Solecka Pierwsza	W	Wólka	W	Wólka Krępska	W	Zofiówka
-Chotcza
-	S	Baranów	S	Białobrzegi	S	Chotcza Dolna	S	Chotcza Górna	S	Chotcza-Józefów	S	Gniazdków	S	Gustawów	S	Jarentowskie Pole	S	Karolów	S	Kijanka	S	Kolonia Wola Solecka	S	Niemieryczów	S	Siekierka Nowa	S	Siekierka Stara	S	Tymienica Nowa	S	Tymienica Stara	S	Zajączków
-Ciepielów
-	S	Antoniów	S	Czerwona	S	Anusin	S	Bąkowa	S	Bielany-Pasieki	S	Borowiec	S	Chotyze	S	Ciepielów	S	Ciepielów-Kolonia	S	Dąbrowa	S	Drezno	S	Gardzienice-Kolonia	S	Kałków	S	Kochanów-Sajdy	S	Kunegundów	S	Czarnolas	S	Łaziska	S	Marianki	S	Nowy Kawęczyn	S	Pcin	S	Podgórze	S	Podolany	S	Ranachów B	S	Rekówka	S	Stare Gardzienice	S	Stary Ciepielów	S	Stary Kawęczyn	S	Świesielice	S	Wielgie	S	Wólka Dąbrowska
-	CW	Dąbrówki	CW	Na Hektarach	CW	Pod Wielgiem	CW	Rynsztoki	CW	Stara Wieś	CW	W Lasku	CW	Budki	CW	Kolonia	CW	Mucha	CW	Polizna	CW	Podłącze	CW	Ciepielów Drugi	CW	Olszyny	CW	Dąbrowska Poręba	CW	Struga	CW	Olszownica	CW	Kresy	CW	Ogrody	CW	Piaski	CW	Pniaki Kałkowskie	CW	Poddąbrowa	CW	Podgoździak	CW	Stara Wieś	CW	Edwardów	CW	Kacze Doły	CW	Na Błoniu	CW	Na Hektarach	CW	Na Mostkach	CW	Połówki	CW	Półanki	CW	Rozdroże	CW	Stara Wieś	CW	Zamoście	CW	Zapłocie	CW	Zarośle	CW	Kolonia	CW	Kosów	CW	Nowy Dwór	CW	Spółdzielnia	CW	Stara Wieś	CW	Stara Wieś	CW	Glinianki	CW	Pcinolas	CW	Za Młynem	CW	Podole	CW	Górki	CW	Dziurów-Petrów	CW	Celiny	CW	Kałkowy	CW	Ławki	CW	Morgi	CW	Nowiny	CW	Kolonia	CW	Lasek	CW	Obórki	CW	Pod Lasem	CW	Poduchowne	CW	Stara Wieś	CW	Wielgie Średnie-Wie
-Rzeczniów
-	W	Berkowizna	W	Borcuchy	W	Ciecierówka	W	Dubrawa	W	Franciszków	W	Gościniec	W	Grabowiec	W	Grechów	W	Jelanka	W	Kalinów Mały	W	Kaniosy	W	Kotłowacz	W	Marianów	W	Michałów	W	Osinki	W	Pasztowa Wola	W	Pasztowa Wola-Kolonia	W	Pawliczka	W	Podkońce	W	Płósy	W	Rybiczyzna	W	Rzechów-Kolonia	W	Rzeczniów	W	Rzeczniów-Kolonia	W	Rzeczniówek	W	Stary Rzechów	W	Wincentów	W	Wólka Modrzejowa	W	Wólka Modrzejowa-Kolonia	W	Zawały
-	P	Aleksandrów	P	Budki Ciecierowskie	P	Budki Podkońcarskie Dąbrówki	P	Glinianki	P	Gościniec	P	Jasny Dwór	P	Margrabczyzna	P	Maziarze	P	Mołdawa	P	Piotrówka	P	Pod Michałowem	P	Podkońce-Szkoła	P	Poduchowny	P	Pole	P	Przy Wygonie	P	Przydatki	P	Rzeczki	P	W Łąkach	P	Zagrody	P	Zapłocie	P	Ściegna
-	OL	Leśniczówka Michałów
-Sienno
-	W	Adamów	W	Aleksandrów	W	Aleksandrów Duży	W	Bronisławów	W	Dąbrówka	W	Dębowe Pole	W	Eugeniów	W	Gozdawa	W	Hieronimów	W	Janów	W	Jawor Solecki	W	Jaworska Wola	W	Kadłubek	W	Karolów	W	Kochanówka	W	Krzyżanówka	W	Leśniczówka	W	Ludwików	W	Nowa Wieś	W	Olechów Nowy	W	Olechów Stary	W	Osówka	W	Piasków	W	Praga Dolna	W	Praga Górna	W	Sienno	W	Stara Wieś	W	Tarnówek	W	Trzemcha Dolna	W	Trzemcha Górna	W	Wierzchowiska Drugie	W	Wierzchowiska Pierwsze	W	Wodąca	W	Wyględów	W	Wygoda	W	Zapusta
-Sienno
-	W	Boiska	W	Boiska-Kolonia	W	Dziurków	W	Glina	W	Gościniec Siennieński	W	Kalinówek	W	Kępa Piotrowińska	W	Kłudzie	W	Kolonia Nadwiślańska	W	Kolonia Pawłowice	W	Kolonia Wola Pawłowska	W	Las Gliniański	W	Marianów	W	Pawłowice	W	Przedmieście Bliższe	W	Przedmieście Dalsze	W	Sadkowice	W	Sadkowice-Kolonia	W	Słuszczyn	W	Solec nad Wisłą	W	Wola Pawłowska	W	Zemborzyn Drugi	W	Zemborzyn Pierwszy
-Solec nad Wisłą
-	W	Boiska	W	Boiska-Kolonia	W	Dziurków	W	Glina	W	Gościniec Siennieński	W	Kalinówek	W	Kępa Piotrowińska	W	Kłudzie	W	Kolonia Nadwiślańska	W	Kolonia Pawłowice	W	Kolonia Wola Pawłowska	W	Las Gliniański	W	Marianów	W	Pawłowice	W	Przedmieście Bliższe	W	Przedmieście Dalsze	W	Sadkowice	W	Sadkowice-Kolonia	W	Słuszczyn	W	Solec nad Wisłą	W	Wola Pawłowska	W	Zemborzyn Drugi	W	Zemborzyn Pierwszy
-	OL	Leśniczówka Dziurków
-Powiat łosicki
-Łosice
-	W	Biernaty Średnie	W	Chotycze	W	Chotycze-Kolonia	W	Czuchleby	W	Dzięcioły	W	Jeziory	W	Łuzki	W	Meszki	W	Niemojki	O	Niemojki	W	Nowosielec	W	Patków	W	Patków-Prusy	W	Różowa	W	Rudnik	W	Stare Biernaty	W	Szańków	W	Kolonia Szańków	W	Świniarów	W	Toporów	W	Woźniki	W	Zakrze
-Huszlew
-	S	Bachorza	S	Dziadkowskie	S	Dziadkowskie-Folwark	S	Felin	S	Harachwosty	S	Huszlew	S	Juniewicze	S	Kopce	S	Kownaty	S	Krasna	S	Krasna-Kolonia	S	Krzywośnity	S	Liwki Szlacheckie	S	Liwki Włościańskie	S	Makarówka	S	Mostów	S	Nieznanki	S	Siliwonki	S	Waśkowólka	S	Władysławów	S	Wygoda	S	Zienie	S	Żurawlówka
-	I	Ławy
-	I	Sewerynów
-Olszanka
-	S	Bejdy	S	Bolesty	K	Bolesty-Kolonia	S	Dawidy	S	Hadynów	S	Klimy	S	Korczówka	K	Korczówka-Kolonia	S	Mszanna	S	Nowe Łepki	S	Olszanka	S	Pietrusy	S	Próchenki	S	Radlnia	S	Stare Łepki	S	Szawły	S	Szydłówka	S	Wyczółki	K	Wyczółki (kolonia)
-Platerów
-	S	Chłopków	S	Chłopków-Kolonia	S	Czuchów	S	Czuchów-Pieńki	S	Falatycze	S	Górki	S	Hruszew	S	Hruszniew	S	Hruszniew-Kolonia	S	Kamianka	S	Kisielew	S	Lipno	S	Mężenin	S	Mężenin-Kolonia	S	Michałów	S	Myszkowice	S	Nowodomki	S	Ostromęczyn	S	Ostromęczyn-Kolonia	S	Platerów	S	Puczyce	S	Rusków	S	Zaborze
-	OL	Falatycze	NS	Górki-Leśniczówka	K	Hruszew 	OL	Kisielew 	K	Ostromęczyn-Kolonia	NS	Tryba-Gajówka
-Sarnaki
-	S	Binduga	S	Bonin	S	Bonin-Ogródki	S	Borsuki	S	Bużka	S	Chlebczyn	S	Chybów	S	Franopol	S	Grzybów	S	Hołowczyce-Kolonia	S	Horoszki Duże	S	Horoszki Małe	S	Klepaczew	S	Klimczyce	S	Klimczyce-Kolonia	S	Kózki	S	Mierzwice-Kolonia	S	Nowe Hołowczyce	S	Nowe Litewniki	S	Nowe Mierzwice	S	Płosków	S	Płosków-Kolonia	S	Raczki	S	Rozwadów	S	Rzewuszki	S	Serpelice	S	Stare Hołowczyce	S	Stare Litewniki	S	Stare Mierzwice	S	Terlików	S	Zabuże
-Stara Kornica
-	S	Czeberaki	S	Dubicze-Zalesie	S	Kazimierzów	S	Kiełbaski	S	Kobylany	S	Kornica-Kolonia	S	Koszelówka	S	Nowa Kornica	S	Nowe Szpaki	S	Popławy	S	Rudka	S	Stara Kornica	S	Stare Szpaki	S	Szpaki-Kolonia	S	Walim-Walimek	S	Wólka Nosowska	S	Wygnanki	S	Wyrzyki
-	NS	Ukazy
-	NS	Zabagnie
-Powiat makowski
-Różan
-	W	Chełsty	W	Chrzczonki	W	Dąbrówka	W	Dyszobaba	W	Dzbądz	W	Kaszewiec	W	Miłony	W	Mroczki-Rębiszewo	W	Podborze	W	Prycanowo	W	Szygi	W	Załęże Wielkie	W	Załęże-Eliasze	W	Załęże-Gartki	W	Załęże-Sędzięta	W	Załuzie	W	Załuzie (osada leśna)	W	Zawady-Ponikiew
-Czerwonka
-	W	Adamowo	W	Budzyno	W	Budzyno-Bolki	W	Budzyno-Lipniki	W	Cieciórki Szlacheckie	W	Cieciórki Włościańskie	W	Ciemniewo	W	Czerwonka Włościańska	W	Czerwonka Szlachecka	W	Dąbrówka	W	Guty Duże	W	Guty Małe	W	Jankowo	W	Janopole	W	Kałęczyn	W	Krzyżewo-Jurki	W	Krzyżewo-Marki	W	Lipniki	W	Mariampole	W	Nowe Zacisze	W	Perzanowo	W	Ponikiew Wielka	W	Sewerynowo	G	Sewerynowo	W	Soje	W	Tłuszcz	W	Ulaski	L	Ulaski	W	Wąski Las
-Karniewo
-	W	Baraniec	W	Byszewo	W	Byszewo-Wygoda	W	Chełchy Iłowe	W	Chełchy Kmiece	W	Chełchy-Chabdzyno	W	Chełchy-Jakusy	W	Chełchy-Klimki	W	Chrzanowo-Bronisze	W	Czarnostów	W	Czarnostów-Polesie	W	Gościejewo	W	Karniewo	W	Konarzewo-Bolesty	W	Krzemień	W	Leśniewo	W	Łukowo	W	Malechy	W	Milewo-Malonki	W	Milewo-Wypychy	W	Obiecanowo	W	Ośnica	W	Rafały	W	Romanowo	W	Słoniawy	W	Szlasy-Złotki	W	Szwelice	W	Tłucznice	W	Wólka Łukowska	W	Wronowo	W	Zakrzewo	W	Zaręby	W	Zelki Dąbrowe	W	Żabin Karniewski	W	Żabin Łukowski
-Krasnosielc
-	S	Amelin	S	Bagienice-Folwark	S	Bagienice Szlacheckie	S	Biernaty	S	Budy Prywatne	S	Chłopia Łąka	S	Drążdżewo	S	Drążdżewo-Kujawy	S	Drążdżewo Małe	S	Elżbiecin	S	Grabowo	S	Grądy	S	Karolewo	S	Krasnosielc	S	Krasnosielc Leśny	S	Łazy	S	Niesułowo
-	W	Pach
-	W	Niesułowo-Wieś	S	Nowy Krasnosielc	S	Nowy Sielc	S	Papierny Borek	S	Perzanki-Borek	S	Pieczyska	S	Pienice	S	Przytuły	S	Raki	S	Ruzieck	S	Wola-Józefowo	S	Wola Włościańska	S	Wólka Drążdżewska	S	Wólka Rakowska	S	Wymysły	S	Zwierzyniec
-Młynarze
-	W	Długołęka Wielka	W	Długołęka-Koski	W	Gierwaty	W	Głażewo-Cholewy	W	Głażewo-Święszki	W	Kołaki	W	Młynarze	W	Modzele	W	Ochenki	W	Ogony	W	Rupin	W	Sadykierz	W	Sieluń	W	Strzemieczne-Hieronimy	W	Strzemieczne-Oleksy	W	Strzemieczne-Wiosny	W	Załęże-Ponikiewka
-Płoniary-Bramura
-	S	Bobino-Grzybki	S	Bobino Wielkie	S	Bogdalec	S	Chodkowo Wielkie	S	Chodkowo-Biernaty	S	Chodkowo-Kuchny	S	Chodkowo-Załogi	S	Gołoniwy	S	Jaciążek	S	Kalinowiec	S	Kobylin	S	Kobylinek	S	Krzyżewo Borowe	S	Krzyżewo Nadrzeczne	S	Łęgi	S	Młodzianowo	S	Nowa Zblicha	S	Nowe Płoniawy	S	Nowy Podoś	S	Obłudzin	S	Płoniawy-Bramura	S	Prace	S	Retka	S	Rogowo	S	Stara Zblicha	S	Stare Zacisze	S	Stary Podoś	S	Suche	S	Szlasy Bure	S	Szczuki	S	Węgrzynowo	S	Zawady Dworskie	S	Zawady-Huta
-	NS	Choszczewka	NS	Dłutkowo	NS	Krasiniec	OL	Młodzianowo	OL	Płoniawy-Bramura	NS	Płoniawy-Kolonia	NS	Popielarka	NS	Szlasy-Łozino	NS	Węgrzynówek
-Rzewnie
-	W	Bindużka	W	Boruty	W	Brzóze Duże	W	Brzóze Małe	W	Chrzanowo	W	Chrzczony	W	Dąbrówka	W	Drozdowo	W	Grudunki	W	Łachy Włościańskie	W	Łasiewity	W	Łaś	W	Małki	W	Mroczki-Kawki	W	Napiórki Butne	W	Napiórki Ciężkie	W	Nowe Drozdowo	W	Nowe Łachy	W	Nowy Sielc	W	Orłowo	W	Pruszki	W	Rzewnie	W	Słojki	W	Stary Sielc
-	O	Święta Rozalia
-Sypniewo
-	S	Batogowo	S	Biedrzyce-Koziegłowy	S	Biedrzyce-Stara Wieś	S	Boruty	S	Chełchy	S	Chojnowo	S	Dylewo	S	Gąsewo Poduchowne	S	Glącka	S	Glinki-Rafały	S	Jarzyły	S	Majki-Tykiewki	S	Mamino	S	Nowe Gąsewo	S	Nowe Sypniewo	S	Nowy Szczeglin	S	Olki	S	Poświętne	S	Rawy	S	Rzechowo-Gać	S	Rzechowo Wielkie	S	Rzechówek	S	Sławkowo	S	Stare Glinki	S	Strzemieczne-Sędki	S	Sypniewo	S	Szczeglin Poduchowny	S	Zalesie	S	Zamość	S	Ziemaki
-	NS	Gutowo
-	NS	Różanica
-Szelków
-	S	Bazar	S	Chrzanowo	S	Chyliny	S	Ciepielewo	S	Dzierżanowo	S	Głódki	S	Grzanka	S	Kaptury	S	Laski	S	Magnuszew Duży	S	Magnuszew Mały	S	Makowica	S	Nowy Strachocin	S	Nowy Szelków	S	Orzyc	S	Pomaski Małe	S	Pomaski Wielkie	S	Przeradowo	S	Rostki	S	Smrock-Dwór	S	Smrock-Kolonia	S	Stary Strachocin	S	Stary Szelków	S	Zakliczewo
-Powiat miński
-Halinów
-	W	Brzeziny	W	Budziska	W	Chobot	W	Cisie	W	Desno	W	Długa Kościelna	W	Długa Szlachecka	W	Grabina	W	Hipolitów	W	Józefin	W	Kazimierów	W	Królewskie Brzeziny	W	Krzewina	W	Michałów	W	Mrowiska	W	Nowy Konik	W	Okuniew	W	Stary Konik	W	Wielgolas Brzeziński	W	Wielgolas Duchnowski	W	Zagórze	W	Żwirówka
-Kałuszyn
-	S	Abramy	S	Budy Przytockie	S	Chrościce	S	Falbogi	S	Garczyn Duży	S	Garczyn Mały	S	Gołębiówka	S	Kazimierzów	S	Kluki	S	Leonów	S	Marianka	S	Milew	S	Mroczki	S	Nowe Groszkis	S	Olszewice	S	Patok	S	Piotrowina	S	Przytoka	S	Ryczołek	S	Sinołęka	S	Stare Groszki	S	Szembory	S	Szymony	S	Wąsy	S	Wity	S	Wólka Kałuska	S	Zimnowoda	S	Żebrówka
-	NS	Górki
-	NS	Marysin
-Mrozy
-	S	Borki	S	Choszcze	S	Dąbrowa	S	Dębowce	S	Gójszcz	S	Grodzisk	S	Guzew	S	Jeruzal	S	Kołacz	S	Kruki	S	Kuflew	S	Lipiny	S	Lubomin	S	Łukówiec	S	Mała Wieś	S	Mrozy	S	Mrozy-Południe	S	Mrozy-Wola	S	Natolin	S	Płomieniec	S	Porzewnica	S	Rudka	S	Skruda	S	Sokolnik	S	Topór	S	Trojanów	S	Wola Paprotnia	S	Wola Rafałowska
-	P	Barania Ruda	P	Gajówka Bernatowizna	P	Gajówka Florianów	P	Gajówka Gójszcz	P	Jeziorek	P	Rudka-Sanatorium
-Cegłów
-	S	Cegłów	S	Huta Kuflewska	S	Kiczki Pierwsze	S	Kiczki Drugie	S	Mienia	S	Pełczanka	S	Piaseczno	S	Podciernie	S	Podskwarne	S	Posiadały	S	Rososz	S	Rudnik	S	Skupie	S	Skwarne	S	Tyborów	S	Wiciejów	S	Wola Stanisławowska	S	Woźbin	S	Wólka Wiciejowska
-	P	Gajówka Posiadały	P	Gajówka Rososz	P	Gajówka Rudnik	P	Gajówka Skwarne	P	Gajówka Sokolnik	P	Kokoszki	P	Leśniczówka Mienia	P	Leśniczówka Pełczanka	P	Leśniczówka Piaseczno
-Dębe Wielkie
-	S	Aleksandrówka	S	Bykowizna	S	Celinów,	S	Choszczówka Dębska	S	Choszczówka Rudzka	S	Choszczówka Stojecka	S	Chrośla	S	Cięciwa	S	Cezarów	S	Cyganka	S	Dębe Wielkie
-	S	Dębe Wielkie Centrum
-	S	Dębe Wielkie Południe
-	S	Dębe Wielkie Wschód	S	Gorzanka	S	Górki	S	Jędrzejnik	S	Kąty Goździejewskie Pierwsze	S	Kąty Goździejewskie Drugie	S	Kobierne	S	Olesin	S	Ostrów-Kania	S	Poręby	S	Ruda	S	Rysie	S	Teresław	S	Walercin
-	P	Choszczak	P	Łaszczyzna	P	Nowy Walercin
-Dobre
-	S	Adamów	S	Antonina	S	Brzozowica	S	Czarnocin	S	Czarnogłów	S	Dobre
-	S	Dobre I
-	S	Dobre II 
-	S	Dobre III	S	Drop	S	Gęsianka	S	Grabniak	S	Głęboczyca	S	Jaczewek	S	Joanin	S	Kąty-Borucza	S	Kobylanka	S	Makówiec Mały	S	Makówiec Duży	S	Marcelin	S	Mlęcin	S	Modecin	S	Nowa Wieś	S	Osęczyzna	S	Poręby Nowe	S	Poręby Stare	S	Pokrzywnik	S	Radoszyna	S	Rakówiec	S	Rąbierz-Kolonia	S	Ruda-Pniewnik	S	Rudno	S	Rudzienko	S	Rynia	S	Sąchocin	S	Sołki	S	Świdrów	S	Walentów	S	Wólka Czarnogłowska	S	Wólka Kokosia	S	Wólka Mlęcka	S	Wólka Kobylańska
-	P	Duchów
-	P	Zdrojówki
-Jakubów
-	W	Aleksandrów	W	Anielinek	W	Antonin	W	Brzozówka	W	Budy Kumińskie	W	Góry	W	Izabelin	W	Jakubów	W	Jędrzejów Nowy	W	Jędrzejów Stary	W	Józefin	W	Kamionka	W	Leontyna	W	Ludwinów	W	Łaziska	W	Mistów	W	Moczydła	W	Nart	W	Przedewsie	W	Rządza	W	Strzebula	W	Szczytnik	W	Turek	W	Tymoteuszew	W	Wiśniew	W	Wola Polska
-	O	Witkowizna
-Latowicz
-	S	Borówek	S	Budy Wielgoleskie	S	Budziska	S	Chyżyny	S	Dąbrówka	S	Dębe Małe	S	Generałowo	S	Gołełąki	S	Kamionka	S	Latowicz
-	S	Latowicz rejon I
-	S	Latowicz rejon II
-	S	Latowicz rejon III	S	Oleksianka	S	Redzyńskie	S	Stawek	S	Strachomin	S	Transbór	S	Waliska	S	Wężyczyn	S	Wielgolas
-Mińsk Mazowiecki
-	W	Anielew	W	Arynów	W	Barcząca	W	Borek Miński	W	Brzóze	W	Budy Barcząckie	W	Budy Janowskie	W	Chmielew	W	Chochół	W	Cielechowizna	W	Dziękowizna	W	Dłużka	W	Gamratka	W	Gliniak	W	Grabina	W	Grębiszew	W	Huta Mińska	W	Ignaców	W	Iłówiec	W	Janów	W	Józefów	W	Karolina
-	W	Karolina-Kolonia	W	Kluki	W	Kolonia Janów	W	Królewiec	W	Maliszew	W	Marianka	W	Mikanów	W	Niedziałka Druga	W	Nowe Osiny	W	Osiny	W	Podrudzie	W	Prusy	W	Stara Niedziałka	W	Stare Zakole	W	Stojadła	W	Targówka	W	Tartak	W	Wólka Iłówiecka	W	Wólka Mińska	W	Zakole-Wiktorowo	W	Zamienie	W	Żuków
-Siennica
-	S	Bestwiny	S	Borówek	S	Boża Wola	S	Budy Łękawickie	S	Chełst	S	Dąbrowa	S	Dłużew	S	Drożdżówka	S	Dzielnik	S	Gągolina	S	Grzebowilk	S	Kąty	S	Kośminy	S	Krzywica	S	Kulki-Ptaki	S	Lasomin	S	Łękawica	S	Majdan	S	Nowa Pogorzel	S	Nowe Zalesie	S	Nowodwór	S	Nowodzielnik	S	Nowy Starogród	S	Nowy Zglechów	S	Pogorzel	S	Siennica
-	S	Siennica I
-	S	Siennica II
-	S	Siennica III		S	Siodło	S	Starogród	S	Strugi Krzywickie	S	Swoboda	S	Świętochy	S	Wojciechówka-Julianów	S	Wólka Dłużewska	S	Zalesie	S	Zglechów	S	Żaków	S	Żakówek
-	P	Wiśniówka
-Stanisławów
-	S	Borek Czarniński	S	Choiny	S	Ciopan	S	Cisówka	S	Czarna	S	Goździówka	S	Kolonie Stanisławów	S	Legacz	S	Lubomin	S	Ładzyń	S	Łęka	S	Mały Stanisławów	S	Ołdakowizna	S	Papiernia	S	Porąb	S	Prądzewo-Kopaczewo	S	Pustelnik	S	Retków	S	Rządza	S	Sokóle	S	Stanisławów	S	Szymankowszczyzna	S	Suchowizna	S	Wólka Czarnińska	S	Wólka-Konstancja	S	Wólka Piecząca	S	Wólka Wybraniecka	S	Zalesie	S	Zawiesiuchy
-	NS	Poręby Leśne
-Powiat mławski
-Dzierzgowo
-	S	Brzozowo-Czary	S	Brzozowo-Dąbrówka	S	Brzozowo-Łęg	S	Brzozowo-Maje	S	Choszczewka	S	Dobrogosty	S	Dzierzgowo	S	Dzierzgówek	S	Kamień	S	Kitki	S	Krery	S	Kurki	S	Międzyleś	S	Nowe Brzozowo	S	Nowe Łączyno	S	Pobodze	S	Ruda	S	Rzęgnowo	S	Stare Brzozowo	S	Stare Łączyno	S	Stegna	S	Szpaki	S	Szumsk	S	Tańsk-Grzymki	S	Tańsk-Przedbory	S	Umiotki	S	Wasiły	S	Zawady	S	Żaboklik
-	P	Brzozowo-Utraty	P	Kolonia Choszczewka	P	Kostusin	P	Koziorowo	P	Pęcherze	P	Rogale	P	Sosnówka	P	Szumsk-Sodowo	P	Tańsk-Chorąże	P	Tańsk-Kęsocha	P	Tańsk-Kiernozy	P	Wydrzywilk
-Lipowiec Kościelny
-	W	Borowe	W	Cegielnia Lewicka	W	Dobra Wola	W	Józefowo	W	Kęczewo	W	Krępa	W	Lewiczyn	W	Lipowiec Kościelny	W	Łomia	W	Niegocin	W	Parcele Łomskie	W	Rumoka	W	Turza Mała	W	Turza Wielka	W	Wola Kęczewska	W	Zawady
-Radzanów
-	W	Bębnowo	W	Bębnówko	W	Bieżany	W	Bojanowo	W	Bońkowo Kościelne	W	Bońkowo Podleśne	W	Budy-Matusy	W	Cegielnia Ratowska	W	Gradzanowo Włościańskie	W	Gradzanowo Zbęskie	W	Józefowo	W	Luszewo	W	Radzanów	W	Radzanówek	W	Ratowo	W	Trzciniec	W	Wróblewo	W	Zbrzeźnia	W	Zgliczyn Kościelny	W	Zgliczyn Witowy	W	Zgliczyn-Glinki	W	Zieluminek
-	P	Leśniczówka Ratowo
-Strzegowo
-	W	Adamowo	W	Augustowo	W	Breginie	W	Budy Giżyńskie	W	Budy Mdzewskie	W	Budy Sułkowskie	W	Budy Wolińskie	W	Chądzyny-Krusze	W	Chądzyny-Kuski	W	Czarnocin	W	Czarnocinek	W	Dalnia	W	Dąbrowa	W	Drogiszka	W	Giełczyn	W	Giżyn	W	Giżynek	W	Grabienice Małe	W	Grabienice Wielkie	W	Ignacewo	W	Józefowo	W	Konotopa	W	Kontrewers	W	Kowalewko	W	Kuskowo Kmiece	W	Kuskowo-Glinki	W	Leszczyna	W	Łebki	W	Marysinek	W	Mączewo	W	Mdzewko	W	Mdzewo	W	Niedzbórz	W	Parcele Radzimowice	W	Pokrytki	W	Prusocin	W	Radzimowice	W	Rudowo	W	Rydzyn Szlachecki	W	Rydzyn Włościański	W	Stara Maryśka	W	Staroguby	W	Strzegowo	W	Sułkowo Borowe	W	Sułkowo Polne	W	Syberia	W	Szachowo	W	Unierzyż	W	Unikowo	W	Wola Kanigowska	W	Wygoda	W	Zabiele
-Stupsk
-	W	Bolewo	W	Budy Bolewskie	W	Dąbek	W	Dunaj	W	Jeże	W	Konopki	W	Krośnice	W	Morawy	W	Olszewo-Bołąki	W	Olszewo-Borzymy	W	Olszewo-Grzymki	W	Pieńpole	W	Rosochy	W	Strzałkowo	W	Stupsk	W	Sułkowo-Kolonia	W	Wola Szydłowska	W	Wola-Kolonia	W	Wyszyny Kościelne	W	Zdroje	W	Żmijewo Kościelne	W	Żmijewo-Gaje	W	Żmijewo-Kuce	W	Żmijewo-Ponki	W	Żmijewo-Trojany
-Szreńsk
-	W	Bielawy	W	Doziny	W	Grądek	W	Gryty	W	Kobuszyn	W	Krzywki-Bośki	W	Krzywki-Piaski	W	Kunki	W	Liberadz	W	Ługi	W	Miączyn Duży	W	Miączyn Mały	W	Miłotki	W	Mostowo	W	Nowe Garkowo	W	Ostrów	W	Pączkowo	W	Proszkowo	W	Przychód	W	Rochnia	W	Sławkowo	W	Stare Garkowo	W	Stołowo	W	Szreńsk	W	Wola Proszkowska	W	Złotowo
-	K	Przychód
-Szydłowo
-	W	Budy Garlińskie	W	Dębiny	W	Dębsk	W	Garlino	W	Giednia	W	Kluszewo	W	Korzybie	W	Kozły-Janowo	W	Krzywonoś	W	Marianowo	W	Młodynin	W	Nieradowo	W	Nosarzewo Borowe	W	Nosarzewo Polne	W	Nowa Sławogóra	W	Nowa Wieś	W	Nowe Nosarzewo	W	Nowe Piegłowo	W	Pawłowo	W	Piegłowo-Kolonia	W	Piegłowo-Wieś	W	Stara Sławogóra	W	Stare Niemyje	W	Szydłowo	W	Szydłówek	W	Trzcianka	W	Trzcianka-Kolonia	W	Tyszki-Bregendy	W	Wola Dębska	W	Zalesie
-Wieczfnia Kościelna
-	W	Bąki	W	Bonisław	W	Chmielewko	W	Chmielewo Małe	W	Chmielewo Wielkie	W	Długokąty	W	Grzebsk	W	Grzybowo	W	Grzybowo-Kapuśnik	W	Kobiałki	W	Kołakowo	W	Kuklin	W	Kulany	W	Łęg	W	Michalinowo	W	Pepłowo	W	Pogorzel	W	Turowo	W	Uniszki Gumowskie	W	Uniszki Zawadzkie	W	Uniszki-Cegielnia	W	Wąsosze	W	Wieczfnia Kościelna	W	Wieczfnia-Kolonia	W	Windyki	W	Zakrzewo Wielkie	W	Załęże
-Wiśniewo
-	W	Bogurzyn	W	Bogurzynek	W	Głużek	W	Korboniec	W	Kosiny Bartosowe	W	Kosiny Kapiczne	W	Kowalewo	W	Modła	W	Nowa Otocznia	W	Podkrajewo	W	Stara Otocznia	W	Stare Kosiny	W	Wiśniewko	W	Wiśniewo	W	Wojnówka	W	Żurominek
-	WN	Głużek-Kolonia
-	WN	Halinowo
-	WN	Kowalewo-Borki
-	WN	Michałowo
-	WN	Żarnówka
-Powiat nowodworski
-Nasielsk
-	S	Aleksandrowo	S	Andzin	S	Borkowo	S	Budy Siennickie	S	Cegielnia Psucka	S	Chechnówka	S	Chlebiotki	S	Chrcynno	S	Cieksyn	S	Czajki	S	Dąbrowa	S	Dębinki	S	Dobra Wola	S	Glice	S	Głodowo Wielkie	S	Jackowo Dworskie	S	Jackowo Włościańskie	S	Jaskółowo	S	Kątne	S	Kędzierzawice	S	Kolonia Borkowo	S	Kolonia Cieksyn	S	Konary	S	Kosewo	S	Krogule	S	Krzyczki Szumne	S	Krzyczki-Pieniążki	S	Krzyczki-Żabiczki	S	Lelewo	S	Lorcin	S	Lubomin	S	Malczyn	S	Mazewo Dworskie "A"	S	Mazewo Dworskie "B"	S	Mazewo Włościańskie	S	Miękoszyn	S	Miękoszynek	S	Młodzianowo	S	Mogowo	S	Mokrzyce Dworskie	S	Mokrzyce Włościańskie	S	Morgi	S	Nowa Wrona	S	Nowe Pieścirogi	S	Nowiny	S	Nuna	S	Paulinowo	S	Pianowo-Bargły	S	Pianowo-Daczki	S	Pianowo-Folwark	S	Pianowo-Pątki	S	Pniewo	S	Popowo Borowe	S	Popowo-Północ	S	Psucin	S	Ruszkowo	S	Siennica	S	Słustowo	S	Stare Pieścirogi	S	Studzianki	S	Toruń Dworski	S	Toruń Włościański	S	Wągrodno	S	Wiktorowo	S	Winniki	S	Zaborze	S	Żabiczyn
-Zakroczym
-	S	Smoszewo	S	Błogosławie	S	Czarna	S	Emolinek	S	Henrysin	S	Janowo	S	Jaworowo-Trębki Stare	S	Smoły	S	Strubiny	S	Swobodnia	S	Śniadowo	S	Trębki Nowe	S	Trębki Stare	S	Wojszczyce	S	Wólka Smoszewska	S	Wygoda Smoszewska	S	Zaręby
-Czosnów
-	S	Adamówek	S	Aleksandrów	S	Augustówek	S	Brzozówka	S	Cybulice	S	Cybulice Duże	S	Cybulice Małe	S	Cząstków Mazowiecki	S	Cząstków Polski	S	Czeczotki	S	Czosnów	S	Dąbrówka	S	Dębina	S	Izabelin-Dziekanówek	S	Janówek	S	Janów-Mikołajówka	S	Jesionka	S	Kaliszki	S	Kazuń Nowy	S	Kazuń Polski	S	Kazuń-Bielany	S	Kiścinne	S	Łomna	S	Łomna-Las	S	Łosia Wólka	S	Małocice	S	Palmiry	S	Pieńków	S	Sady	S	Sowia Wola	S	Sowia Wola Folwarczna	S	Truskawka	S	Wiersze	S	Wólka Czosnowska	S	Wrzosówka
-	O	Kazuń-Bielany
-	P	Młynisko
-	P	Pociecha
-Leoncin
-	S	Gać	S	Gniewniewice Folwarczne	S	Górki	S	Nowa Dąbrowa	S	Nowa Mała Wieś	S	Nowe Grochale	S	Nowe Polesie	S	Nowy Secymin	S	Nowy Wilków	S	Ośniki	S	Rybitew	S	Secymin Polski	S	Stanisławów	S	Stara Dąbrowa	S	Stare Polesie	S	Wilków nad Wisłą	S	Wilków Polski
-	NS	Cisowe	NS	Głusk	NS	Krubiczew	NS	Mała Wieś przy Drodze	NS	Michałów	NS	Nowe Budy	NS	Nowe Gniewniewice	NS	Nowe Polesie (osada)	NS	Nowiny	NS	Secyminek	NS	Stare Gniewniewice	NS	Stare Grochale	NS	Teofile	NS	Wincentówek	NS	Zamość
-Pomiechów
-	W	Błędowo	W	Błędówko	W	Bronisławka	W	Cegielnia-Kosewo	W	Czarnowo	W	Falbogi Borowe	W	Goławice: Goławice Drugie	W	Goławice Pierwsze	W	Kikoły	W	Kosewko	W	Kosewo	W	Nowe Orzechowo	W	Nowy Modlin	W	Pomiechowo	W	Pomiechówek	W	Pomocnia	W	Stanisławowo	W	Stare Orzechowo	W	Szczypiorno	W	Śniadówko	W	Wola Błędowska	W	Wójtostwo	W	Wólka Kikolska	W	Wymysły	W	Zapiecki
-	OL	Czarnowo
-	OL	Goławice
-	OL	Kolonia
-Powiat ostrołęcki
-Myszyniec
-	S	Białusny Lasek	S	Charciabałda	S	Cięćk	S	Drężek	S	Gadomskie	S	Krysiaki	S	Myszyniec Stary	S	Myszyniec-Koryta	S	Niedźwiedź	S	Olszyny	S	Pełty	S	Świdwiborek	S	Wolkowe	S	Wydmusy	S	Wykrot	S	Zalesie	S	Zdunek
-	OL	Białusny Lasek
-	OL	Olszyny
-	OL	Zawodzie
-	OL	Zdunek
-Baranowo
-	S	Adamczycha	S	Bakuła	S	Baranowo	S	Błędowo	S	Brodowe Łąki	S	Budne-Sowięta	S	Cierpięta	S	Czarnotrzew	S	Dąbrowa	S	Dłutówka	S	Gaczyska	S	Guzowatka	S	Jastrząbka	S	Kopaczyska	S	Kucieje	S	Lipowy Las	S	Majk	S	Majdan	S	Oborczyska	S	Orzoł	S	Ramiona	S	Rupin	S	Rycica	S	Witowy Most	S	Wola Błędowska	S	Zawady	S	Ziomek
-Czarnia
-	S	Bandysie	S	Brzozowy Kąt	S	Cupel	S	Cyk	S	Czarnia	S	Długie	S	Michałowo	S	Rutkowo	S	Surowe
-Czerwin
-	S	Andrzejki-Tyszki	S	Bobin	S	Borek	S	Buczyn	S	Choromany-Witnice	S	Chruśnice	S	Czerwin	S	Damiany	S	Dąbek	S	Dobki Nowe-Wólka Czerwińska	S	Dobki Stare	S	Dzwonek	S	Filochy	S	Gocły	S	Grodzisk Duży	S	Grodzisk-Wieś	S	Gostery	S	Gumki	S	Janki Młode	S	Jarnuty	S	Księżopole	S	Łady-Mans	S	Laski Szlacheckie	S	Laski Włościańskie	S	Malinowo Nowe	S	Malinowo Stare	S	Piotrowo	S	Piski	S	Pomian	S	Seroczyn	S	Skarżyn	S	Sokołowo	S	Stylągi	S	Suchcice	S	Tomasze	S	Tyszki-Ciągaczki	S	Tyszki-Nadbory	S	Wiśniewo	S	Wiśniówek	S	Wojsze	S	Wólka Seroczyńska	S	Załuski	S	Zaorze	S	Żochy
-	P	Gucin
-Goworowo
-	S	Brzeźno	S	Brzeźno-Kolonia	S	Borki	S	Cisk	S	Czarnowo	S	Czernie	S	Damięty	S	Daniłowo	S	Dzbądzek	S	Gierwaty	S	Goworowo	S	Goworówek	S	Góry	S	Grabowo	S	Grodzisk	S	Jawory-Podmaście	S	Jawory Stare	S	Jawory-Wielkopole	S	Jemieliste	S	Jurgi	S	Józefowo	S	Kaczka	S	Kobylin	S	Kółko	S	Kruszewo	S	Kunin	S	Lipianka	S	Ludwinowo	S	Michałowo	S	Nogawki	S	Pasieki	S	Pokrzywnica	S	Ponikiew Mała	S	Ponikiew Duża	S	Kolonia Ponikiew Mała	S	Rębisze-Działy	S	Rębisze-Kolonia	S	Rębisze-Parcele	S	Struniawy	S	Szarłat	S	Szczawin	S	Wólka Brzezińska	S	Wólka Kunińska	S	Zaorze	S	Żabin
-	P	Brzeźno-Wieś	P	Gogol-Gajówka	L	Jurgi	P	Kaszewiec	G	Kruszewo	G	Lipianka	P	Smólnik
-Kadzidło
-	S	Brzozowa	S	Brzozówka	S	Czarnia	S	Chudek	S	Dylewo Nowe	S	Dylewo	S	Golanka	S	Grale	S	Gleba	S	Jazgarka	S	Jeglijowiec	S	Kadzidło	S	Kierzek	S	Klimki	S	Krobia	S	Kuczyńskie	S	Piasecznia	S	Rososz	S	Siarcza Łąka	S	Sul	S	Strzałki	S	Tatary	S	Todzia	S	Wach
-	G	Grale	NS	Karaska	NS	Karaska-Leśniczówka	G	Krobia	G	Piasecznia	NS	Podgórze	L	Podgórze	NS	Rokitówka	NS	Wąglewo	G	Wykrot	L	Wykrot
-Lelis
-	W	Aleksandrowo	W	Białobiel	W	Dąbrówka	W	Długi Kąt	W	Durlasy	W	Gąski	W	Gibałka	W	Gnaty	W	Kurpiewskie	W	Lelis	W	Łęg Przedmiejski	W	Łęg Starościński	W	Łodziska	W	Nasiadki	W	Obierwia	W	Olszewka	W	Płoszyce	W	Siemnocha	W	Szafarczyska	W	Szafarnia	W	Szkwa	W	Szwendrowy Most
-	OL	Dąbrówka 	OL	Kurpiewskie	OL	Łodziska
-	OL	Płoszyce
-Łyse
-	S	Antonia	S	Baba	S	Dawia	S	Dęby	S	Dudy Puszczańskie	S	Grądzkie	S	Klenkor-Wyżega	S	Lipniki	S	Łączki	S	Łyse	S	Piątkowizna	S	Plewki	S	Pupkowizna	S	Serafin	S	Szafranki	S	Tartak	S	Tyczek	S	Warmiak	S	Wejdo	S	Zalas	S	Złota Góra
-Olszewo-Borki
-	S	Antonie	S	Białobrzeg Bliższy	S	Białobrzeg Dalszy	S	Chojniki	S	Dobrołęka	S	Drężewo	S	Działyń	S	Grabnik	S	Grabowo	S	Grabówek	S	Kordowo	S	Kruki	S	Łazy	S	Mostowo	S	Mostówek	S	Nakły	S	Nowa Wieś	S	Nożewo	S	Olszewo-Borki	S	Przystań	S	Rataje	S	Rżaniec	S	Stepna-Michałki	S	Stepna Stara	S	Wyszel	S	Zabiele-Piliki	S	Zabiele Wielkie	S	Zabrodzie	S	Żebry-Chudek	S	Żebry-Ostrowy	S	Żebry-Perosy	S	Żebry-Sławki	S	Żebry-Stara Wieś	S	Żebry-Wierzchlas	S	Żebry-Żabin	S	Żerań Duży	S	Żerań Mały
-	P	Przyłaje	OL	Przystań	P	Siarki	P	Skrzypek	P	Wojska Biel	OL	Zabiele Wielkie	P	Zambrzycha
-Rzekuń
-	S	Borawe	S	Czarnowiec	S	Daniszewo	S	Drwęcz	S	Dzbenin	S	Goworki	S	Kamianka	S	Korczaki	S	Laskowiec	S	Ławy	S	Nowa Wieś Wschodnia	S	Nowa Wieś Wschodnia-Osiedle Leśniewo	S	Przytuły Nowe	S	Przytuły Stare	S	Nowy Susk	S	Ołdaki	S	Rozwory	S	Rzekuń	S	Susk Stary	S	Teodorowo,Tobolice	S	Zabiele
-	NS	Czarnowiec
-	NS	Nowa Wieś Leśna
-Troszyn
-	S	Borowce	S	Budne	S	Choromany	S	Chrostowo	S	Dąbek	S	Dzbenin	S	Grucele	S	Janki Stare - Rabędy	S	Janochy	S	Kamionowo	S	Aleksandrowo	S	Kleczkowo	S	Kurpie Dworskie	S	Kurpie Szlacheckie	S	Łątczyn	S	Mieczki-Abramy	S	Mieczki-Poziemaki	S	Mieczki-Ziemaki	S	Milewo-Łosie	S	Milewo-Tosie	S	Milewo Wielkie	S	Opęchowo	S	Ojcewo	S	Puchały	S	Radgoszcz	S	Repki	S	Rostki	S	Chrzczony	S	Sawały	S	Siemiątkowo	S	Troszyn	S	Trzaski	S	Wysocarz	S	Zamość	S	Zapieczne	S	Zawady	S	Żmijewo-Zagroby	S	Żmijewek Włościański	S	Żmijewek-Mans	S	Żyźniewo
-	P	Chrzczony
-	P	Żmijewo-Zagroby
-Powiat ostrowski
-Brok
-	S	Bojany	S	Laskowizna-Puzdrowizna	S	Nowe Kaczkowo	S	Stare Kaczkowo
-Andrzejewo
-	S	Andrzejewo	S	Dąbrowa	S	Godlewo-Gorzejewo	S	Gołębie-Leśniewo	S	Janowo	S	Jasienica-Parcele	S	Kowalówka	S	Króle Duże	S	Króle Małe	S	Kuleszki-Nienałty	S	Łętownica-Parcele	S	Mianowo	S	Nowa Ruskołęka	S	Olszewo-Cechny	S	Ołdaki-Polonia	S	Pęchratka Mała	S	Pieńki-Sobótki	S	Pieńki Wielkie	S	Pieńki-Żaki	S	Przeździecko-Dworaki	S	Przeździecko-Grzymki	S	Przeździecko-Jachy	S	Przeździecko-Lenarty	S	Ruskołęka-Parcele	S	Stara Ruskołęka	S	Załuski-Lipniewo	S	Zaręby-Bolędy	S	Zaręby-Choromany	S	Zaręby-Warchoły	S	Żelazy-Brokowo
-	P	Grodzick-Ołdaki
-	P	Jabłonowo-Klacze
-Boguty-Pianki
-	W	Białe-Chorosze	W	Białe-Figle	W	Białe-Giezki	W	Białe-Kwaczoły	W	Białe-Misztale	W	Białe-Papieże	W	Białe-Szczepanowice	W	Białe-Zieje	W	Boguty-Augustyny	W	Boguty Leśne	W	Boguty-Milczki	W	Boguty-Pianki	W	Boguty-Rubiesze	W	Cietrzewki-Warzyno	W	Drewnowo-Dmoszki	W	Drewnowo-Gołyń	W	Konarze	W	Drewnowo-Lipskie	W	Drewnowo-Ziemaki	W	Godlewo-Baćki	W	Godlewo-Łuby	W	Kamieńczyk Borowy	W	Kamieńczyk-Pierce	W	Kamieńczyk-Ryciorki	W	Kamieńczyk Wielki	W	Kraszewo-Czarne	W	Kunin-Zamek	W	Kutyłowo-Bródki	W	Kutyłowo-Perysie	W	Michałowo-Wróble	W	Murawskie-Czachy	W	Murawskie-Miazgi	W	Szpice-Chojnowo	W	Trynisze-Kuniewo	W	Trynisze-Moszewo	W	Tymianki-Adamy	W	Tymianki-Bucie	W	Tymianki-Dębosze	W	Tymianki-Moderki	W	Tymianki-Okunie	W	Tymianki-Pachoły	W	Tymianki-Skóry	W	Tymianki-Szklarze	W	Tymianki-Stasie	W	Zabiele-Pikuły	W	Zawisty	W	Zawisty-Króle	W	Zawisty-Kruki	W	Zawisty-Piotrowice	W	Zawisty-Wity	W	Złotki	W	Złotki-Przeczki	W	Złotki-Stara Wieś
-Małkinia Górna
-	S	Błędnica	S	Borowe	S	Daniłowo	S	Daniłowo-Parcele	S	Daniłówka Pierwsza	S	Glina	S	Grądy	S	Kiełczew	S	Klukowo	S	Małkinia Dolna	S	Małkinia Górna
-	S	Małkinia Pierwsza 
-	S	Małkinia Druga	S	Niegowiec	S	Orło	S	Podgórze-Gazdy	S	Poniatowo	S	Prostyń	S	Rostki-Piotrowice	S	Rostki Wielkie	S	Sumiężne	S	Treblinka	S	Zawisty Nadbużne	S	Zawisty Podleśne	S	Żachy-Pawły	S	Kańkowo
-	P	Boreczek
-	P	Daniłówka Druga
-	L	Malinówka
-	G	Malinówka
-Nur
-	S	Godlewo-Warsze-Godlewo-Mierniki	S	Godlewo-Milewek	S	Godlewo Wielkie	S	Kałęczyn	S	Kamionka	S	Kossaki	S	Kramkowo Lipskie	S	Murawskie Nadbużne	S	Myślibory	S	Nur	S	Obryte	S	Ołowskie	S	Ołtarze-Gołacze	S	Strękowo	S	Ślepowrony	S	Zakrzewo-Słomy	S	Zaszków	S	Zaszków-Kolonia	S	Zuzela	S	Żebry-Kolonia	S	Żebry-Laskowiec
-	NS	Bochny	NS	Cempory	NS	Łęg Nurski	NS	Kolonia Wschodnia	NS	Strękowo Nieczykowskie
-Ostrów Mazowiecka
-	S	Antoniewo	S	Biel	S	Budy-Grudzie	S	Dybki	S	Fidury	S	Guty-Bujno	S	Jasienica	S	Jelenie	S	Jelonki	S	Kalinowo	S	Kalinowo-Parcele	S	Komorowo	S	Koziki	S	Koziki-Majdan	S	Kuskowizna	S	Lipniki	S	Nagoszewka
-	W	Nagoszewka Druga
-	W	Nagoszewka Pierwsza	S	Nagoszewo	S	Nieskórz	S	Nowa Grabownica	S	Nowa Osuchowa	S	Nowe Lubiejewo	S	Pałapus	S	Podborze	S	Popielarnia	S	Pólki	S	Prosienica	S	Przyjmy
-	S	Przyjmy k. Jelonek
-	S	Przyjmy k. Poręby	S	Rogóźnia	S	Sielc	S	Smolechy	S	Stara Grabownica	S	Stara Osuchowa	S	Stare Lubiejewo	S	Stok	S	Sulęcin-Kolonia	S	Ugniewo	S	Wiśniewo	S	Zakrzewek	S	Zalesie
-	K	Pieńki
-	K	Skały
-Stary Lubotyń
-	S	Budziszki	S	Chmielewo	S	Gniazdowo	S	Grądziki	S	Gumowo	S	Klimonty	S	Kosewo	S	Koskowo	S	Lubotyń-Kolonia	S	Lubotyń-Morgi	S	Lubotyń-Włóki	S	Podbiele	S	Podbielko	S	Rabędy	S	Rogowo-Folwark	S	Rogówek	S	Rząśnik	S	Stary Lubotyń	S	Stary Turobin	S	Sulęcin Szlachecki	S	Sulęcin Włościański	S	Świerże	S	Turobin-Brzozowa	S	Żochowo	S	Żyłowo
-	P	Stare Rogowo
-Sulborze Wielkie
-	S	Brulino-Lipskie	S	Godlewo-Gudosze	S	Gostkowo	S	Grędzice	S	Helenowo	S	Janczewo-Sukmanki	S	Janczewo Wielkie	S	Leśniewo	S	Mianówek	S	Słup	S	Słup-Kolonia	S	Smolewo-Parcele	S	Smolewo-Wieś	S	Szulborze Wielkie	S	Świerże-Leśniewek	S	Uścianek-Dębianka	S	Zakrzewo-Zalesie
-	P	Grabniak
-	P	Gumowo-Dobki
-	P	Szulborze-Koty
-Wąsewo
-	S	Bagatele	S	Bartosy	S	Brudki Nowe	S	Brudki Stare	S	Brzezienko	S	Choiny	S	Czesin	S	Dalekie	S	Grądy	S	Grębki	S	Jarząbka	S	Króle	S	Majdan Suski	S	Modlinek	S	Mokrylas	S	Przedświt	S	Przyborowie	S	Rososz	S	Ruda	S	Rynek	S	Rząśnik-Majdan	S	Rząśnik Szlachecki	S	Rząśnik Włościański	S	Trynosy	S	Trynosy-Osiedle	S	Ulasek	S	Wąsewo	S	Wąsewo-Kolonia	S	Wysocze	S	Zastawie	S	Zgorzałowo
-	NS	Przyborowie-Kolonia
-	NS	Trynosy
-	NS	Wąsewo-Lachowiec
-Zaręby Kościelne
-	S	Budziszewo	S	Chmielewo	S	Gaczkowo	S	Gąsiorowo	S	Grabowo	S	Kępiste-Borowe	S	Kietlanka	S	Kosuty	S	Niemiry-Stara Złotoria-Kańkowo-Piecki	S	Nienałty-Brewki	S	Nienałty-Szymany	S	Nowa Złotoria	S	Pętkowo Wielkie	S	Pułazie	S	Rawy	S	Rostki-Daćbogi	S	Skłody-Piotrowice	S	Skłody-Stachy	S	Skłody Średnie	S	Świerże-Kończany	S	Świerże-Kiełcze	S	Świerże-Kolonia	S	Świerże-Panki	S	Świerże Zielone	S	Uścianek Wielki	S	Zakrzewo-Kopijki	S	Zakrzewo Wielkie	S	Zaręby Kościelne	S	Zaręby Leśne	S	Zgleczewo Panieńskie	S	Zgleczewo Szlacheckie
-Powiat otwocki
-Karczew
-	S	Brzezinka	S	Całowanie	S	Glinki	S	Janów	S	Kępa Nadbrzeska	S	Kosumce	S	Łukówiec	S	Nadbrzeż	S	Ostrówek	S	Ostrówiec	S	Otwock Mały	S	Otwock Wielki	S	Piotrowice	S	Sobiekursk	S	Wygoda
-	P	Władysławów
-Celestynów
-	S	Celestynów	S	Dąbrówka	S	Dyzin	S	Glina	S	Jatne	S	Lasek	S	Ostrowik	S	Ostrów	S	Podbiel	S	Pogorzel	S	Ponurzyca	S	Regut	S	Stara Wieś	S	Tabor	S	Zabieżki
-	NS	Okoły
-	NS	Samuszyn
-Kołbiel
-	S	Antoninek	S	Bocian	S	Borków	S	Chrosna	S	Chrząszczówka	S	Człekówka	S	Dobrzyniec	S	Gadka	S	Głupianka	S	Gózd	S	Karpiska	S	Kąty	S	Kołbiel	S	Lubice
-	S	Lubice I
-	S	Lubice II	S	Nowa Wieś	S	Oleksin	S	Podgórzno	S	Radachówka	S	Rudno	S	Rudzienko	S	Sępochów	S	Siwianka	S	Skorupy	S	Stara Wieś Druga	S	Sufczyn	S	Teresin	S	Władzin	S	Wola Sufczyńska
-	NS	Bolechówek
-	NS	Kujawki
-	NS	Wilczarz
-Osieck
-	S	Augustówka	S	Czarnowiec	S	Górki	S	Grabianka	S	Lipiny	S	Natolin	S	Nowe Kościeliska	S	Osieck	S	Pogorzel	S	Rudnik	S	Sobienki	S	Stare Kościeliska	S	Wójtowizna
-	P	Kolonia Pogorzel
-	P	Osieck pod Górą
-	P	Osieck pod Grabinką
-	P	Pod Rudnikiem
-Sobienie-Jeziory
-	S	Dziecinów	S	Gusin	S	Karczunek	S	Nowy Zambrzyków	S	Piwonin	S	Przydawki	S	Radwanków Królewski	S	Radwanków Szlachecki	S	Sewerynów	S	Siedzów	S	Sobienie Biskupie	S	Sobienie Kiełczewskie Drugie	S	Sobienie Kiełczewskie Pierwsze	S	Sobienie Szlacheckie	S	Sobienie-Jeziory	S	Stary Zambrzyków	S	Szymanowice Duże	S	Szymanowice Małe	S	Śniadków Dolny	S	Śniadków Górny	S	Śniadków Górny A	S	Warszawice	S	Warszówka	S	Wysoczyn	S	Zuzanów
-	P	Potok
-	P	Zuzanów
-Wiązownia
-	S	Bolesławów	S	Boryszew	S	Czarnówka	S	Duchnów	S	Dziechciniec	S	Glinianka
-	S	Glinianka I	S	Glinianka II	S	Góraszka	S	Izabela	S	Kąck	S	Kopki	S	Kruszówiec	S	Lipowo	S	Majdan	S	Malcanów	S	Michałówek	S	Pęclin	S	Poręby	S	Rzakta	S	Stefanówka	S	Wiązowna
-	S	Wiązowna Gminna	S	Wiązowna Kościelna	S	Wola Ducka	S	Wola Karczewska	S	Zakręt	S	Żanęcin
-	OS	Emów
-	OS	Parkowe
-	OS	Radiówek
-	OS	Rudka
-	P	Gródek
-	P	Janówek
-	P	Zagórze
-Powiat piaseczyński
-Góra Kalwiaria
-	W	Aleksandrów	W	Baniocha	W	Borki	W	Brześce	W	Brzumin	W	Buczynów	W	Cendrowice	W	Coniew	W	Czachówek	W	Czaplin	W	Czaplinek	W	Czarny Las	W	Czersk	W	Dębówka	W	Dobiesz	W	Julianów	W	Karolina	W	Kąty	W	Kępa Radwankowska	W	Królewski Las	W	Krzaki Czaplinkowskie	W	Krzymów	W	Linin	W	Łubna	W	Ługówka	W	Mikówiec	W	Moczydłów	W	Obręb	W	Ostrówik	W	Pęcław	W	Podgóra	W	Podłęcze	W	Podosowa	W	Potycz	W	Sierzchów	W	Sobików	W	Solec	W	Szymanów	W	Tomice	W	Wincentów	W	Wojciechowice	W	Wólka Dworska	W	Wólka Załęska
-Konstancin-Jeziorna
-	S	Bielawa	S	Borowina	S	Cieciszew	S	Ciszyca	S	Czarnów	S	Czernidła	S	Dębówka	S	Gassy	S	Habdzin	S	Kawęczyn	S	Kawęczynek	S	Kępa Oborska	S	Kępa Okrzewska	S	Kierszek	S	Łęg	OS	Obory	S	Obórki	S	Okrzeszyn	S	Opacz	S	Parcela	S	Piaski	S	Słomczyn	S	Turowice
-Piaseczno
-	S	Antoninów - Kuleszówka	S	Baszkówka	S	Bąkówka	S	Bobrowiec	S	Bogatki	S	Chojnów	S	Chylice	S	Chyliczki	S	Głosków	S	Głosków-Letnisko	S	Gołków	S	Grochowa - Pęchery	S	Henryków-Urocze	S	Jastrzębie	S	Jazgarzew	S	Jesówka	S	Józefosław	S	Julianów	S	Kamionka	S	Łbiska	S	Mieszkowo	S	Orzeszyn - Pilawa	S	Robercin	S	Runów	S	Siedliska	S	Szczaki	S	Wola Gołkowska	S	Wólka Kozodawska	S	Wólka Pracka	S	Zalesie Górne	S	Złotokłos	S	Żabieniec
-Tarczyn
-	S	Borowiec	S	Bystrzanów	S	Gąski	S	Gładków	S	Grzędy	S	Janówek	S	Jeziorzany	S	Jeżewice	S	Józefowice	S	Kawęczyn	S	Komorniki	S	Kopana	S	Korzeniówka-Marylka	S	Kotorydz	S	Księżak	S	Many	S	Marianka	S	Nosy	S	Pawłowice	S	Prace Duże	S	Prace Małe	S	Przypki	S	Racibory	S	Rembertów	S	Ruda	S	Stefanówka	S	Suchodół	S	Suchostruga	S	Świętochów	S	Werdun	S	Wola Przypkowska	S	Wólka Jeżewska	S	Wylezin
-	P	Brominy	P	Cieśle	P	Drozdy	P	Duki	P	Julianów	P	Księżowola	P	Leśna Polana	P	Nowe Racibory	P	Pamiątka	P	Popielarze	P	Skrzeczeniec	P	Stara Kopana
-Lesznowola
-	S	Garbatka	S	Jabłonowo	S	Janczewice	S	Jazgarzewszczyzna	S	Lesznowola	S	Łazy	S	Magdalenka	S	Marysin	S	Mroków	S	Mysiadło	S	Nowa Iwiczna	S	Nowa Wola	S	Podolszyn	S	Stara Iwiczna	S	Stefanowo	S	Wilcza Góra	S	Władysławów	S	Wola Mrokowska	S	Wólka Kosowska	S	Zamienie	S	Zgorzała
-	P	Borowina	P	Derdy	P	Kolonia Lesznowola	P	Kolonia Mrokowska	P	Kolonia Warszawska	P	Kosów	P	Lesznowola-Pole	P	Łoziska	P	Mroków-Kolonia	P	Stachowo	P	Warszawianka
-Prażmów
-	S	Biały Ług	S	Błonie	S	Bronisławów	S	Chosna	S	Dobrzenica	S	Gabryelin	S	Jaroszowa Wola	S	Jeziórko	S	Kędzierówka	S	Kolonia Gościeńczyce	S	Koryta	S	Krępa	S	Krupia Wólka	S	Ludwików	S	Ławki	S	Łoś	S	Nowe Wągrodno	S	Nowy Prażmów	S	Piskórka	S	Prażmów	S	Ustanów	S	Uwieliny	S	Wągrodno	S	Wilcza Wólka	S	Wola Prażmowska	S	Wola Wągrodzka	S	Zadębie	S	Zawodne
-	NS	Kamionka
-	G	Łoś
-	L	Łoś
-Powiat płocki
-Drobin
-	S	Biskupice	S	Łęg Kościelny
-	S	Łęg Kościelny I
-	S	Łęg Kościelny II	S	Łęg Probostwo	S	Maliszewko	S	Małachowo	S	Mogielnica	S	Mogielnica-Kolonia	S	Nagórki Dobrskie	S	Nagórki-Olszyny	S	Niemczewo	S	Nowa Wieś	S	Psary	S	Rogotwórsk	S	Setropie	S	Siemienie	S	Siemki	S	Sokolniki	S	Stanisławowo	S	Świerczynek
-	S	Świerczynek I
-	S	Świerczynek II	S	Świerczyn	S	Świerczyn-Bęchy	S	Tupadły	S	Warszewka	S	Wilkęsy	S	Wrogocin	S	Borowo	S	Brelki	S	Brzechowo	S	Budkowo	S	Chudzynek	S	Chudzyno	S	Cieszewko	S	Cieszewo	S	Cieśle	S	Dobrosielice Pierwsze	S	Dobrosielice Drugie	S	Dziewanowo	S	Karsy	S	Kłaki	S	Kostery	S	Kowalewo	S	Kozłówko	S	Kozłowo	S	Krajkowo	S	Kuchary
-Gąbin
-	W	Borki	W	Czermno	W	Dobrzyków	W	Górki	W	Góry Małe	W	Grabie Polskie	W	Guzew	W	Jadwigów	W	Jordanów	W	Kamień-Słubice	W	Karolew	W	Kępina	W	Konstantynów	W	Koszelew	W	Lipińskie	W	Ludwików	W	Nowa Korzeniówka	W	Nowe Grabie	W	Nowe Wymyśle	W	Nowy Kamień	W	Nowy Troszyn	W	Okolusz	W	Piaski	W	Plebanka	W	Potrzebna	W	Przemysłów	W	Rumunki	W	Stara Korzeniówka	W	Stary Kamień	W	Strzemeszno	W	Topólno	W	Troszyn Polski
-Wyszogród
-	S	Bolino	S	Chmielewo	S	Ciućkowo	S	Drwały	S	Grodkowo	S	Grodkówko	S	Kobylniki	S	Marcjanka	S	Pozarzyn	S	Pruszczyn	S	Rakowo	S	Rębowo	S	Rostkowice	S	Słomin	S	Starzyno	S	Wiązówka	S	Wilczkowo
-	NS	Bielice
-Bielsk
-	S	Bielsk	S	Bolechowice	S	Cekanowo	S	Ciachcin	S	Dębsk	S	Drwały	S	Dziedzice	S	Gilino	S	Giżyno	S	Goślice	S	Jaroszewo Biskupie	S	Jaroszewo-Wieś	S	Jączewo	S	Józinek	S	Kędzierzyn	S	Kleniewo	S	Kłobie	S	Konary	S	Kuchary-Jeżewo	S	Leszczyn Księży	S	Leszczyn Szlachecki	S	Lubiejewo	S	Machcino	S	Niszczyce	S	Niszczyce-Pieńki	S	Rudowo	S	Sękowo	S	Smolino	S	Szewce	S	Śmiłowo	S	Tchórz	S	Tłubice	S	Ułtowo	S	Umienino	S	Zagroba	S	Zakrzewo	S	Zągoty	S	Żukowo
-	P	Ciachcin Nowy
-	P	Machcinko
-	P	Pęszyno
-	P	Strusino
-Bodzanów
-	W	Archutowo	W	Archutówko	W	Białobrzegi	W	Bodzanów	W	Borowice	W	Budy Borowickie	W	Chodkowo	W	Chodkowo-Działki	W	Cieśle	W	Cybulin	W	Felicjanów	W	Garwacz	W	Gąsewo	W	Gromice	W	Kanigowo	W	Karwowo Duchowne	W	Kępa Polska	W	Kłaczkowo	W	Krawieczyn	W	Leksyn	W	Łagiewniki	W	Łętowo	W	Małoszewo	W	Małoszywka	W	Mąkolin	W	Mąkolin-Kolonia	W	Miszewko	W	Miszewo Murowane	W	Niesłuchowo	W	Nowe Kanigowo	W	Nowe Miszewo	W	Nowy Reczyn	W	Osmolinek	W	Parkoczewo	W	Pepłowo	W	Ramutówko	W	Reczyn	W	Stanowo	W	Wiciejewo
-Brudzeń Duży
-	S	Bądkowo Kościelne	S	Bądkowo-Rochny	S	Bądkowo-Rumunki	S	Brudzeń Duży	S	Brudzeń Mały	S	Cegielnia	S	Główina	S	Gorzechowo	S	Karwosieki-Cholewice	S	Karwosieki-Noskowice	S	Kłobukowo-Patrze	S	Krzyżanowo	S	Lasotki	S	Murzynowo	S	Myśliborzyce	S	Nowe Karwosieki	S	Parzeń	S	Rembielin	S	Rokicie
-	S	Rokicie I	S	Siecień	S	Siecień-Rumunki	S	Sikórz	S	Sobowo	S	Strupczewo Duże	S	Suchodół	S	Turza Mała	S	Turza Wielka	S	Uniejewo	S	Więcławice	S	Winnica	S	Żerniki
-	P	Bądkowo Jeziorne	P	Bądkowo-Podlasie	P	Biskupice	P	Cierszewo	P	Izabelin	P	Janoszyce	P	Łukoszyno-Borki	P	Parzeń-Janówek	P	Radotki	P	Robertowo	P	Wincentowo	P	Zdziembórz
-Bulkowo
-	W	Blichowo	W	Bulkowo	W	Bulkowo-Kolonia	W	Chlebowo	W	Daniszewo	W	Dobra	W	Gniewkowo	W	Gocłowo	W	Golanki Górne	W	Krubice Stare	W	Krzykosy	W	Malenie	W	Nadułki	W	Nadułki-Majdany	W	Nowa Słupca	W	Nowe Krubice	W	Nowe Łubki	W	Nowe Rogowo	W	Nowy Podleck	W	Osiek	W	Pilichowo	W	Pilichówko	W	Rogowo	W	Słupca	W	Sochocino-Badurki	W	Sochocino-Czyżewo	W	Sochocino-Praga	W	Słupca	W	Stare Łubki	W	Stary Podleck	W	Szasty	W	Włóki	W	Wołowa	W	Worowice
-Łąck
-	S	Antoninów-Korzeń Rządowy	S	Grabina	S	Korzeń Królewski-Podlasie	S	Koszelówka	S	Kościuszków-Władysławów	S	Ludwików	S	Łąck	S	Matyldów	S	Nowe Rumunki	S	Sędeń Duży	S	Sędeń Mały	S	Wincentów	S	Wola Łącka	S	Zaździerz	S	Zdwórz	S	Zofiówka
-	OL	Łąck
-Mała Wieś
-	S	Borzeń	S	Brody Duże	S	Chylin	S	Dzierżanowo	S	Główczyn	S	Kiełtyki	S	Lasocin	S	Liwin	S	Mała Wieś	S	Nakwasin	S	Niździn	S	Nowe Arciszewo	S	Nowe Gałki	S	Nowe Święcice	S	Orszymowo	S	Perki	S	Podgórze	S	Podgórze-Parcele	S	Stare Arciszewo	S	Stare Gałki	S	Stare Święcice	S	Węgrzynowo	S	Wilkanowo	S	Zakrzewo Kościelne
-	NS	Brody Małe	NS	Dzierżanowo-Osada	NS	Kupise	NS	Murkowo	NS	Przykory	NS	Rąkcice	NS	Ściborowo
-Nowy Duninów
-	S	Brwilno	S	Brwilno Dolne-Soczewka	S	Duninów Duży	S	Dzierzązna	S	Kamion-Grodziska	S	Karolewo-Nowa Wieś	S	Lipianki	S	Nowy Duninów	S	Popłacin	S	Stary Duninów	S	Środoń-Brzezinna Góra	S	Trzcianno-Jeżewo	S	Wola Brwileńska
-Radzanowo
-	S	Białkowo	S	Brochocin	S	Brochocinek	S	Chełstowo	S	Chomętowo	S	Ciółkowo	S	Ciółkówko	S	Czerniewo	S	Dźwierzno	S	Juryszewo	S	Kosino	S	Kostrogaj	S	Łoniewo	S	Męczenino	S	Nowe Boryszewo	S	Radzanowo	S	Radzanowo-Dębniki	S	Radzanowo-Lasocin	S	Rogozino	S	Stare Boryszewo	S	Stróżewko	S	Szczytno	S	Ślepkowo Królewskie	S	Ślepkowo Szlacheckie	S	Śniegocin	S	Trębin	S	Wodzymin	S	Woźniki	S	Woźniki-Paklewy	S	Wólka
-Słubice
-	S	Alfonsów	S	Budy	S	Grabowiec	S	Grzybów	S	Jamno	S	Juliszew-Sady	S	Łaziska	S	Nowosiadło	S	Nowy Wiączemin	S	Piotrkówek	S	Potok Biały	S	Rybaki	S	Słubice	S	Świniary	S	Wiączemin Polski	S	Wymyśle Polskie	S	Nowy Życk-Leonów	S	Życk Polski
-Słupno
-	W	Barcikowo	W	Bielino	W	Borowiczki-Pieńki	W	Cekanowo	W	Gulczewo	W	Liszyno	W	Mijakowo	W	Mirosław	W	Miszewko-Stefany	W	Miszewko Strzałkowskie	W	Nowe Gulczewo	W	Piotrowo	W	Ramutowo	W	Rydzyno	W	Sambórz	W	Słupno	W	Stare Gulczewo	W	Szeligi	W	Święcieniec	W	Wykowo
-	O	Pieńki Ośnickie
-Stara Biała
-	S	Biała	S	Bronowo Kmiece	S	Bronowo-Zalesie	S	Brwilno	S	Dziarnowo	S	Kamionki	S	Kobierniki	S	Kowalewko	S	Kruszczewo	S	Mańkowo	S	Maszewo	S	Maszewo Duże	S	Miłodróż	S	Nowa Biała	S	Nowe Draganie	S	Nowe Proboszczewice	S	Nowe Trzepowo	S	Srebrna	S	Stara Biała	S	Stare Proboszczewice	S	Wyszyna
-	P	Ludwikowo	P	Nowe Bronowo	P	Ogorzelice	P	Stare Draganie	P	Trzebuń	P	Ulaszewo	P	Włoczewo
-Starorzeźby
-	S	Aleksandrowo	S	Begno	S	Bromierz	S	Bromierzyk	S	Brudzyno	S	Bylino	S	Dąbrusk	S	Dłużniewo Duże	S	Goszczyno	S	Góra	S	Karwowo-Podgórne	S	Kierz	S	Krzywanice	S	Mieczyno	S	Nowa Wieś	S	Nowe Staroźreby	S	Nowy Bromierz	S	Nowy Bromierzyk	S	Płonna	S	Przeciszewo	S	Przeciszewo-Kolonia	S	Przedbórz	S	Przedpełce	S	Rogowo	S	Rostkowo	S	Sarzyn	S	Sędek	S	Słomkowo	S	Smardzewo	S	Staroźreby	S	Staroźreby-Hektary	S	Stoplin	S	Strzeszewo	S	Szulbory	S	Worowice-Wyroby	S	Zdziar Mały	S	Zdziar Wielki
-	P	Błażejewice	P	Dłużniewo Małe	P	Falęcin	P	Goszczyno-Czajki	P	Goszczyno-Karpięcin	P	Grabina	P	Kiełbasy	P	Kościółki	P	Krawieczyn	P	Krzywanice-Trojany	P	Marychnów	P	Mikołajewo	P	Mikołajewo za Traktem	P	Mrówczewo	P	Nowa Góra	P	Nowa Wieś-Parcela	P	Nowe Żochowo	P	Opatówiec	P	Ostrzykówek	P	Pieńki Bromierzyckie	P	Piączyn	P	Piączyn-Chrapy	P	Plebanka	P	Płonna Pańska	P	Płonna Szlachecka	P	Resztówka	P	Rogówko	P	Rostkowo-Orszymowice	P	Staroźreby-Kolonia	P	Teodorowo	P	Witkowice	P	Włosty	P	Włościany	P	Zdziar Gąsowski	P	Zdziar-Las	P	Zdziar-Łopatki	P	Żochowo Stare	P	Żochówek
-Powiat płoński
-Baboszewo
-	S	Baboszewo	S	Bożewo	S	Brzeście	S	Brzeście Małe	S	Brzeście Nowe	S	Budy Radzymińskie	S	Cieszkowo-Kolonia	S	Cieszkowo Nowe	S	Cieszkowo Stare	S	Cywiny-Dynguny	S	Cywiny Wojskie	S	Dłużniewo	S	Dramin	S	Dziektarzewo	S	Galomin	S	Galominek	S	Galominek Nowy	S	Goszczyce Poświętne	S	Goszczyce Średnie	S	Jarocin	S	Jesionka	S	Kiełki	S	Korzybie	S	Kowale	S	Krościn	S	Kruszewie	S	Lachówiec	S	Lutomierzyn	S	Mystkowo	S	Niedarzyn	S	Pawłowo	S	Pieńki Rzewińskie	S	Polesie	S	Rybitwy	S	Rzewin	S	Sarbiewo	S	Sokolniki Nowe	S	Sokolniki Stare	S	Śródborze	S	Wola Dłużniewska	S	Wola-Folwark	S	Zbyszyno
-Czerwińsk nad Wisłą
-	S	Nowy Boguszyn	S	Stary Boguszyn	S	Chociszewo	S	Czerwińsk nad Wisłą	S	Garwolewo	S	Gawarzec Dolny	S	Gawarzec Górny	S	Goławin	S	Goworowo	S	Grodziec	S	Janikowo	S	Karnkowo	S	Komsin	S	Kuchary-Skotniki	S	Łbowo	S	Miączyn	S	Miączynek	S	Nieborzyn	S	Osiek	S	Parlin	S	Nowe Przybojewo	S	Stare Przybojewo	S	Nowe Radzikowo	S	Radzikowo Scalone	S	Stare Radzikowo	S	Raszewo Dworskie	S	Raszewo Włościańskie	S	Roguszyn	S	Sielec	S	Stobiecin	S	Wilkowuje	S	Wilkówiec	S	Wola	S	Wólka Przybójewska	S	Wychódźc	S	Zarębin	S	Zdziark
-Dzierzążnia
-	W	Błomino-Gule	W	Błomino Gumowskie	W	Błomino-Jeże	W	Chrościn	W	Cumino	W	Dzierzążnia	W	Gumowo	W	Kadłubowo	W	Korytowo	W	Kucice	W	Niwa	W	Nowa Dzierzążnia	W	Nowe Gumino	W	Nowe Kucice	W	Nowe Sarnowo	W	Pluskocin	W	Podmarszczyn	W	Pomianowo	W	Pomianowo-Dzierki	W	Przemkowo	W	Rakowo	W	Sadkowo	W	Sarnowo-Góry	W	Siekluki	W	Skołatowo	W	Starczewo-Pobodze	W	Starczewo Wielkie	W	Stare Gumino	W	Wierzbica Pańska	W	Wierzbica Szlachecka	W	Wilamowice
-Joniec
-	S	Adamowo	S	Joniec	S	Joniec-Kolonia	S	Józefowo	S	Krajęczyn	S	Królewo	S	Ludwikowo	S	Nowa Wrona	S	Omięciny	S	Osiek	S	Popielżyn Górny	S	Popielżyn-Zawady	S	Proboszczewice	S	Sobieski	S	Soboklęszcz	S	Stara Wrona	S	Szumlin
-Naruszewo
-	S	Dłutowo	S	Drochowo	S	Grąbczewo	S	Januszewo	S	Kozarzewo	S	Krysk	S	Łazęki	S	Michałowo	S	Nacpolsk	S	Naruszewo	S	Nowe Naruszewo	S	Nowy Nacpolsk	S	Pieścidła	S	Postróże	S	Potyry	S	Radzymin	S	Rąbież	S	Skarboszewo	S	Skarszyn	S	Skwary	S	Sobanice	S	Sosenkowo	S	Srebrna	S	Stachowo	S	Stary Nacpolsk	S	Strzembowo	S	Troski	S	Wichorowo	S	Wronino	S	Zaborowo
-	S	Zaborowo I
-	S	Zaborowo II	S	Żukowo
-	P	Beszyno	P	Drochówka	P	Drochówka za Rąbieżem	P	Kębłowice	P	Nowy Krysk	P	Radzyminek	P	Sosenkowo-Osiedle	P	Stary Skarszyn	P	Tustań-Leśniczówka	P	Wola-Krysk	P	Wróblewo	P	Wróblewo-Osiedle	P	Żukowo Poświętne
-Nowe Miasto
-	W	Adamowo	W	Aleksandria	W	Anielin	W	Belin	W	Czarnoty	W	Gawłowo	W	Gawłówek	W	Gościmin Wielki	W	Grabie	W	Gucin	W	Henrykowo	W	Janopole	W	Jurzyn	W	Jurzynek	W	Kadłubówka	W	Karolinowo	W	Kubice	W	Latonice	W	Miszewo B	W	Miszewo Wielkie	W	Modzele-Bartłomieje	W	Modzele-Gajówka	W	Nowe Miasto	W	Nowe Miasto-Folwark	W	Nowosiółki	W	Popielżyn Dolny	W	Przepitki	W	Rostki	W	Salomonka	W	Szczawin	W	Tomaszewo	W	Władysławowo	W	Wólka Szczawińska	W	Zakobiel	W	Zasonie	W	Zawady B	W	Zawady Stare	W	Żołędowo
-Płońsk
-	S	Arcelin	S	Bogusławice	S	Bońki-Zawady	S	Brody	S	Cempkowo	S	Cholewy-Wroninko	S	Cieciórki	S	Ćwiklinek	S	Ćwiklin	S	Dalanówek	S	Ilinko	S	Ilino	S	Jeżewo	S	Kluczewo	S	Kownaty	S	Koziminy-Stachowo	S	Krępica	S	Lisewo	S	Michalinek	S	Michowo	S	Nowe Koziminy-Stare Koziminy	S	Pilitowo	S	Poczernin	S	Raźniewo	S	Siedlin	S	Skarżyn	S	Skrzynki	S	Słoszewo	S	Słoszewo-Kolonia	S	Strachowo	S	Strachówko	S	Strubiny	S	Szeromin	S	Szerominek	S	Szpondowo	S	Szymaki	S	Woźniki-Młyńsk-Pruszyn
-Raciąż
-	S	Bielany	S	Bogucin	S	Budy Kraszewskie	S	Charzyny	S	Chyczewo	S	Cieciersk	S	Ćwiersk	S	Dobrska-Kolonia	S	Dobrska-Włościany	S	Drozdowo	S	Druchowo	S	Folwark-Raciąż	S	Grzybowo	S	Jeżewo-Wesel	S	Kaczorowy	S	Kiełbowo	S	Kiniki	S	Kocięcin Brodowy	S	Kodłutowo	S	Kossobudy	S	Koziebrody	S	Kozolin	S	Krajkowo	S	Kraszewo-Czubaki	S	Kraszewo-Falki	S	Kraszewo-Gaczułty	S	Kraszewo Podborne	S	Kraśniewo	S	Kruszenica	S	Lipa	S	Łempinek	S	Łempino	S	Malewo	S	Mała Wieś	S	Młody Niedróż	S	Nowe Gralewo	S	Nowy Komunin	S	Nowe Młodochowo	S	Pęsy	S	Pólka-Raciąż	S	Sierakowo	S	Stare Gralewo	S	Stary Komunin	S	Strożęcin	S	Szapsk	S	Szczepkowo	S	Unieck	S	Wępiły	S	Witkowo	S	Zdunówek	S	Złotopole	S	Żukowo-Strusie	S	Żychowo
-	P	Draminek	P	Kocięcin-Tworki	P	Kozolin	P	Krajkowo-Budki	P	Kraszewo-Rory	P	Kraszewo-Sławęcin	P	Sikory	P	Stare Młodochowo	P	Stary Niedróż	P	Żukowo-Wawrzonki
-Sochocin
-	S	Baraki	S	Biele	S	Bolęcin	S	Budy Gutarzewskie	S	Ciemniewo	S	Drożdżyn	S	Gromadzyn	S	Gutarzewo	S	Idzikowice	S	Jędrzejewo	S	Kępa	S	Koliszewo	S	Kołoząb	S	Kondrajec	S	Kolonia Sochocin	S	Kuchary Królewskie	S	Kuchary Żydowskie	S	Milewo	S	Niewikla	S	Podsmardzewo	S	Rzy	S	Smardzewo	S	Sochocin	S	Ślepowrony	S	Wycinki	S	Wierzbówiec	S	Żelechy
-Załuski
-	S	Falbogi Wielkie	S	Gostolin	S	Kamienica	S	Kamienica-Wygoda	S	Karolinowo	S	Koryciska	S	Kroczewo	S	Michałówek	S	Naborówiec	S	Naborowo	S	Naborowo-Parcele	S	Niepiekła	S	Nowe Olszyny	S	Nowe Wrońska	S	Przyborowice Dolne	S	Przyborowice Górne	S	Sadówiec	S	Słotwin	S	Smólska	S	Sobole	S	Stare Olszyny	S	Stare Wrońska	S	Stróżewo	S	Szczytniki	S	Szczytno	S	Wilamy	S	Wojny	S	Załuski	S	Zdunowo	S	Złotopolice
-	P	Dłutówek	P	Głodowo	P	Kamienica-Folwark	P	Kamienica-Kozaki	P	Kamienica-Pieńki	P	Kroczewo-Baraki	P	Sokal	P	Wymyślin	P	Zajączki	P	Zarzecze
-Powiat pruszkowski
-Brwinów
-	S	Biskupice	S	Czubin	S	Domaniew	S	Falęcin	S	Kanie	S	Koszajec	S	Kotowice	S	Krosna	S	Milęcin	S	Moszna	S	Otrębusy	S	Owczarnia	S	Parzniew	S	Terenia	S	Żółwin
-	NS	Domaniewek	NS	Grudów	NS	Kopana	NS	Krosna-Parcela	NS	Moszna-Parcela	NS	Popówek
-Michałowice
-	S	Komorów	S	Michałowice-Wieś	S	Nowa Wieś	S	Opacz-Kolonia	S	Opacz Mała	S	Pęcice	S	Pęcice Małe	S	Reguły	S	Sokołów	S	Suchy Las
-	OS	Granica
-	OS	Komorów
-	OS	Michałowice
-Nadarzyn
-	S	Kajetany	S	Krakowiany	S	Młochów-Bieliny-Żabieniec	S	Nadarzyn I	S	Nadarzyn II	S	Parole	S	Rozalin	S	Rusiec	S	Stara Wieś	S	Strzeniówka	S	Szamoty	S	Urzut-Kostowiec	S	Walendów	S	Wola Krakowiańska	S	Wolica
-	P	Paszków
-Raszyn
-	S	Dawidy	S	Dawidy Bankowe	S	Falenty	S	Falenty Duże	S	Falenty Nowe	S	Janki	S	Jaworowa	S	Laszczki	S	Łady	S	Nowe Grocholice	S	Podolszyn Nowy	S	Puchały	S	Raszyn	S	Rybie	S	Sękocin-Las	S	Sękocin Nowy	S	Sękocin Stary	S	Słomin	S	Wypędy
-Powiat przasnyski
-Chorzele
-	S	Aleksandrowo	S	Annowo	S	Bagienice	S	Binduga	S	Bobry	S	Bogdany Małe	S	Bogdany Wielkie	S	Brzeski-Kołaki	S	Budki	S	Bugzy Płoskie	S	Bugzy-Jarki	S	Bugzy-Święchy	S	Czaplice-Furmany	S	Czaplice-Piłaty	S	Czaplice Wielkie	S	Czarzaste Małe	S	Czarzaste Wielkie	S	Dąbrowa	S	Dąbrówka Ostrowska	S	Duczymin	S	Dzierzęga-Nadbory	S	Gadomiec-Chrzczany	S	Gadomiec-Miłocięta	S	Gadomiec-Peronie	S	Grąd Rycicki	S	Jarzynny Kierz	S	Jedlinka	S	Krukowo	S	Krzynowłoga Wielka	S	Kwiatkowo	S	Kwiatkowo k. Duczymina	S	Lipowiec	S	Liwki	S	Łaz	S	Łazy	S	Mącice	S	Niskie Wielkie	S	Nowa Wieś	S	Nowa Wieś Zarębska	S	Opaleniec	S	Opiłki Płoskie	S	Poścień-Wieś	S	Poścień-Zamion	S	Pruskołęka	L	Pruskołęka	S	Przysowy	S	Przątalina	S	Rapaty-Górki	S	Rapaty-Sulimy	S	Rapaty-Żachy	S	Raszujka	S	Rawki	S	Rembielin	S	Rycice	G	Rycice	L	Rycice	S	Rzodkiewnica	S	Skuze	S	Sosnówek	S	Stara Wieś	S	Ścięciel	S	Wasiły-Zygny	S	Wierzchowizna	S	Wólka Zdziwójska	S	Zagaty	S	Zaręby	S	Zdziwój Nowy	S	Zdziwój Stary
-Czernice Borowe
-	S	Borkowo-Falenta	S	Chojnowo	S	Chrostowo	S	Czernice Borowe	S	Dzielin	S	Górki	S	Grójec	S	Jastrzębiec	S	Kadzielnia	S	Kosmowo	S	Kuskowo	S	Miłoszewiec	S	Nowe Czernice	S	Obrębiec	S	Olszewiec	S	Pawłowo Kościelne	S	Pawłówko	S	Pierzchały	S	Rostkowo	S	Szczepanki	S	Turowo	S	Węgra	S	Załogi-Jędrzejki	S	Zberoż	S	Zembrzus	S	Żebry
-	W	Żebry-Idźki
-	W	Żebry-Kordy
-	P	Borkowo-Boksy
-	P	Toki
-Jednorożec
-	S	Budy Rządowe	S	Drążdżewo Nowe	S	Dynak	S	Jednorożec	S	Kobylaki-Czarzaste	S	Kobylaki-Korysze	S	Kobylaki-Wólka	S	Lipa	S	Małowidz	S	Obórki	S	Olszewka	S	Parciaki	S	Połoń	S	Stegna	S	Ulatowo-Dąbrówka	S	Ulatowo-Pogorzel	S	Ulatowo-Słabogóra	S	Żelazna Prywatna	S	Żelazna Rządow
-	P	Budziska	P	Kamienica	P	Kobylaki-Konopki	P	Murowanka	P	Nakieł	P	Parciaki-Stacja	P	Przejmy	P	Szkopnik	P	Uścianek	P	Zadziory	P	Żelazna Rządowa-Gutocha
-Krasne
-	S	Bartołdy	S	Brzozowo Wielkie	S	Gorąca	S	Grabowo Wielkie	S	Kozin	S	Kraski-Ślesice	S	Krasne	S	Krasne-Elżbiecin	S	Kurowo	S	Milewo-Brzegędy	S	Milewo-Szwejki	S	Milewo-Tabuły	S	Milewo-Rączki	S	Mosaki-Rukle	S	Mosaki-Stara Wieś	S	Niesiobędy	S	Nowe Żmijewo	S	Nowokrasne	S	Pęczki-Kozłowo	S	Stary Janin	S	Szlasy-Umiemy	S	Wężewo	S	Zalesie	S	Zielona	S	Żbiki	S	Żbiki-Gawronki
-	P	Augustów	P	Barańce	P	Brzozowo Małe	P	Dąbki	P	Dębowa Karczma	P	Filipy	P	Godacze	P	Grabowo Gęsie	P	Grabówko	P	Gustawin	P	Helenów	P	Iłówko	P	Jaźwiny	P	Kamienice-Ślesice	P	Kurówko	P	Łyszkowo	P	Milewo-Bylice	P	Milewo-Gawary	P	Milewo-Kulki	P	Milewo-Ruszczyny	P	Nowa Wieś	P	Szlasy-Leszcze	P	Szlasy-Umiemy Zielonki	P	Żbiki-Antosy	P	Żbiki-Kierzki	P	Żbiki-Starki
-Krzynowłoga Mała
-	S	Borowe-Chrzczany	S	Bystre-Chrzany	S	Chmieleń Wielki	S	Chmielonek	S	Cichowo	S	Czaplice-Bąki	S	Czaplice-Kurki	S	Gadomiec-Jędryki	S	Gadomiec-Wyraki	S	Goski-Wąsosze	S	Grabowo-Rżańce	S	Kaki-Mroczki	S	Kawieczyno-Saksary	S	Krajewo-Kłódki	S	Krajewo Wielkie	S	Krzynowłoga Mała	S	Łanięta	S	Łoje	S	Marianowo	S	Masiak	S	Morawy Wielkie	S	Ostrowe-Stańczyki	S	Ożumiech	S	Piastowo	S	Plewnik	S	Romany-Fuszki	S	Romany-Janowięta	S	Romany-Sebory	S	Romany-Sędzięta	S	Rudno Jeziorowe	S	Rudno Kmiece	S	Rudno-Kosiły	S	Skierkowizna	S	Świniary	S	Ulatowo-Adamy	S	Ulatowo-Czerniaki	S	Ulatowo-Zalesie	S	Ulatowo-Żyły	S	Wiktorowo
-	NS	Borowe-Gryki	NS	Gadomiec-Jebieńki	NS	Grabowo-Skorupki	NS	Grabowo-Zawady	NS	Krajewo-Wierciochy	NS	Ulatowo-Borzuchy	NS	Ulatowo-Gać	NS	Ulatowo-Janowięta	NS	Zbrochy
-Przasnysz
-	S	Bartniki	S	Bogate	S	Cierpigórz	S	Dębiny	S	Dobrzankowo	S	Emowo	S	Fijałkowo	S	Golany	S	Gostkowo	S	Góry Karwackie	S	Grabowo	S	Karwacz	S	Kijewice	S	Klewki	S	Leszno	S	Lisiogóra	S	Mchowo	S	Mchówko	S	Mirów	S	Helenowo Nowe	S	Obrąb	S	Oględa	S	Osówiec Kmiecy	S	Osówiec Szlachecki	S	Sątrzaska	S	Sierakowo	S	Stara Krępa	S	Helenowo Stare	S	Szla	S	Trzcianka	S	Wielodróż	S	Wyrąb Karwacki	S	Zakocie	S	Zawadki
-	P	Annopol	P	Brzezice	P	Cegielnia	P	Frankowo	P	Helenowo-Gadomiec	P	Janin	P	Józefowo	P	Karbówko	P	Księstwo	P	Kuskowo	P	Mirów	P	Nowa Krępa	P	Patołęka	P	Polny Młyn	P	Święte Miejsce	P	Wandolin	P	Wygoda
-Powiat przysuski
-Przysucha
-	S	Beźnik	S	Dębiny	S	Długa Brzezina	S	Gaj	S	Gliniec	S	Głęboka Droga	S	Hucisko	S	Jakubów	S	Janików	S	Janów	S	Kolonia Szczerbacka	S	Kozłowiec	S	Krajów	S	Kuźnica	S	Lipno	S	Pomyków	S	Ruski Bród	S	Skrzyńsko	S	Smogorzów	S	Wistka	S	Wola Więcierzowa	S	Zawada	S	Zbożenna
-	NS	Bociany	NS	Dębiny-Kolonia	NS	Drutarnia	NS	Fryszerka	NS	Gwarek	NS	Kolonia	NS	Kolonia	NS	Mariówka	NS	Rudnik
-	OL	Gajówka	OL	Gąsiorów	OL	Puszcza	OL	Rawicz	OL	Suchodół	OL	Zapniów
-Borkowice
-	S	Bolęcin	S	Borkowice	S	Bryzgów	S	Kochanów	S	Ninków	S	Niska Jabłonica	S	Politów	S	Radestów	S	Rudno	S	Rusinów	S	Ruszkowice	S	Rzuców	S	Smagów	S	Wola Kuraszowa	S	Wymysłów	S	Zdonków
-Gielniów
-	S	Antoniów	S	Bieliny	S	Brzezinki	S	Drynia (Stużańska)	S	Gałki	S	Gielniów	S	Goździków	S	Huta	S	Jastrząb	S	Kotfin	S	Mechlin	S	Marysin	S	Rozwady	S	Snarki	S	Sołtysy	S	Stoczki	S	Wywóz	S	Zielonka	S	Zygmuntów
-Klwów
-	S	Borowa Wola	S	Brzeski	S	Drążno	S	Głuszyna	S	Kadź	S	Klwów	S	Kłudno	S	Ligęzów	S	Nowy Świat	S	Podczasza Wola	S	Przystałowice Duże	S	Przystałowice Duże-Kolonia	S	Sady-Kolonia	S	Sulgostów	S	Ulów	S	Kolonia Ulów
-Odrzywół
-	S	Ceteń	S	Dąbrowa	S	Jelonek	S	Kamienna Wola	S	Kłonna	S	Kolonia Ossa	S	Lipiny	S	Łęgonice Małe	S	Myślakowice	S	Myślakowice-Kolonia	S	Odrzywół	S	Ossa	S	Różanna	S	Stanisławów	S	Wandzinów	S	Wysokin
-	P	Badulki	P	Dębowa Góra	P	Emilianów	P	Kłonna-Kolonia	P	Las Kamiennowolski	P	Piaski
-Potworów
-	S	Dąbrowa Goszczewicka	S	Długie	S	Grabowa	S	Grabowska Wola	S	Jamki	S	Kacperków	S	Kozieniec	S	Łojków	S	Marysin	S	Mokrzec	S	Potworów	S	Rdzuchów	S	Rdzuchów-Kolonia	S	Rdzów	S	Sady	S	Wir
-	P	Dłuska Wola	P	Gackowice	P	Olszany	P	Olszyna	P	Podgóry	P	Pólka	P	Stary Wir	P	Nowy Wir-Kolonia	P	Wirówek	P	Wymysłów	P	Zachatka	P	Żabia Wólka
-Rusinów
-	S	Bąków	S	Bąków-Kolonia	S	Brogowa	S	Gałki	S	Grabowa	S	Karczówka	S	Klonowa	S	Krzesławice	S	Nieznamierowice	S	Przystałowice Małe	S	Rusinów	S	Władysławów	S	Wola Gałecka	S	Zychorzyn
-Wieniawa
-	S	Brudnów	S	Głogów	S	Jabłonica	S	Kamień Duży	S	Kłudno	S	Kochanów Wieniawski	S	Komorów	S	Koryciska	S	Plec	S	Pogroszyn	S	Romualdów	S	Skrzynno	S	Sokolniki Mokre	S	Sokolniki Suche	S	Ryków,Wieniawa	S	Wola Brudnowska	S	Wydrzyn	S	Zagórze	S	Zawady	S	Żuków
-	P	Błotka	P	Brzozowica	P	Glinianki	P	Górka	P	Góry	P	Kaleń	P	Kamień Mały	P	Kaukaz	P	Komorów-Gajówka	P	Konary	P	Osiny	P	Pod Rogową	P	Pod Skrzynnem	P	Stajków	P	Za Bugiem	P	Za Górami	P	Zadąbrów
-Powiat pułtuski
-Pułtusk
-	S	Białowieża	S	Boby	S	Chmielewo	S	Głodowo	S	Gnojno	S	Grabówiec	S	Gromin	S	Jeżewo	S	Kacice	S	Kleszewo	S	Kokoszka	S	Lipa	S	Lipniki Nowe	S	Lipniki Stare	S	Moszyn	S	Olszak	S	Pawłówek	S	Płocochowo	S	Ponikiew	S	Przemiarowo	S	Szygówek	S	Trzciniec	S	Zakręt
-Gzy
-	S	Begno	S	Borza-Strumiany	S	Gotardy	S	Grochy-Imbrzyki	S	Grochy-Serwatki	S	Gzy	S	Gzy-Wisnowa	S	Kęsy-Wypychy	S	Kozłowo	S	Kozłówka	S	Łady-Krajęczyno	S	Mierzeniec	S	Nowe Borza	S	Nowe Przewodowo	S	Nowe Skaszewo	S	Ołdaki	S	Ostaszewo-Pańki	S	Ostaszewo Wielkie	S	Ostaszewo-Włuski	S	Pękowo	S	Porzowo	S	Przewodowo-Majorat	S	Przewodowo-Parcele	S	Przewodowo Poduchowne	S	Sisice	S	Skaszewo Włościańskie	S	Stare Grochy	S	Słończewo	S	Sulnikowo	S	Szyszki	S	Tąsewy	S	Wójty-Trojany	S	Zalesie-Lenki	S	Żebry-Falbogi	S	Żebry-Wiatraki
-	P	Borza-Przechy	P	Dębiny	P	Grochy-Krupy	P	Kałęczyn	P	Kęsy-Pańki	P	Marcisze	P	Ołdaki-Stefanowo	G	Przewodowo-Majorat	P	Szyszki-Folwark	P	Wysocki	P	Zalesie-Grzymały	P	Zalesie-Pacuszki	P	Żebry-Włosty	P	Żeromin Drugi
-Obryte
-	S	Bartodzieje	S	Ciółkowo Małe	S	Ciółkowo Nowe	S	Ciółkowo Rządowe	S	Cygany	S	Gródek Rządowy	S	Kalinowo	S	Nowy Gródek	S	Obryte	S	Płusy	S	Psary	S	Rozdziały	S	Sadykierz	S	Sokołowo-Parcele	S	Sokołowo Włościańskie	S	Stare Zambski	S	Tocznabiel	S	Ulaski	S	Wielgolas	S	Zambski Kościelne
-	P	Bartodzieje-Gajówka	P	Gostkowo	P	Lutobrok-Gajówka	P	Mokrus	P	Obryte-Leśniczówka	P	Pawłówek-Gajówka	P	Placusin-Gajówka	P	Ponikiew-Leśniczówka	P	Rowy	P	Skłudy	P	Tocznabiel	P	Stare Zambski
-Pokrzywnica
-	S	Budy Ciepielińskie	S	Budy Obrębskie	S	Budy Pobyłkowskie	S	Ciepielin	S	Dzbanice	S	Dzierżenin	S	Gzowo	S	Karniewek	S	Kępiaste	S	Klaski	S	Koziegłowy	S	Łępice	S	Łosewo	S	Łubienica	S	Łubienica-Superunki	S	Mory	S	Murowanka	S	Nowe Niestępowo 
-	W	Niestępowo Włościańskie
-	S	Niestępowo	S	Obręb	S	Obrębek	S	Olbrachcice	S	Piskornia	S	Pobyłkowo Duże	S	Pobyłkowo Małe	S	Pogorzelec	S	Pokrzywnica	S	Pomocnia	S	Strzyże	S	Świeszewo	S	Trzepowo	S	Witki	S	Wólka Zaleska	S	Zaborze
-	P	Klusek
-Świercze
-	S	Brodowo	S	Bruliny	S	Bylice	S	Chmielewo	S	Dziarno	S	Gaj	S	Gąsiorowo	S	Gąsiorówek	S	Godacze	S	Gołębie	S	Klukowo	S	Klukówek	S	Kosiorowo	S	Kościesze	S	Kowalewice Nowe	S	Kowalewice Włościańskie	S	Ostrzeniewo	S	Prusinowice	S	Stpice	S	Strzegocin	S	Sulkowo	S	Świercze	S	Świercze-Siółki	S	Świerkowo	S	Świeszewko	S	Świeszewo	S	Wyrzyki	S	Wyrzyki-Pękale
-	P	Brodowo-Kuce
-Winnica
-	S	Bielany	S	Błędostowo	S	Brodowo-Bąboły	S	Budy-Zbroszki	S	Domosław	S	Glinice-Domaniewo	S	Glinice Wielkie	S	Gnaty-Lewiski	S	Gnaty-Wieśniany	S	Golądkowo	S	Górki-Baćki	S	Górki Duże	S	Górki-Witowice	S	Kamionna	S	Łachoń	S	Mieszki-Kuligi	S	Mieszki-Leśniki	S	Pawłowo	S	Poniaty-Cibory	S	Poniaty Wielkie	S	Powielin	S	Rębkowo	S	Skarżyce	S	Skorosze	S	Skoroszki	S	Skórznice	S	Smogorzewo Pańskie	S	Smogorzewo Włościańskie	S	Stare Bulkowo	S	Winnica	S	Winniczka	S	Zbroszki
-	P	Białe Błoto	P	Brodowo-Wity	P	Gatka	P	Gnaty-Szczerbaki	P	Górka Powielińska	P	Nowe Bulkowo
-Zatory
-	S	Borsuki-Kolonia
-	W	Łęcino	S	Burlaki
-	PS	Holendry	S	Cieńsza	S	Ciski	S	Dębiny
-	PS	Dębinki	S	Drwały
-	PS	Kępa Zatorska	S	Gładczyn	S	Gładczyn Rządowy	S	Gładczyn Szlachecki
-	W	Malwinowo	S	Kopaniec	S	Kruczy Borek	S	Lemany	S	Lutobrok	S	Lutobrok-Folwark	S	Mierzęcin	S	Mystkówiec-Kalinówka	S	Mystkówiec-Szczucin	S	Pniewo	S	Pniewo-Kolonia	S	Przyłubie	S	Stawinoga	S	Śliski
-	PS	Okopy	S	Topolnica	S	Wiktoryn	S	Wólka Zatorska	S	Zatory
-	PS	Biele i Ostrówek
-	P	Borsuki-Gajówka	P	Holendry	P	Kępa Zatorska	P	Kępa Zatorska-Gajówka	P	Łęcino	P	Malwinowo	P	Okopy	P	Ostrówek	P	Pniewo-Gajówka	P	Pniewo-Leśniczówka	P	Stawinoga-Leśniczówka	P	Stawinoga-Rybakówka	P	Wielęcin	P	Wólka Zatorska-Gajówka
-Powiat radomski
-Pionki
-	S	Adolfin	S	Augustów	S	Bieliny	S	Brzezinki	S	Brzeziny	S	Czarna Kolonia	S	Czarna Wieś	S	Działki Suskowolskie	S	Helenów	S	Huta	S	Januszno	S	Jaroszki	S	Jaśce	S	Jedlnia	S	Jedlnia-Kolonia	S	Kamyk	S	Kieszek	S	Kolonka	S	Kościuszków	S	Krasna Dąbrowa	S	Laski	S	Marcelów	S	Mireń	S	Ostrownica	S	Płachty	S	Poświętne	S	Sałki	S	Sokoły	S	Stoki	S	Sucha	S	Sucha Poduchowna	S	Suskowola	S	Wincentów	S	Zadobrze	S	Zalesie	S	Żdżary
-	W	Karpówka
-	NS	Tadeuszów
-Iłża
-	S	Alojzów	S	Białka	S	Błaziny Dolne	S	Błaziny Górne	S	Chwałowice	S	Florencja	S	Gaworzyna	S	Jasieniec Iłżecki Dolny	S	Jasieniec Iłżecki Górny	S	Jasieniec-Maziarze	S	Jedlanka-Kolonia	S	Jedlanka Nowa	S	Jedlanka Stara	S	Kajetanów	S	Kolonia Seredzice	S	Koszary	S	Kotlarka	S	Krzyżanowice	S	Małomierzyce	S	Maziarze Nowe	S	Maziarze Stare	S	Pakosław	S	Pastwiska	S	Pieńki	S	Piłatka	S	Płudnica	S	Prędocin	S	Prędocin-Kolonia	S	Seredzice	S	Starosiedlice	S	Walentynów
-	NS	Budy	NS	Krzewa	NS	Lipie	NS	Łąki	NS	Marcule	NS	Michałów	NS	Nowy Jasieniec Iłżecki	NS	Piotrowe Pole	NS	Pod Lasem	NS	Prędocinek	NS	Seredzice-Zawodzie	NS	Stanisławów-Młyn
-Skaryszew
-	S	Anielin	S	Antoniów	S	Bogusławice	S	Bujak	S	Chomentów-Puszcz	S	Chomentów-Socha	S	Chomentów-Szczygieł	S	Dzierzkówek Nowy	S	Dzierzkówek Stary	S	Edwardów	S	Gębarzów	S	Gębarzów-Kolonia	S	Grabina	S	Huta Skaryszewska	S	Janów	S	Kazimierówka	S	Kłonowiec-Koracz	S	Kłonowiec-Kurek	S	Kobylany	S	Makowiec	S	Maków	S	Maków Nowy	S	Miasteczko	S	Modrzejowice	S	Niwa Odechowska	S	Odechowiec	S	Odechów	S	Podsuliszka	S	Sołtyków	S	Tomaszów	S	Wilczna	S	Wólka Twarogowa	S	Wymysłów	S	Zalesie
-Gózd
-	S	Budy Niemianowskie	S	Czarny Lasek	S	Drożanki	S	Grzmucin	S	Gózd	S	Karszówka	S	Kiedrzyn	S	Klwatka Królewska	S	Kuczki-Kolonia	S	Kuczki-Wieś	S	Kłonów	S	Kłonówek
-	W	Kłonówek-Kolonia	S	Lipiny	S	Małęczyn	S	Niemianowice	S	Piskornica	S	Podgóra	S	Wojsławice
-Jastrzębia
-	S	Bartodzieje	S	Brody	S	Dąbrowa Jastrzębska	S	Dąbrowa Kozłowska	S	Goryń	S	Jastrzębia	S	Kolonia Lesiów	S	Kozłów	S	Lesiów	S	Lewaszówka	S	Mąkosy Nowe	S	Mąkosy Stare	S	Olszowa	S	Owadów	S	Wojciechów	S	Wola Goryńska	S	Wola Owadowska	S	Wolska Dąbrowa	S	Wólka Lesiowska
-Jedlińsk
-	S	Bierwce	S	Bierwiecka Wola	S	Boża Wola	S	Czarny Ług	S	Górna Wola	S	Gutów	S	Janki	S	Jankowice	S	Jedlanka	S	Jedlińsk	S	Jeziorno	S	Kamińsk	S	Klwatka Szlachecka	S	Klwaty	S	Kruszyna	S	Lisów	S	Ludwików	S	Mokrosęk	S	Narty	S	Nowa Wola	S	Nowe Zawady	S	Piaseczno	S	Piaski	S	Piastów	S	Płasków	S	Romanów	S	Stare Zawady	S	Urbanów	S	Wielogóra	S	Wierzchowiny	S	Wola Gutowska	S	Wsola
-	NS	Bród	NS	Budki Wierzchowskie	NS	Czarna Rola	NS	Godzisz	NS	Gryzów	NS	Jankowice-Kolonia	NS	Józefów	NS	Józefówek	NS	Kępiny	NS	Klwaty-Ludwików	NS	Marcelów	NS	Moczydło	NS	Obózek
-Jedlnia-Letnisko
-	W	Aleksandrów	W	Antoniówka	W	Cudnów	W	Dawidów	W	Górki	W	Groszowice	W	Gzowice	W	Gzowice-Folwark	W	Gzowice-Kolonia	W	Gzowskie Budy	W	Jedlnia-Letnisko	W	Lasowice	W	Maryno	W	Myśliszewice	W	Natolin	W	Piotrowice	W	Rajec Poduchowny	W	Rajec Szlachecki	W	Sadków	W	Siczki	W	Słupica	W	Wrzosów
-Kowala
-	S	Augustów	S	Bardzice	S	Dąbrówka Zabłotnia	S	Grabina	S	Huta Mazowszańska	S	Kończyce-Kolonia	S	Kosów	S	Kotarwice	S	Kowala-Stępocina	S	Ludwinów	S	Maliszów	S	Mazowszany	S	Młodocin Mniejszy	S	Parznice	S	Romanów	S	Rożki	S	Ruda Mała	S	Trablice
-	NS	Błonie	NS	Bukowiec	NS	Ciborów	NS	Huta Dolna	NS	Józefów	NS	Osiek	NS	Pelagiów	NS	Walentynów	NS	Zabierzów	NS	Załawie
-Przytyk
-	S	Domaniów	S	Dęba	S	Glinice	S	Goszczewice	S	Jabłonna	S	Kaszewska Wola	S	Krzyszkowice	S	Młódnice	S	Maksymilianów	S	Oblas	S	Ostrołęka	S	Podgajek	S	Posada	S	Potkanna	S	Przytyk	S	Słowików	S	Stefanów	S	Studzienice	S	Sukowska Wola	S	Suków	S	Wola Wrzeszczowska	S	Wólka Domaniowska	S	Wrzeszczów	S	Wrzos	S	Wygnanów	S	Żerdź
-	P	Borowiec Pierwszy	P	Duży Las	P	Gaczkowice	P	Jadwiniów	P	Jagodno	P	Mścichów	P	Oblas-Leśniczówka	P	Podgajek-Kolonia	P	Sewerynów	P	Stary Młyn	P	Witoldów	P	Zameczek	P	Zameczek-Kolonia	P	Żmijków
-Wierzbica
-	S	Błędów	S	Dąbrówka Warszawska	S	Łączany	S	Podgórki	S	Polany	S	Polany-Kolonia	S	Pomorzany	S	Pomorzany-Kolonia	S	Ruda Wielka	S	Rzeczków	S	Stanisławów	S	Suliszka	S	Wierzbica	S	Wierzbica-Kolonia	S	Zalesice	S	Zalesice-Kolonia
-	NS	Rzeczków-Kolonia
-Wolanów
-	S	Bieniędzice	S	Chruślice	S	Franciszków	S	Garno	S	Jarosławice	S	Kacprowice	S	Kolonia Wolanów	S	Kowala-Duszocina	S	Kowalanka	S	Młodocin Większy	S	Mniszek	S	Podlesie	S	Rogowa	S	Sławno	S	Strzałków	S	Ślepowron	S	Wacławów	S	Waliny	S	Wawrzyszów	S	Wolanów	S	Wymysłów	S	Zabłocie
-Zakrzew
-	S	Bielicha	S	Cerekiew	S	Dąbrówka Nagórna	S	Dąbrówka Podłężna	S	Golędzin	S	Gulin	S	Gulinek	S	Gustawów	S	Gózdek	S	Janiszew	S	Jaszowice	S	Kozia Wola	S	Kozinki	S	Legęzów	S	Milejowice	S	Mleczków	S	Natalin	S	Nieczatów	S	Podlesie Mleczkowskie	S	Taczowskie Pieńki	S	Taczów	S	Wacyn	S	Wola Taczowska	S	Zakrzew	S	Zakrzew-Kolonia	S	Zakrzew-Las	S	Zakrzewska Wola	S	Zatopolice	S	Zdziechów
-	P	Jaszowice-Kolonia	P	Kolonia Piaski	P	Las Janiszewski	P	Marianowice	P	Milejowice-Kolonia	P	Sosnowica	P	Wiktorów	P	Zakrzówek
-Powiat siedlecki
-Mordy
-	S	Czepielin	S	Czepielin-Kolonia	S	Czołomyje	S	Doliwo	S	Głuchów	S	Klimonty	S	Krzymosze	S	Leśniczówka	S	Ogrodniki	S	Olędy	S	Ostoje	S	Pieńki	S	Pióry-Pytki	S	Pióry Wielkie	S	Płosodrza	S	Ptaszki	S	Radzików-Kornica	S	Radzików-Oczki	S	Radzików-Stopki	S	Radzików Wielki	S	Rogóziec	S	Sosenki-Jajki	S	Stara Wieś	S	Stok Ruski	S	Suchodołek	S	Suchodół Wielki	S	Wielgorz	S	Wojnów	S	Wólka-Biernaty	S	Wólka Soseńska	S	Wyczółki
-	NS	Kolonia Mordy
-Domanice
-	W	Czachy	W	Domanice	W	Domanice-Kolonia	W	Emilianówka	W	Kopcie	W	Olszyc Szlachecki	W	Olszyc Włościański	W	Olszyc-Folwark	W	Pieńki	W	Podzdrój	W	Przywory Duże	W	Przywory Małe	W	Śmiary-Kolonia	W	Zażelazna
-Korczew
-	S	Bużyska	S	Czaple Górne	S	Drażniew	S	Góry	S	Knychówek	S	Laskowice	S	Mogielnica	S	Nowy Bartków	S	Ruda	S	Starczewice	S	Stary Bartków	S	Szczeglacin	S	Tokary	S	Zaleś
-	NS	Józefin
-	NS	Ruska Strona
-Kotuń
-	S	Albinów	S	Bojmie	S	Broszków	S	Chlewiska	S	Cisie-Zagrudzie	S	Czarnowąż	S	Gręzów	S	Jagodne	S	Józefin	S	Kępa	S	Koszewnica	S	Kotuń	S	Łączka	S	Łęki	S	Marysin	S	Mingosy	S	Niechnabrz	S	Nowa Dąbrówka	S	Oleksin	S	Pieńki	S	Pieróg	S	Polaki	S	Rososz	S	Ryczyca	S	Sionna	S	Sosnowe	S	Trzemuszka	S	Tymianka	S	Wilczonek	S	Żdżar	S	Żeliszew Duży	S	Żeliszew
-Mokobody
-	S	Bale	S	Dąbrowa	S	Jeruzale	S	Kapuściaki	S	Kisielany-Kuce	S	Kisielany-Żmichy	S	Księżopole-Jałmużny	S	Księżpole-Smolaki	S	Mokobody
-	S	Mokobody I
-	S	Mokobody II	S	Mokobody-Kolonia	S	Męczyn	S	Męczyn-Kolonia	S	Niwiski
-	S	Niwiski I
-	S	Niwiski II	S	Osiny Dolne	S	Osiny Górne	S	Pieńki	S	Skupie	S	Świniary	S	Wesoła	S	Wólka Proszewska	S	Wólka Żukowska	S	Wyłazy	S	Zaliwie-Brzozówka	S	Zaliwie-Piegawki	S	Zaliwie-Szpinki	S	Zemły	S	Ziomaki	S	Żuków
-Paprotnia
-	S	Czarnoty	S	Grabowiec	S	Hołubla	S	Kaliski	S	Kobylany-Kozy	S	Koryciany	S	Krynki	S	Łęczycki	S	Łozy	S	Nasiłów	S	Paprotnia	S	Pliszki	S	Pluty	S	Podawce	S	Rzeszotków	S	Skwierczyn Lacki	S	Stare Trębice	S	Stasin	S	Strusy	S	Trębice Dolne	S	Trębice Górne	S	Uziębły
-Przesmyki
-	S	Cierpigórz	S	Dąbrowa	S	Głuchówek	S	Górki	S	Kaliski	S	Kamianki-Czabaje	S	Kamianki Lackie	S	Kamianki-Nicki	S	Kamianki-Wańki	S	Kukawki	S	Lipiny	S	Łysów	S	Pniewiski	S	Podraczynie	S	Przesmyki	S	Raczyny	S	Stare Rzewuski	S	Tarków	S	Tarkówek	S	Wólka Łysowska	S	Zaborów	S	Zalesie	S	Zawady
-	NS	Łysów-Kolonia
-	NS	Ksawerów
-Siedlce
-	W	Białki	W	Biel	W	Błogoszcz	W	Chodów	W	Golice	W	Golice-Kolonia	W	Grabianów	W	Grubale	W	Jagodnia	W	Joachimów	W	Nowe Iganie	W	Nowe Opole	W	Opole-Świerczyna	W	Osiny	W	Ostrówek	W	Pruszyn	W	Pruszynek	W	Pruszyn-Pieńki	W	Purzec	W	Pustki	W	Rakowiec	W	Stare Iganie	W	Stare Opole	W	Stok Lacki	W	Stok Lacki-Folwark	W	Strzała	W	Topórek	W	Ujrzanów	W	Wołyńce	W	Wólka Leśna	W	Żabokliki	W	Żabokliki-Kolonia	W	Żelków-Kolonia	W	Żytnia
-Skórzec
-	W	Boroszków	W	Czerniejew	W	Dąbrówka-Ług	W	Dąbrówka-Niwka	W	Dąbrówka-Stany	W	Dąbrówka-Wyłazy	W	Dobrzanów	W	Drupia	W	Gołąbek	W	Grala-Dąbrowizna	W	Kłódzie	W	Nowaki	W	Ozorów	W	Skarżyn	W	Skórzec	W	Stara Dąbrówka	W	Teodorów	W	Trzciniec	W	Wólka Kobyla	W	Żebrak	W	Żelków
-Suchożebry
-	S	Borki Siedleckie	S	Brzozów	S	Kopcie	S	Kownaciska	S	Krynica	S	Krześlin	S	Krześlinek	S	Nakory	S	Podnieśno	S	Przygody	S	Sosna-Kicki	S	Sosna-Korabie	S	Sosna-Kozółki	S	Sosna-Trojanki	S	Stany Duże	S	Stany Małe	S	Suchożebry	S	Wola Suchożebrska
-Wiśniew
-	S	Borki-Kosiorki	S	Borki-Paduchy	S	Borki-Sołdy	S	Ciosny	S	Daćbogi	S	Gostchorz	S	Helenów	S	Kaczory	S	Lipniak	S	Łupiny	S	Mościbrody	S	Kolonia Mościbrody	S	Mroczki	S	Myrcha	S	Nowe Okniny	S	Okniny-Podzdrój	S	Pluty	S	Radomyśl	S	Stare Okniny	S	Stok Wiśniewski	S	Śmiary	S	Tworki	S	Wiśniew	S	Wiśniew-Kolonia	S	Wólka Wiśniewska	S	Wólka Wołyniecka	S	Zabłocie
-	NS	Jastrzębie Kąty
-	NS	Leśniczówka
-Wodynie
-	S	Borki	S	Brodki	S	Budy	S	Czajków	S	Helenów	S	Jedlina	S	Kaczory	S	Kamieniec	S	Kochany	S	Kołodziąż	S	Łomnica	S	Młynki	S	Oleśnica	S	Ruda Wolińska	S	Rudnik Duży	S	Rudnik Mały	S	Seroczyn	S	Soćki	S	Szostek	S	Toki	S	Wodynie	S	Wola Serocka	S	Wola Wodyńska	S	Żebraczka
-	P	Lipiny
-	P	Nowiny
-	P	Ruda Szostkowska
-Zbuczyn
-	S	Borki-Kosy	S	Borki-Wyrki	S	Bzów	S	Choja	S	Chromna	S	Cielemęc	S	Czuryły	S	Dziewule	S	Grochówka	S	Grodzisk	S	Izdebki-Błażeje	S	Izdebki-Kosny	S	Izdebki-Kośmidry	S	Izdebki-Wąsy	S	Januszówka	S	Jasionka	S	Karcze	S	Krzesk-Królowa Niwa	S	Krzesk-Majątek	S	Kwasy	S	Lipiny	S	Lucynów	S	Łęcznowola	S	Ługi-Rętki	S	Ługi Wielkie	S	Maciejowice	S	Modrzew	S	Olędy	S	Pogonów	S	Rówce	S	Rzążew	S	Smolanka	S	Sobicze	S	Stary Krzesk	S	Świercze	S	Tarcze	S	Tchórzew	S	Tchórzew-Plewki	S	Tęczki	S	Wesółka	S	Wólka Kamienna	S	Zawady	S	Zbuczyn I
-	S	Zbuczyn II
-	S	Zbuczyn III	S	Zdany
-	K	Grochówka
-	NS	Kijki
-	NS	Koryta
-	NS	Ługi-Gołacze
-Powiat sierpecki
-Gozdowo
-	S	Antoniewo	S	Białuty	S	Bombalice	S	Bonisław	S	Bronoszewice	S	Cetlin	S	Czachorowo	S	Dzięgielewo	S	Głuchowo	S	Golejewo	S	Gozdowo	S	Kolczyn	S	Kowalewo-Boguszyce	S	Kowalewo Podborne	S	Kowalewo-Skorupki	S	Kozice-Smorzewo	S	Kuniewo	S	Kurówko	S	Lelice	S	Łysakowo	S	Miodusy	S	Ostrowy	S	Reczewo	S	Rempin	S	Rękawczyn	S	Rogienice	S	Rogieniczki	S	Rycharcice	S	Węgrzynowo	S	Zakrzewko	S	Zbójno
-Mochowo
-	S	Adamowo	S	Bendorzyn	S	Bożewo	S	Bożewo Nowe	S	Cieślin	S	Dobaczewo	S	Dobrzenice Małe	S	Florencja	S	Gozdy	S	Grabówiec	S	Grodnia	S	Kapuśniki	S	Kokoszczyn	S	Ligowo	S	Ligówko	S	Lisice Nowe	S	Łukoszyn	S	Łukoszyno-Biki	S	Malanowo Nowe	S	Malanowo Stare	S	Malanówko	S	Mochowo	S	Mochowo Nowe	S	Mochowo-Parcele	S	Myszki-Żabiki	S	Obręb	S	Osiek	S	Rokicie	S	Romatowo	S	Sulkowo-Bariany	S	Sulkowo Rzeczne	S	Śniechy	S	Załszyn	S	Zglenice-Budy	S	Zglenice Duże	S	Zglenice Małe	S	Żółtowo	S	Żuki	S	Żurawin	S	Żurawinek
-	NS	Choczeń
-	NS	Dobrzenice Duże
-	NS	Mochowo Nowe
-Rościszewo
-	S	Babiec Piaseczny	S	Babiec Rżały	S	Babiec-Więczanki	S	Borowo	S	Bryski	S	Komorowo	S	Kownatka	S	Kuski	S	Lipniki	S	Łukomie	S	Łukomie-Kolonia	S	Nowe Rościszewo	S	Nowy Zamość	S	Ostrów	S	Pianki	S	Polik	S	Puszcza	S	Rościszewo	S	Rumunki-Chwały	S	Rzeszotary-Chwały	S	Rzeszotary-Gortaty	S	Rzeszotary-Pszczele	S	Rzeszotary-Stara Wieś	S	Rzeszotary-Zawady	S	Stopin	S	Śniedzanowo	S	Topiąca	S	Września	S	Zamość
-Sierpc
-	S	Białe Błoto	S	Białoskóry	S	Białyszewo	S	Białyszewo-Towarzystwo	S	Bledzewo	S	Bledzewko	S	Borkowo Kościelne	S	Borkowo Wielkie	S	Dąbrówki	S	Dębowo	S	Dziembakowo	S	Goleszyn	S	Gorzewo	S	Grodkowo-Włóki	S	Grodkowo-Zawisze	S	Kisielewo	S	Kręćkowo	S	Mieszaki	S	Mieszczk	S	Miłobędzyn	S	Nowe Piastowo	S	Osówka	S	Pawłowo	S	Piaski	S	Podwierzbie	S	Rachocin	S	Rydzewo	S	Stare Piastowo	S	Studzieniec	S	Sudragi	S	Susk	S	Susk Nowy	S	Sułocin-Teodory	S	Sułocin-Towarzystwo	S	Szczepanki	S	Warzyn Kmiecy	S	Warzyn-Skóry	S	Wernerowo	S	Wilczogóra	S	Żochowo
-	NS	Karolewo
-	NS	Kwaśno
-Szczutowo
-	S	Agnieszkowo	S	Białasy	S	Blinno	S	Blizno	S	Całownia	S	Cisse	S	Dąbkowa Parowa	S	Dziki Bór	S	Gorzeń	S	Gójsk	S	Grabal	S	Grądy	S	Gugoły	S	Józefowo	S	Karlewo	S	Łazy	S	Maluszyn	S	Mierzęcin	S	Modrzewie	S	Mościska	S	Podlesie	S	Słupia	S	Stara Wola	S	Szczechowo	S	Szczutowo
-	NS	Jaroszewo
-	NS	Jaźwiny
-	NS	Majewo
-	NS	Stare Grądy
-	NS	Zawady
-Zawidz
-	W	Budy Milewskie	W	Budy Piaseczne	W	Chabowo-Świniary	W	Gołocin	W	Grabowo	W	Grąbiec	W	Gutowo-Górki	W	Gutowo-Stradzyno	W	Jaworowo-Jastrzębie	W	Jaworowo-Kłódź	W	Jaworowo-Kolonia	W	Jaworowo-Lipa	W	Jeżewo	W	Kęsice	W	Kosemin	W	Kosmaczewo	W	Krajewice Duże	W	Krajewice Małe	W	Majki	W	Majki Duże	W	Majki Małe	W	Makomazy	W	Mańkowo	W	Milewko	W	Milewo	W	Młotkowo-Kolonia	W	Młotkowo-Wieś	W	Nowe Kowalewo	W	Nowe Zgagowo	W	Orłowo	W	Osiek	W	Osiek Piaseczny	W	Osiek-Parcele	W	Osiek-Włostybory	W	Ostrowy	W	Petrykozy	W	Rekowo	W	Schabajewo	W	Skoczkowo	W	Słupia	W	Stare Chabowo	W	Stropkowo	W	Szumanie	W	Szumanie-Piory	W	Szumanie-Pustoły	W	Wola Grąbiecka	W	Zalesie	W	Zawidz Kościelny	W	Zawidz Mały	W	Zgagowo-Wieś	W	Zgagowo Nowe	W	Żabowo	W	Żytowo
-Powiat sochaczewski
-Teresin
-	S	Budki Piaseckie	S	Dębówka	S	Elżbietów	S	Gaj	S	Granice	S	Izbiska	S	Lisice	S	Ludwików	S	Maszna	S	Maurycew	S	Mikołajew	S	Nowa Piasecznica	S	Nowe Gnatowice	S	Nowe Paski	S	Paprotnia	S	Pawłowice	S	Pawłówek	S	Seroki-Parcela	S	Seroki-Wieś	S	Skrzelew	S	Stare Paski	S	Szymanów	S	Teresin	S	Teresin-Gaj	S	Topołowa	S	Witoldów
-	P	Kawęczyn	P	Skotniki	P	Strugi	K	Witoldów
-Sochaczew
-	S	Altanka	S	Andrzejów Duranowski	S	Bielice	S	Bronisławy	S	Chodakówek	S	Chrzczany	S	Czerwonka-Parcel	S	Czyste	S	Dachowa	S	Dzięglewo	S	Feliksów	S	Gawłów	S	Janaszówek	S	Janówek Duranowski	S	Jeżówka	S	Karwowo	S	Kaźmierów	S	Kąty	S	Kożuszki-Parcel	S	Kuznocin	S	Lubiejew	S	Mokas	S	Nowe Mostki	S	Orły-Cesin	S	Pilawice	S	Rozlazłów	S	Sielice	S	Władysławów	S	Wojtówka	S	Wyczółki	S	Wymysłów	S	Żdżarów	S	Żuków
-	P	Antoniew	P	Bogdaniec	P	Halinów Żdżarowski	P	Kożuszki-Kolonia	P	Sielice-Kolonia	P	Sochaczew-Wieś	P	Stare Kąty	P	Zosin	P	Żelazowa Wola
-Iłów
-	S	Aleksandrów-Wszeliwy	S	Arciechów-Bieniew	S	Arciechówek-Obory	S	Białocin	S	Brzozowiec	S	Brzozów Nowy	S	Brzozówek	S	Budy Iłowskie-Rokocina	S	Emilianów	S	Gilówka Dolna	S	Gilówka Górna	S	Giżyce	S	Giżyczki	S	Henryków	S	Iłów	S	Kaptury-Karłowo	S	Krzyżyk Iłowski	S	Lasotka	S	Lubatka-Szarglew	S	Łaziska-Leśniaki-Rzepki	S	Miękinki-Olszowiec	S	Miękiny-Uderz	S	Narty	S	Olunin	S	Paulinka	S	Pieczyska Iłowskie	S	Pieczyska Łowickie	S	Piotrów	S	Piskorzec	S	Przejma	S	Sadowo	S	Sewerynów	S	Brzozów Stary	S	Stegna	S	Suchodół-Władysławów-Kępa Karolińska	S	Wieniec	S	Wola Ładowska	S	Wisowa	S	Łady	S	Wołyńskie	S	Zalesie-Dobki	S	Załusków
-	NS	Brzozów A
-	NS	Ostrowce
-Nowa Sucha
-	S	Antoniew	S	Borzymówka	S	Braki	S	Glinki	S	Kolonia Gradowska	S	Kornelin-Leonów	S	Kościelna Góra	S	Kozłów Biskupi	S	Kozłów Szlachecki	S	Kurdwanów	S	Marysinek	S	Mizerka-Stary Żylin	S	Nowa Sucha	S	Nowy Białynin	S	Nowy Dębsk	S	Nowy Kozłów Drugi-Szeligi	S	Nowy Kozłów Pierwszy	S	Okopy	S	Orłów	S	Rokotów	S	Roztropna	S	Stara Sucha-Nowy Żylin	S	Stary Białynin	S	Stary Dębsk	S	Wikcinek	S	Zakrzew
-	NS	Gradów
-Młodzieszyn
-	S	Adamowa Góra	S	Bibiampol	S	Bieliny	S	Helenka	S	Helenów	S	Januszew	S	Juliopol	S	Justynów	S	Janów	S	Kamion	S	Leontynów	S	Marysin	S	Mistrzewice	S	Młodzieszyn	S	Młodzieszynek	S	Nowa Wieś	S	Radziwiłka	S	Rokicina	S	Ruszki	S	Stare Budy	S	Witkowice
-	P	Kamion Mały	P	Kamion Podgórny	P	Nowe Mistrzewice	P	Nowy Kamion	P	Olszynki	P	Skutki
-Brochów
-	S	Andrzejów-Brochocin	S	Bieliny-Sianno	S	Brochów	S	Brochów-Kolonia-Malanowo	S	Famułki Brochowskie	S	Famułki Królewskie	S	Górki	S	Hilarów	S	Janów	S	Konary	S	Kromnów-Gorzewnica	S	Lasocin	S	Łasice	S	Miszory	S	Nowa Wieś-Śladów	S	Olszowiec	S	Piaski Duchowne-Piaski Królewskie	S	Plecewice	S	Przęsławice	S	Tułowice	S	Wilcze Tułowskie-Wilcze Śladowskie	S	Wólka Smolana
-	NS	Famułki Łazowskie
-	NS	Janówek
-	NS	Śladów
-	NS	Władysławów
-Rybno
-	S	Aleksandrów	S	Antosin	S	Bronisławy	S	Cypriany	S	Ćmiszew-Parcel	S	Ćmiszew Rybnowski	S	Erminów	S	Jasieniec	S	Józin	S	Kamieńszczyzna	S	Karolków Rybnowski	S	Karolków Szwarocki	S	Konstantynów	S	Koszajec	S	Ludwików-Rybionek	S	Matyldów	S	Nowa Wieś	S	Nowy Szwarocin	S	Rybno	S	Sarnów	S	Stary Szwarocin	S	Wesoła	S	Wężyki	S	Złota
-	NS	Zofiówka
-Powiat sokołowski
-Kosów Lacki
-	S	Albinów	S	Bojary	S	Buczyn Szlachecki	S	Chruszczewka Szlachecka	S	Chruszczewka Włościańska	S	Dębe	S	Dybów	S	Grzymały	S	Guty	S	Henrysin	S	Jakubiki	S	Kosów Ruski	S	Krupy	S	Kutyski	S	Łomna	S	Nowa Maliszewa	S	Nowa Wieś	S	Nowy Buczyn	S	Rytele Święckie	S	Sągole	S	Stara Maliszewa	S	Telaki-Tosie	S	Trzciniec Duży	S	Trzciniec Mały	S	Wólka Dolna	S	Wólka Okrąglik	S	Wyszomierz	S	Żochy
-	NS	Buczyn Dworski
-	NS	Kosów-Hulidów
-Sokołów Podlaski
-	S	Bachorza	S	Bartosz	S	Brzozów	S	Brzozów-Kolonia	S	Budy Kupientyńskie	S	Chmielew	S	Czerwonka	S	Dąbrowa	S	Dolne Pole	S	Dziegietnia	S	Emilianów	S	Justynów	S	Karlusin	S	Karolew	S	Kosierady Wielkie	S	Kostki	S	Krasnodęby-Kasmy	S	Krasnodęby-Rafały	S	Krasnodęby-Sypytki	S	Krasów	S	Łubianki	S	Nowa Wieś	S	Podkupientyn	S	Podrogów	S	Pogorzel	S	Przeździatka-Kolonia	S	Przywózki	S	Skibniew-Kurcze	S	Skibniew-Podawce	S	Walerów	S	Wyrąb	S	Węże	S	Wólka Miedzyńska	S	Ząbków	S	Ząbków-Kolonia	S	Żanecin
-Sterdyń
-	S	Białobrzegi	S	Chądzyń	S	Dzięcioły Bliższe	S	Dzięcioły Dalsze	S	Dzięcioły-Kolonia	S	Golanki	S	Grądy	S	Kamieńczyk	S	Kiełpiniec	S	Kolonia Paderewek	S	Kuczaby	S	Lebiedzie	S	Lebiedzie-Kolonia	S	Łazów	S	Łazówek	S	Matejki	S	Nowe Mursy	S	Nowy Ratyniec	S	Paderewek	S	Paulinów	S	Seroczyn	S	Seroczyn-Kolonia	S	Sewerynówka	S	Stare Mursy	S	Stary Ratyniec	S	Stelągi	S	Stelągi-Kolonia	S	Sterdyń	S	Szwejki	S	Zaleś
-	P	Borki	P	Dąbrówka	P	Granie	P	Kiezie	P	Kolonia Dzięcioły Dalsze	P	Kolonia Kamieńczykowska	P	Kolonia Kuczaby	P	Kolonia Stary Ratyniec	P	Paderew
-Repki
-	S	Baczki	S	Bohy	S	Borychów	S	Czaple-Andrelewicze	S	Czaple-Kolonia	S	Gałki	S	Jasień	S	Józin	S	Kamianka	S	Kanabród	S	Karskie	S	Kobylany Górne	S	Kobylany-Skorupki	S	Liszki	S	Mołomotki	S	Mołomotki-Dwór	S	Ostrowiec	S	Ostrówek	S	Remiszew Duży	S	Remiszew Mały	S	Repki	S	Rogów	S	Rudniki	S	Sawice-Bronisze	S	Sawice-Dwór	S	Sawice-Wieś	S	Skorupki	S	Skrzeszew	S	Skrzeszew E	S	Skwierczyn-Dwór	S	Skwierczyn-Wieś	S	Smuniew	S	Szkopy	S	Wasilew Skrzeszewski	S	Wasilew Szlachecki	S	Wierzbice Górne	S	Wyrozęby-Konaty	S	Wyrozęby-Podawce	S	Włodki	S	Zawady	S	Żółkwy
-	NS	Bałki
-Bielany
-	S	Bielany-Jarosławy	S	Bielany-Wąsy	S	Bielany-Żyłaki	S	Błonie Duże	S	Błonie Małe	S	Brodacze	S	Dmochy-Rętki	S	Dmochy-Rogale	S	Korabie	S	Kowiesy	S	Kożuchów	S	Kożuchówek	S	Księżopole-Budki	S	Księżopole-Komory	S	Kudelczyn	S	Paczuski	S	Patrykozy	S	Patrykozy-Kolonia	S	Rozbity Kamień	S	Ruciany	S	Ruda-Kolonia	S	Sikory	S	Trebień	S	Wańtuchy	S	Wiechetki Duże	S	Wiechetki Małe	S	Wojewódki Dolne	S	Wojewódki Górne	S	Wyszomierz
-	NS	Urbanki
-Jabłonna Lacka
-	W	Bujały-Gniewosze	W	Bujały-Mikosze	W	Czekanów	W	Dzierzby Szlacheckie	W	Dzierzby Włościańskie	W	Gródek	W	Gródek-Dwór	W	Stara Jabłonna-Kolonia	W	Jabłonna Lacka	W	Jabłonna Średnia	W	Krzemień-Wieś	W	Krzemień-Zagacie	K	Ludwinów	W	Łuzki	K	Łuzki-Kolonia	W	Mołożew-Dwór	W	Mołożew-Wieś	W	Morszków	W	Niemirki	W	Nowomodna	W	Stara Jabłonna	W	Teofilówka	W	Toczyski Podborne	W	Toczyski Średnie	W	Tończa	W	Wierzbice-Guzy	W	Wierzbice-Strupki	W	Wieska-Wieś	W	Wirów	O	Wirów-Klasztor	W	Władysławów
-Sabnie
-	S	Chmielnik	S	Grodzisk	S	Hilarów	S	Hołowienki	S	Kolonia Hołowienki	S	Kolonia Kurowice	S	Kostki-Pieńki	S	Kupientyn	S	Kupientyn-Kolonia	S	Kurowice	S	Nieciecz-Dwór	S	Nieciecz Włościańska	S	Niewiadoma	S	Stasin	S	Suchodół Włościański	S	Tchórznica Szlachecka	S	Tchórznica Włościańska	S	Wymysły	S	Zembrów
-	NS	Emilin	NS	Jadwisin	NS	Klepki	NS	Kolonia Zembrów	NS	Pieńki Suchodolskie	NS	Podsuchodół	NS	Poświątne	NS	Suchodół Szlachecki
-Ceranów
-	S	Adolfów	S	Ceranów	S	Garnek	S	Długie Grodzieckie	S	Długie Grzymki	S	Długie Kamieńskie	S	Lubiesza	S	Natolin	S	Noski	S	Olszew	S	Przewóz Nurski	S	Pustelnik	S	Radość	S	Rytele-Olechny	S	Rytele Suche	S	Rytele-Wszołki	S	Wólka Nadbużna	S	Wólka Rytelska	S	Wszebory	S	Zawady
-	P	Holendernia
-	P	Majdan
-Powiat szydłowiecki
-Szydłowiec
-	S	Barak	S	Ciechostowice	S	Chustki	S	Hucisko	S	Jankowice	S	Korzyce	S	Krzcięcin	S	Łazy	S	Majdów	S	Omięcin	S	Rybianka	S	Sadek	S	Szydłówek	S	Świerczek	S	Świniów	S	Wilcza Wola	S	Wola Korzeniowa	S	Wysocko	S	Wysoka	S	Zastronie	S	Zdziechów
-	NS	Długosz
-	NS	Mszadla
-	NS	Marywil
-	NS	Ziomaki
-Chlewiska
-	S	Aleksandrów	S	Antoniów	S	Borki	S	Broniów	S	Budki	S	Chlewiska	S	Cukrówka	S	Huta	S	Koszorów	S	Krawara	S	Leszczyny	S	Majdanki	S	Nadolna	S	Ostałów	S	Ostałówek	S	Pawłów	S	Skłoby	S	Stanisławów	S	Stefanków	S	Sulistrowice	S	Wola Zagrodnia	S	Zaława	S	Zawonia
-	P	Bieduszki	P	Fajków	P	Górka	P	Pociecha	P	Romanów	P	Stawki	P	Teklinów
-Jastrząb
-	W	Gąsawy Plebańskie	W	Gąsawy Rządowe	W	Gąsawy Rządowe-Niwy	W	Jastrząb	W	Kolonia Kuźnia	W	Kuźnia	W	Lipienice Dolne
-	W	Lipienice Górne	W	Orłów	W	Nowy Dwór	W	Śmiłów	W	Wola Lipieniecka Mała	W	Wola Lipieniecka Duża
-Mirów
-	W	Bieszków Dolny	W	Bieszków Górny	W	Mirów Nowy	W	Mirów Stary	W	Mirówek	W	Rogów	W	Zbijów Duży	W	Zbijów Mały
-Orońsko
-	S	Bąków	S	Ciepła	S	Chronów	S	Chronów-Kolonia	S	Chronówek	S	Dobrut	S	Guzów	S	Guzów-Kolonia	S	Helenów	S	Krogulcza Mokra	S	Krogulcza Sucha	S	Łaziska	S	Orońsko	S	Śniadków	S	Tomaszów	S	Wałsnów	S	Zaborowie
-	NS	Chałupki Łaziskie
-	NS	Gozdków
-	NS	Karolinów
-	NS	Kolonia Górna
-	NS	Wola Guzowska
-	NS	Zamoście
-Powiat warszawski zachodni
-Błonie
-	S	Białutki	S	Białuty	S	Bieniewice	S	Bieniewo-Parcela	S	Bieniewo-Wieś	S	Błonie-Wieś	S	Bramki	S	Cholewy	S	Dębówka	S	Górna Wieś	S	Konstantów	S	Kopytów	S	Łaźniew	S	Łaźniewek	S	Łąki	S	Marysinek	S	Nowa Górna	S	Nowa Wieś	S	Nowe Faszczyce	S	Nowy Łuszczewek	S	Piorunów	S	Radonice	S	Radzików	S	Rochaliki	S	Rokitno	S	Stare Faszczyce	S	Stary Łuszczewek	S	Wawrzyszew	S	Witanów	S	Witki	S	Wola Łuszczewska	S	Żukówka
-	NS	Cesinek
-	W	Radzików
-	NS	Odrzywół
-	NS	Pass
-	NS	Rokitno-Majątek
-Łomianki
-	S	Dziekanów Bajkowy	S	Dziekanów Leśny	S	Dziekanów Polski	S	Kiełpin	S	Kępa Kiełpińska	S	Łomianki Chopina	S	Łomianki Dolne	S	Nowy Dziekanów	S	Sadowa
-	P	Dąbrowa
-Ożarów Mazowiecki
-	OS	Osiedle RSM Bloki	OS	Osiedle Franciszków	OS	Osiedle Józefów	OS	Osiedle Kabel	OS	Osiedle Mickiewicza	OS	Osiedle Ołtarzew	OS	Płochocin-Osiedle 
-	OS	Osiedle Płochocin Północny	OS	Osiedle Płochocin Południowy	OS	Osiedle Szeligi	OS	Osiedle Zientarówka
-	S	Bronisze	S	Duchnice	S	Domaniewek Pierwszy	S	Gołaszew	S	Jawczyce	S	Kaputy – Kręczki	S	Konotopa	S	Koprki	S	Macierzysz	S	Mory	S	Michałówek	S	Myszczyn	S	Ołtarzew	S	Orły	S	Piotrkówek Duży	S	Piotrkówek Mały	S	Pilaszków	S	Pogroszew	S	Pogroszew-Kolonia	S	Płochocin-Wieś	S	Święcice	S	Umiastów	S	Wieruchów	S	Wolskie
-	P	Duchnice
-	P	Józefów
-	P	Strzykuły
-	P	Szeligi
-	P	Wolica
-Izabelin
-	S	Truskaw	S	Laski	S	Izabelin B	S	Sieraków	S	Izabelin C	S	Hornówek	S	Mościska
-	G	Izabelin
-Kampinos
-	S	Budki Żelazowskie	S	Gnatowice	S	Grabnik	S	Granica	S	Józefów	S	Kampinos	S	Kampinos A	S	Komorów	S	Kwiatkówek	S	Łazy	S	Pasikonie	S	Pindal	S	Podkampinos	S	Prusy	S	Skarbikowo	S	Strojec	S	Strzyżew	S	Szczytno	S	Wiejca	S	Wola Pasikońska	S	Zawady
-	P	Bieliny	P	Bromierzyk	P	Karolinów	P	Kirsztajnów	P	Koszówka	P	Ludwików	P	Łazy Leśne	P	Rzęszyce	P	Stare Gnatowice
-Leszno
-	S	Czarnów	S	Feliksów	S	Gawartowa Wola	S	Grabina - Szymanówek	S	Grądy - Grądki	S	Kępiaste	S	Korfowe	S	Ławy	S	Leszno - Julinek	S	Łubiec	S	Marianów	S	Powązki	S	Roztoka	S	Szadkówek - Towarzystwo Czarnów	S	Trzciniec - Stelmachowo	S	Walentów - Podrochale	S	Wąsy-Kolonia	S	Wąsy-Wieś	S	Wiktorów	S	Wilkowa Wieś	S	Wilków - Plewniak	S	Wólka	S	Wyględy	S	Zaborów	S	Zaborówek
-	P	Karpinek
-	P	Rochale
-	P	Rózin
-Stare Babice
-	S	Babice Nowe	S	Blizne Jasińskiego	S	Blizne Łaszczyńskiego	S	Borzęcin Duży	S	Borzęcin Mały	S	Buda	S	Janów	S	Koczargi Stare	S	Koczargi Nowe	S	Klaudyn	S	Kwirynów	S	Latchorzew	S	Lipków	S	Lubiczów	S	Mariew	S	Stanisławów	S	Topolin	S	Wierzbin	S	Wojcieszyn	S	Zalesie	S	Zielonki-Wieś	S	Zielonki-Parcela	S	Stare Babice
-	P	Borki	P	Borzęcin	P	Górki	P	Góry Klaudyńskie	P	Kosmów	P	Leśny Zaborów	P	Wodnisko	P	Zielonki
-Powiat węgrowski
-Łochów
-	S	Baczki	S	Barchów	S	Brzuza	S	Budziska	S	Burakowskie	S	Dąbrowa	S	Gwizdały	S	Jasiorówka	S	Jerzyska	S	Kalinowiec	S	Kaliska	S	Kamionna	S	Karczewizna	S	Laski	S	Łazy	S	Łojew	S	Łopianka	S	Łosiewice	S	Majdan	S	Matały	S	Nadkole	S	Ogrodniki	S	Ostrówek	S	Pogorzelec	S	Samotrzask	S	Szumin	S	Twarogi	S	Wólka Paplińska	S	Zagrodniki	S	Zambrzyniec
-	P	Gajówka Nadkole	P	Jerzyska-Gajówka	P	Kaczeniec	P	Łojki	OL	Łosiewice	OL	Samotrzask	O	Zagrodniki
-Grębków
-	S	Aleksandrówka	S	Chojeczno-Sybilaki	S	Chojeczno-Cesarze	S	Gałki	S	Grębków	S	Grodzisk	S	Jabłonna	S	Kolonia Sinołęka	S	Kopcie	S	Kózki	S	Leśnogóra	S	Nowa Sucha	S	Nowa Trzcianka	S	Ogródek	S	Oszczerze	S	Pobratymy	S	Podsusze	S	Polków-Daćbogi	S	Polków-Sagały	S	Proszew	S	Słuchocin	S	Stara Sucha	S	Stara Trzcianka	S	Stawiska	S	Suchodół	S	Trzebucza	S	Ziomaki	S	Żarnówka
-Korytnica
-	S	Adampol	S	Bednarze	S	Chmielew	S	Czaple	S	Dąbrowa	S	Decie	S	Górki Borze	S	Górki-Grubaki	S	Górki Średnie	S	Jaczew	S	Jugi	S	Kąty	S	Komory	S	Korytnica	S	Kruszew	S	Kupce	S	Leśniki	S	Lipniki	S	Maksymilianów	S	Nojszew	S	Nowy Świętochów	S	Paplin	S	Pniewnik	S	Połazie Świętochowskie	S	Rabiany	S	Rąbież	S	Roguszyn	S	Rowiska	S	Sekłak	S	Sewerynów	S	Stary Świętochów	S	Szczurów	S	Trawy	S	Turna	S	Wielądki	S	Wola Korytnicka	S	Wypychy	S	Zakrzew	S	Zalesie	S	Żabokliki	S	Żelazów
-	P	Kietlanka
-	P	Leśniczówka Turna
-Liw
-	S	Borzychy	S	Jarnice	S	Jarnice-Pieńki	S	Jartypory	S	Krypy	S	Liw I
-	S	Liw II	S	Ludwinów	S	Ossolin	S	Pierzchały	S	Połazie	S	Popielów	S	Ruchna	S	Ruchenka	S	Starawieś	S	Szaruty	S	Śnice	S	Tończa	S	Janówki	S	Witanki	S	Wyszków	S	Zając	S	Zawady
-	P	Janowo	P	Kucyk	P	Miedzanka-Gajówka	P	Stary Kantor	P	Stawy
-Miedzna
-	S	Miedzna	S	Międzyleś	S	Orzeszówka	S	Poszewka	S	Rostki	S	Tchórzowa	S	Ugoszcz	S	Warchoły	S	Wola Orzeszowska	S	Wrotnów	S	Wrzoski	S	Zuzułka	S	Żeleźniki
-	NS	Glina
-	NS	Tchórzowa-Gajówka
-Sadowne
-	S	Bojewo	S	Grabiny	S	Kocielnik	S	Kołodziąż	S	Kołodziąż-Rybie	S	Kolonia Złotki	S	Krupińskie	S	Morzyczyn Włościański	S	Morzyczyn-Włóki	S	Ocięte	S	Orzełek	S	Płatkownica	S	Rażny	S	Sadoleś	S	Sadowne	S	Sojkówek	S	Sokółka	S	Szynkarzyzna	S	Wilczogęby	S	Zalesie	S	Zarzetka	S	Zieleniec	S	Złotki	S	Majdan Kiełczewski
-	P	Podkole
-	OL	Orzełek
-	O	Sadowne
-	OL	Sadowne
-	OL	Zieleniec
-Stoczek
-	S	Błotki	S	Brzózka	S	Drgicz	S	Gajówka Zachodnia	S	Grabowiec	S	Gruszczyno	S	Grygrów	S	Huta Gruszczyno	S	Kałęczyn	S	Kozołupy	S	Majdan	S	Marianów	S	Miednik	S	Mrozowa Wola	S	Nowe Lipki	S	Polkowo	S	Stare Lipki	S	Stoczek	S	Topór	S	Wieliczna	S	Zgrzebichy	S	Żulin
-	NS	Działki	NS	Gajówka Wschodnia	NS	Grabiny	NS	Hermanów	NS	Kalaty	NS	Kazimierzów	NS	Księżyzna	NS	Lubierz-Leśniczówka	OL	Miednik	NS	Toboły-Gajówka	NS	Wycech	NS	Wycech-Gajówka
-Wierzbno
-	S	Adamów-Natolin	S	Brzeźnik	S	Cierpięta	S	Czerwonka	S	Czerwonka-Folwark	S	Filipy	S	Helenów	S	Janówek	S	Jaworek	S	Józefy	S	Karczewiec	S	Kazimierzów	S	Koszewnica	S	Krypy	S	Las Jaworski	S	Majdan	S	Nadzieja	S	Orzechów	S	Ossówno	S	Rąbież	S	Skarżyn	S	Soboń	S	Stary Dwór	S	Strupiechów	S	Sulki	S	Świdno	S	Wąsosze	S	Wierzbno	S	Wólka	S	Wyczółki	S	Wyględówek
-	NS	Emin	NS	Kaczy Dół	NS	Lucynówka	NS	Pawłówka-Gajówka	NS	Przecze	NS	Sitarze	NS	Wyrzyki
-Powiat wołomiński
-Radzymin
-	S	Arciechów	S	Borki	S	Cegielnia	S	Ciemne	S	Dybów-Kolonia	S	Emilianów	S	Łąki	S	Łosie	S	Mokre	S	Nadma	S	Nowe Załubice	S	Nowy Janków	S	Popielarze	S	Ruda	S	Rżyska	S	Sieraków	S	Słupno	S	Stare Załubice	S	Stary Dybów	S	Stary Janków	S	Wiktorów	S	Zawady	S	Zwierzyniec
-	P	Ciemne
-	P	Folwark
-	P	Górki
-	P	Opole
-Tłuszcz
-	S	Białki	S	Brzezinów	S	Chrzęsne	S	Dzięcioły	S	Franciszków	S	Grabów	S	Jadwinin	S	Jarzębia Łąka	S	Jasienica	S	Jaźwie	S	Kozły	S	Kury	S	Łysobyki	S	Miąse	S	Mokra Wieś	S	Pawłów	S	Postoliska	S	Pólko	S	Rudniki	S	Rysie	S	Stasinów	S	Stryjki	S	Szczepanek	S	Szymanówek	S	Wagan	S	Waganka	S	Wólka Kozłowska	S	Zalesie
-	OL	Chrzęsne
-	P	Konary
-	P	Moczydło
-Wołomin
-	S	Cięciwa	S	Czarna	S	Duczki	S	Helenów	S	Leśniakowizna	S	Lipinki	S	Majdan	S	Mostówka	S	Nowe Grabie	S	Nowe Lipiny	S	Ossów	S	Stare Grabie	S	Stare Lipiny	S	Turów	S	Zagościniec
-Dąbrówka
-	S	Chajęty	S	Chruściele	S	Cisie	S	Czarnów	S	Dręszew	S	Działy Czarnowskie	S	Dąbrówka	S	Guzowatka	S	Józefów	S	Karolew	S	Karpin	S	Kowalicha	S	Kołaków	S	Kuligów	S	Lasków	S	Ludwinów	S	Marianów	S	Małopole	S	Ostrówek	S	Sokołówek	S	Stanisławów	S	Stasiopole	S	Teodorów	S	Trojany	S	Wszebory	S	Zaścienie	S	Ślężany
-Jadów
-	S	Adampol	S	Borki	S	Borzymy	S	Dębe Małe	S	Dębe Duże	S	Dzierżanów	S	Iły	S	Jadów	S	Kukawki	S	Letnisko Nowy Jadów	S	Myszadła	S	Nowinki	S	Nowy Jadów	S	Oble	S	Podbale	S	Podmyszadła	S	Sitne	S	Starowola	S	Strachów	S	Sulejów	S	Szewnica	S	Urle	S	Warmiaki	S	Wójty	S	Wólka Sulejowska	S	Wujówka	S	Wyglądały	S	Zawiszyn
-	NS	Wężówka
-Klębów
-	S	Dobczyn	S	Karolew	S	Klembów	S	Krusze	S	Krzywica	S	Lipka	S	Michałów	S	Nowy Kraszew	S	Ostrówek	S	Pasek	S	Pieńki	S	Rasztów	S	Roszczep	S	Sitki	S	Stary Kraszew	S	Tuł	S	Wola Rasztowska
-Poświętne
-	S	Choiny	S	Cygów	S	Czubajowizna	S	Dąbrowica	S	Helenów	S	Jadwiniew	S	Józefin	S	Kielczykowizna	S	Kolno	S	Krubki-Górki	S	Laskowizna	S	Małków	S	Międzyleś	S	Międzypole	S	Nadbiel	S	Nowe Ręczaje	S	Nowy Cygów	S	Ostrowik	S	Poświętne	S	Ręczaje Polskie	S	Rojków	S	Stróżki	S	Trzcinka	S	Turze	S	Wola Cygowska	S	Wola Ręczajska	S	Wólka Dąbrowicka	S	Zabraniec
-Strachówka
-	S	Annopol	S	Borucza	S	Grabszczyzna	S	Jadwisin	S	Józefów	S	Kąty Czernickie	S	Kąty-Miąski	S	Kąty-Wielgi	S	Krawcowizna	S	Księżyki	S	Marysin	S	Młynisko	S	Osęka	S	Piaski	S	Rozalin	S	Równe	S	Ruda-Czernik	S	Strachówka	S	Szamocin	S	Szlędaki	S	Wiktoria	S	Zofinin
-	OL	Równe
-Powiat wyszkowski
-Wyszków
-	S	Deskurów	S	Drogoszewo	S	Fidest	S	Gulczewo	S	Kamieńczyk	S	Kręgi Nowe	S	Leszczydół-Działki	S	Leszczydół-Nowiny	S	Leszczydół-Podwielątki	S	Leszczydół-Pustki	S	Leszczydół Stary	S	Lucynów	S	Lucynów Duży	S	Łosinno	S	Natalin	S	Olszanka	S	Puste Łąki	S	Rybienko Nowe	S	Rybienko Stare	S	Rybno	S	Sitno	S	Skuszew	S	Ślubów	S	Świniotop	S	Tulewo	S	Tulewo Górne	S	Tumanek
-	P	Błonie	P	Brzeźniaki	P	Giziewiczka	P	Kokoszczyzna	P	Kółko	P	Loretto	P	Rozalin
-Brańszczyk
-	S	Białebłoto-Kobyla	S	Białebłoto-Kurza	S	Białebłoto-Stara Wieś	S	Brańszczyk	S	Budykierz	S	Dalekie-Tartak	S	Dudowizna	S	Knurowiec	S	Niemiry	S	Nowa Wieś	S	Nowe Budy	S	Nowy Brańszczyk	S	Ojcowizna	S	Poręba-Kocęby	S	Poręba Średnia	S	Przyjmy	S	Stare Budy	S	Trzcianka	S	Tuchlin	S	Turzyn	S	Udrzyn	S	Udrzynek
-	P	Bagienko	G	Budykierz	P	Dalekie	P	Dębienica	P	Gajówka Ciepła	P	Gajówka Natalin	P	Gajówka Trzcianka	P	Lipa-Gajówka	P	Niemiry-Gajówka	P	Poręba	P	Sierakowiec	P	Smolarnia	P	Ślepioty
-Długosiodło
-	S	Adamowo	S	Augustowo	S	Blochy	S	Budy-Przetycz	S	Chorchosy	S	Chrzczanka-Folwark	S	Chrzczanka Włościańska	S	Dalekie	S	Dębienica	S	Długosiodło	S	Grądy Szlacheckie	S	Grądy Zalewne	S	Jaszczułty	S	Kalinowo	S	Kornaciska	S	Lipniak-Majorat	S	Łączka	S	Małaszek	S	Marianowo	S	Nowa Pecyna	S	Nowe Bosewo	S	Nowa Wieś	S	Olszaki	S	Ostrykół Dworski	S	Ostrykół Włościański	S	Plewki	S	Prabuty	S	Przetycz-Folwark	S	Przetycz Włościańska	S	Sieczychy	S	Stara Pecyna	S	Stare Bosewo	S	Stare Suski	S	Stasin	S	Wólka Grochowa	S	Wólka Piaseczna	S	Zalas	S	Zamość	S	Znamiączki	S	Zygmuntowo
-	P	Gajówka Grabnik	P	Gajówka Lipniak-Majorat	P	Gajówka Zapole	P	Kabat	P	Lipnik	P	Pecynka	P	Sewerynka	P	Syropiast
-Rząśnik
-	S	Bielino	S	Dąbrowa	S	Gołystok	S	Grądy Polewne	S	Grodziczno	S	Janowo	S	Józefowo	S	Komorowo	S	Nowa Wieś	S	Nowe Wielątki	S	Nowy Lubiel	S	Nury	S	Ochudno	S	Osiny	S	Ostrówek	S	Plewica	S	Porządzie	S	Rogóźno	S	Rząśnik	S	Stary Lubiel	S	Wielątki	S	Wielątki-Folwark	S	Wincentowo	S	Wola Polewna	S	Wólka-Folwark	S	Wólka Lubielska	S	Wólka-Przekory	S	Wólka-Wojciechówek
-Somianka
-	S	Barcice	S	Celinowo	S	Henrysin	S	Huta Podgórna	S	Jackowo Dolne	S	Jackowo Górne	S	Janki	S	Jasieniec	S	Kręgi	S	Michalin	S	Nowe Kozłowo	S	Nowe Płudy	S	Nowe Wypychy	S	Ostrowy	S	Popowo Kościelne	S	Popowo-Letnisko	S	Popowo-Parcele	S	Skorki	S	Somianka-Parcele	S	Somianka Zaszosie	S	Stare Kozłowo	S	Stary Mystkówiec	S	Stare Płudy	S	Stare Wypychy	S	Suwin	S	Ulasek	S	Wielątki Rosochate	S	Wielęcin	S	Wola Mystkowska	S	Wólka Somiankowska	S	Zdziebórz
-	NS	Leśniczówka Popowo
-	NS	Leśniczówka Somianka
-	NS	Osiny
-Zabrodzie
-	S	Adelin	S	Anastazew	S	Basinów	S	Choszczowe	S	Dębinki	S	Gaj	S	Głuchy	S	Karolinów	S	Kiciny	S	Lipiny	S	Młynarze	S	Mostówka	S	Mościska	S	Niegów	S	Obrąb	S	Płatków	S	Podgać	S	Przykory	S	Słopsk	S	Wysychy	S	Zabrodzie	S	Zazdrość
-	NS	Fiszor
-	NS	Grzegorzewo
-Powiat zwoleński
-Zwoleń
-	S	Atalin	S	Barycz	S	Filipinów	S	Helenówka	S	Jasieniec-Kolonia	S	Jasieniec Solecki	S	Jedlanka	S	Józefów	S	Karolin	S	Koszary	S	Linów	S	Ługi	S	Męciszów	S	Mieczysławów	S	Mostki	S	Niwki	S	Osiny	S	Paciorkowa Wola Nowa	S	Paciorkowa Wola Stara	S	Podzagajnik	S	Strykowice Błotne	S	Strykowice Górne	S	Strykowice Podleśne	S	Sycyna Południowa	S	Sydół	S	Wólka Szelężna	S	Zielonka Nowa	S	Zielonka Stara
-	NS	Barycz Stara	NS	Barycz-Kolonia	NS	Bożenczyzna	NS	Celestynów	NS	Cyganówka	NS	Drozdów	NS	Helenów	NS	Karczówka	NS	Kopaniny	L	Linów	NS	Melanów	NS	Michalin	OL	Miodne	G	Motorzyny	L	Motorzyny	NS	Ostrowy	NS	Pałki	NS	Podlinówek	NS	Sosnowica	NS	Sycyna-Kolonia	NS	Sycyna Północna	NS	Szczęście	NS	Wacławów	G	Wacławów	NS	Zastocze
-Kazanów
-	S	Borów	S	Dębniak	S	Dębnica	S	Kazanów	S	Kopiec	S	Kowalków	S	Kowalków-Kolonia	S	Kroczów Mniejszy	S	Kroczów Większy	S	Miechów	S	Miechów-Kolonia	S	Niedarczów Dolny	S	Niedarczów Dolny-Kolonia	S	Niedarczów Górny	S	Niedarczów Górny-Kolonia	S	Ostrownica	S	Ostrownica-Kolonia	S	Ostrówka	S	Osuchów	S	Ranachów-Wieś	S	Ruda	S	Wólka Gonciarska	S	Zakrzówek-Kolonia	S	Zakrzówek-Wieś
-	P	Biedów	P	Budy	P	Gajówka Dobiec	P	Ignaców	P	Kępa	P	Leśniczówka Ruda	P	Łęg	P	Poduchowne	P	Rochalina	P	Stara Ostrownica	P	Władysławów
-Policzna
-	W	Aleksandrówka	W	Andrzejówka	W	Annów	W	Antoniówka	W	Biały Ług	W	Bierdzież	W	Chechły	W	Czarnolas	W	Czarnolas-Kolonia	W	Dąbrowa-Las	W	Florianów	W	Franków	W	Gródek	W	Helenów	W	Jabłonów	W	Jadwinów	W	Kolonia Chechelska	W	Kuszlów	W	Łuczynów	W	Ługowa Wola	W	Patków	W	Piątków	W	Policzna	W	Stanisławów	W	Świetlikowa Wola	W	Teodorów	W	Wilczowola	W	Władysławów	W	Wojciechówka	W	Wólka Policka	W	Wygoda	W	Zawada Nowa	W	Zawada Stara
-Przyłęk
-	S	Andrzejów	S	Babin	S	Baryczka	S	Grabów nad Wisłą	S	Helenów	S	Ignaców	S	Kulczyn	S	Krzywda	S	Lipiny	S	Lucimia	S	Łagów	S	Łaguszów	S	Ławeczko Nowe	S	Ławeczko Stare	S	Mierziączka	S	Mszadla Dolna	S	Mszadla Nowa	S	Mszadla Stara	S	Okrężnica	S	Pająków	S	Przyłęk	S	Rudki	S	Stefanów	S	Szlachecki Las	S	Wysocin	S	Wólka Łagowska	S	Wólka Zamojska	S	Załazy	S	Zamość Nowy	S	Zamość Stary
-	NS	Borowiec
-	O	Kulczyn
-	NS	Ruda
-Tczów
-	S	Bartodzieje	S	Borki	S	Brzezinki Nowe	S	Brzezinki Stare	S	Janów	S	Józefów	S	Julianów	S	Kazimierzów	S	Lucin	S	Podzakrzówek	S	Rawica Nowa	S	Rawica Stara	S	Tczów	S	Tynica	S	Wincentów
-	P	Rawica-Józefatka
-	P	Rawica-Kolonia
-	P	Wilczy Ług
-Powiat żuromiński
-Bieżuń
-	S	Adamowo	S	Bielawy Gołuskie	S	Dąbrówki	S	Dźwierzno	S	Gołuszyn	S	Karniszyn	S	Karniszyn-Parcele	S	Kobyla Łąka	S	Kocewo	S	Mak	S	Małocin	S	Myślin	S	Pozga	S	Sadłowo	S	Sadłowo-Parcele	S	Sławęcin	S	Stanisławowo	S	Stawiszyn-Łaziska	S	Stawiszyn-Zwalewo	S	Strzeszewo	S	Trzaski	S	Wieluń	S	Wilewo-Pełki	S	Władysławowo	S	Zgliczyn Pobodzy
-	K	Kobyla Łąka
-	NS	Marysin
-Żuromin
-	S	Będzymin	S	Brudnice	S	Chamsk	S	Cierpigórz	S	Dąbrowa	S	Dąbrowice	S	Dębsk	S	Franciszkowo	S	Kliczewo Duże	S	Kliczewo Małe	S	Kosewo	S	Kruszewo	S	Młudzyn	S	Nowe Nadratowo-Stare Nadratowo	S	Olszewo	S	Poniatowo	S	Raczyny	S	Rozwozin	S	Rzężawy	S	Sadowo	S	Tadajówka	S	Wiadrowo	S	Wólka Kliczewska
-Kuczbork-Osada
-	S	Bagienice Duże	S	Bagienice Małe	S	Bagienice Nowe	W	Chodubka	S	Chojnowo	S	Gościszka	W	Kozielsk	S	Krzywki-Bratki	S	Kuczbork-Wieś	S	Kuczbork-Osada	S	Łążek	W	Mianowo	S	Nidzgora	W	Niedziałki	S	Nowa Wieś	S	Olszewko	S	Osowa	W	Przyspa	S	Sarnowo	S	Szronka	W	Wygoda	S	Zielona
-Lubowidz
-	S	Bądzyn	S	Cieszki	S	Dziwy	S	Galumin	S	Huta	S	Jasiony	S	Kozilas	S	Konopaty	S	Kipichy	S	Lubowidz	S	Łazy	S	Mały Las	S	Mleczówka	S	Obórki	S	Osówka	S	Płociczno	S	Purzyce	S	Przerodki	S	Ruda	S	Rynowo	S	Sinogóra	S	Sztok	S	Straszewy	S	Suchy Grunt	S	Syberia	S	Toruniak	S	Wronka	S	Wylazłowo	S	Zatorowizna	S	Zdrojki	S	Zieluń
-	S	Zieluń-Osada
-	S	Zieluń-Wieś	S	Żelaźnia	S	Żarnówka
-	P	Biały Dwór	K	Borczyny	P	Goliaty	P	Kaleje	P	Lisiny	P	Pątki	K	Rudniwa
-Lutocin
-	S	Boguszewiec	S	Chrapoń	S	Chromakowo	S	Dębówka	S	Elżbiecin	S	Felcyn	S	Głęboka	S	Jonne	S	Lutocin	S	Mojnowo	S	Przeradz Nowy	S	Obręb	S	Parlin	S	Pietrzyk	S	Przeradz Mały	S	Przeradz Wielki	S	Seroki	S	Siemcichy	S	Swojęcin	S	Szoniec	S	Zimolza
-	NS	Jakubowo	NS	Psota	NS	Rak	NS	Starcz	NS	Szczypiornia
-Siemiątkowo
-	S	Antoniewo	S	Budy Koziebrodzkie	S	Dzieczewo	S	Goszczk	S	Gradzanowo Kościelne	S	Gutkowo	S	Krzeczanowo	S	Łaszewo	S	Nowa Wieś	S	Nowe Budy Osieckie	S	Nowopole	S	Osowa Drobińska	S	Pijawnia	S	Rostowa	S	Siciarz	S	Siemiątkowo	S	Siemiątkowo-Rogale	S	Sokołowy Kąt	S	Stare Budy Osieckie	S	Suwaki	S	Wojciechowo	S	Wola Łaszewska	S	Ziemiany
-	P	Chomęc	P	Chrapoń	P	Cyndaty	P	Gutkowo	P	Dzban	P	Julianowo	P	Karolinowo	P	Kolonia Siemiątkowska	P	Łaszewo-Wietrznik	P	Osowa Krzeczanowska	P	Osowa Łaszewska	P	Siemiątkowo-Kosmy	P	Siemiątkowo-Rechty	P	Siemiątkowo-Siódmaczka	P	Wolany	P	Zaborze Krzeczanowskie	P	Złe Borki
-Powiat żyrardowski
-Mszczonów
-	S	Adamowice	S	Badowo-Dańki	S	Badowo-Mściska	S	Badów Górny	S	Bobrowce	S	Ciemno-Gnojna	S	Gąba	S	Grabce Józefpolskie	S	Grabce-Towarzystwo	S	Gurba	S	Janówek	S	Kamionka	S	Kowiesy	S	Lindów	S	Lutkówka	S	Lutkówka-Kolonia	S	Marianka	S	Marków-Towarzystwo	S	Nosy-Poniatki	S	Olszówka -Nowy Dworek	S	Osuchów	S	Pawłowice	S	Piekarowo	S	Piekary	S	Sosnowica	S	Strzyże	S	Suszeniec	S	Świnice	S	Wręcza	S	Wygnanka	S	Wymysłów	S	Zbiroża	S	Zimna Woda	S	Zimnice
-	NS	Adamówek	NS	Baraki Osuchowskie	NS	Bronisławka	NS	Bronisławów	NS	Budy-Strzyże	NS	Budy-Zasłona	NS	Chudolipie	NS	Czekaj	NS	Dębiny Osuchowskie	NS	Długowizna	NS	Dwórzno	NS	Edwardowo	NS	Grabce Wręckie	NS	Huta Piekarska	NS	Kaczków	NS	Kowiesowo	NS	Lublinów	NS	Lutkówka Druga	NS	Małachowszczyzna	NS	Marków-Świnice	NS	Michalin	NS	Nowe Poręby	NS	Olszewek	NS	Osuchów-Kolonia	NS	Pieńki Osuchowskie	NS	Pieńki-Strzyże	NS	Podlindowo	NS	Pogorzałki	NS	Powązki	NS	Tłumy	NS	Władysławów	NS	Wólka Wręcka	NS	Zdzieszyn
-Puszcza Mariańska
-	S	Aleksandria	S	Bartniki	S	Bednary	S	Biernik	S	Budy Zaklasztorne	S	Długokąty	S	Długokąty Małe	S	Górki	S	Grabina Radziwiłłowska	S	Huta Partacka	S	Kamion	S	Karnice	S	Korabiewice	S	Lisowola	S	Michałów	S	Mrozy	S	Nowa Huta	S	Puszcza Mariańska	S	Radziwiłłów	S	Sapy	S	Stary Karolinów	S	Stary Łajszczew	S	Studzieniec	S	Waleriany	S	Zator
-	P	Budy-Kałki	OL	Budy-Kałki	P	Budy Wolskie	P	Emilianów	P	Gzdów	P	Małe Łąki	P	Niemieryczew	P	Nowy Karolinów	P	Nowy Łajszczew	P	Olszanka	P	Patoki	P	Pniowe	P	Stara Huta	P	Wilczynek	P	Wincentów	P	Wola Polska	P	Wycześniak	P	Wygoda 	P	Żuków
-Radziejowice
-	S	Adamów-Wieś	S	Adamów-Parcel	S	Benenard	S	Budy Józefowskie	S	Budy Mszczonowskie	S	Chroboty	S	Kamionka	S	Korytów	S	Korytów A	S	Kuklówka Radziejowicka	S	Kuklówka Zarzeczna	S	Kuranów	S	Krze Duże	S	Krzyżówka	S	Nowe Budy	S	Pieńki-Towarzystwo	S	Podlasie	S	Radziejowice	S	Radziejowice-Parcel	S	Słabomierz	S	Stare Budy Radziejowskie	S	Tartak Brzózki	S	Zazdrość	S	Zboiska
-Wiskitki
-	S	Aleksandrów	S	Antoniew	S	Babskie Budy	S	Cyganka	S	Czerwona Niwa	S	Czerwona Niwa-Parcel	S	Duninopol	S	Działki	S	Feliksów	S	Franciszków	S	Guzów	S	Guzów-Osada	S	Hipolitów	S	Janówek	S	Jesionka	S	Józefów	S	Kamionka	S	Łubno	S	Miedniewice	S	Morgi	S	Nowa Wieś	S	Nowy Drzewicz	S	Nowe Kozłowice	S	Nowy Oryszew	S	Oryszew-Osada	S	Podoryszew	S	Popielarnia	S	Prościeniec	S	Różanów	S	Smolarnia	S	Sokule	S	Stare Kozłowice	S	Starowiskitki	S	Starowiskitki-Parcel	S	Stary Drzewicz	S	Tomaszew	S	Wiskitki	S	Wola Miedniewska
-	NS	Babski Borek	NS	Kamionka Mała	NS	Miedniewice-Gajówka	NS	Miedniewice-Kolonia	NS	Miedniewice-Łąki	NS	Miedniewice-Parcela	NS	Podbuszyce	NS	Siarkowiec	NS	Sokule Drugie	NS	Sokule Pierwsze	NS	Stara Wieś	NS	Stary Hipolitów
